@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
+<xsl:variable name="filename" select="'AG17_2008'"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -59,17 +59,17 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.21 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'kal'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -83,6 +83,7 @@
 <xsl:variable name="mlang_fin" select="''"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
+<xsl:variable name="mlang_dan" select="'dan'"/>
 <xsl:variable name="mlang_oth" select="''"/>
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
@@ -97,6 +98,7 @@
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
+<xsl:variable name="para_dan" select="'dan'"/>
 <xsl:variable name="para_fkv" select="''"/>
 
 
@@ -109,6 +111,7 @@
 <xsl:variable name="swelang" select="'swe'"/>
 <xsl:variable name="finlang" select="'fin'"/>
 <xsl:variable name="englang" select="'eng'"/>
+<xsl:variable name="danlang" select="'dan'"/>
 <xsl:variable name="gerlang" select="'fin'"/>
 
 
