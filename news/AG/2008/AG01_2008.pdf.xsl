@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -85,6 +85,8 @@
 <xsl:variable name="mlang_eng" select="''"/>
 <xsl:variable name="mlang_dan" select="'1'"/>
 <xsl:variable name="mlang_kal" select="''"/>
+<xsl:variable name="mlang_isl" select="''"/>
+<xsl:variable name="mlang_fkv" select="''"/>
 <xsl:variable name="mlang_oth" select="''"/>
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
