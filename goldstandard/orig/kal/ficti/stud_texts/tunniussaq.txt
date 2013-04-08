@@ -1,0 +1,437 @@
+1. Indholdsfortegnelse
+1Aallaqqaasiut	1
+1.1Suliassiissutip ilisaritinnera	2
+2Misissuinermi periuseq - Paasissutissanik katersineq	2
+3Paasissutissat atuagarsornermut tunngasut pillugit	2
+3.1Aspekt – nalinginnaasumik oqaasilerinerup iluani	3
+3.1.1Oqaluutit allanngujuitsumik isumalimmik imallit	5
+3.2Kalaallisut oqaatsini oqaluutit sannaat	6
+3.3Kalaallisut oqaatsini aspektip atugaanera	8
+3.3.1Kalaallisut oqaatsini pisut oqaluutip nalunaagai allanngujuitsumik isumalimmik imallit	9
+4Misissuinerit	10
+4.1Oqaluutit nagguii naammassiffeqartuttut isikkullit allanngujuitsunngorsinnaappat?	10
+4.2Uiguutit nagguii naammassisutut isikkullit allanngujuitsunngorsinnaappat?	11
+4.3Oqaluutit nagguii arlaannik sunermik imallit allannguijuitsunngorsinnaappat?	16
+4.4Oqaluutit nagguii ataasiarlutik pisartunik isumallit allanngujuitsunngorsinnaappat?	16
+4.5Oqaluutit nagguii allanngujuitsuusut uiguutinik allanngujuitsunngortitsisartunik ilaqqineqarsinnaappat?	17
+5Misissukkanik nalilersuineq	17
+6Litteraturliste:	18
+7Ilanngussat	18
+
+1 Aallaqqaasiut
+Immikkoortut pingaarnerit oqaasilerinermut tunngasut oqaluutinut pigitinneqartartut assigiinngitsut arlaqarput (grammatiske kategorier for verber), ilisimaneqarnernullu ilaatigut makku ilaapput: 
+tempus - piffissamut oqarfimmut naleqqiullugu pisup piffissaata qanoq ittuuneranik ersersitsissut, 
+modus – oqaluutaassut, 
+person - kinaassusersiutinut tunngasoq
+numerus - pineqartut qassiunerinut tunngasoq, imalt. qassiussusersiut, il.il.
+
+Immikkoortut taakku saniatigut kalaallisut oqaatsitsinni ilisarsaanngitsoq, oqaatsillu ilaanni ersarin-nerusumik atorneqartartoq, uffa oqaatsini tamani atuukkaluartoq, tassaavoq aspektimik taaneqartar-toq, pisup oqaluutip nalunaagaata (verbalhandlingen/begivenheden) pissusaanut piffissamillu qanoq atuineranik tunngassuteqartoq. Bernard Comrie atuakkiamini ´Aspect´ 1976-imeersumi ima nassui-aasersimasaa: “(...) aspects are different ways of viewing the internal temporal constituency of a situation.” (Comrie, 1976, 3)
+Tassagooq; pisunut oqaluutit nalunaagaannut pulasutut illuni piffissamik nukimmilluunniit atuiso-qarnera /atuisoqannginnera pisunut allanut sanilliullugu nalunaarniartarlugu, oqalunnermili piffissa-mut attuumassuteqarani. (Trondhjem, 2008, 28) Allatut oqaatigalugu, aspektip nalunaartarpaa pisoq oqaluutip nalunaagaa allanngujuitsutut, naammassiffeqartutut, naammassisutut, ingerlaavartutut, ataasiaannaq pisutut, uteqattaartutut, allatulluunniit isigineqassanersoq.
+
+Oqaatsini aspekt assigiinngitsutigut malunniuttarpoq. Siullermik ersittumik1, morfemit (oqaatsit sannaat minnerpaat immikkut isumallit) atorlugit (Hagedorn, 1987, 1), soorlu derivationit (uiguutit) fleksionillu (oqaatsit naaneri) atorlugit, imaluunniit perifrase, tassa oqaatiginiakkat allanngortillugit aspekt ersersinniarneqartarluni. (Comrie, 1976, 3)(Bybee, 1985, 30-31)(Trondhjem, 2008, 28)
+Taakku saniatigut ersinngitsumik2, oqaluutinut tamanut immikkoortitsissutaasinnaasunik isumma-minnut tunngasuteqartunik pissuseqarput (semantiske egenskaber/inhærente temporale egenskaber) (Hagedorn, 1987, 1). Pissutsit tamakku oqaluutip nagguiani isumaviata (verbalstammens betydning) saniatigut piffissap qanoq atorneqarneranut tunngasutut nassuiarusuppakka, taallugit oqaluutit nagguiini isumaqqaatit (verbernes inhærente aspektuelle betydninger = leksikalske aspekter = aktionsart) (Comrie, 1976, 7). 
+Aspektit tungaasigut soqutigisakka pisut oqaluutip nalunaagaanut allanngujuitsunut tunngassuteqarput (tilstandsverber). Taamaattumik allaaserisami uani sammissallugit aalajangersimavakka kalaallisut uiguutit ataasiakkaat oqaluutit nagguiinik assigiinngitsunik pissuseqartunik allanngujuitsunngortitsisartut. 
+
+Uiguutillu pineqartut makkuupput:
+´qqa´, ´nga´, aamma ´(u)ma´, Karen Hagedornip Eskimologimi Hovedfagsspecialeliamini, ´Aspekt i Vestgrønlandsk´ 1987-imeersumit uiguutit statisk aspektimik (allanngujuitsumik isumalittut) allaaserisai. Aammalu ´sima´, Naja Trondhjemip Eskimologimi Ph.d-afhandlingiliamini ´Markering af tid i grønlandsk sprog med særlig fokus på fortid´ 2008-meersumi, uiguutitut aspektimik ilaqartutut allaaserisaa, uiguullu isumaqqaatitut perfektiv (ilivitsumik isiginninneq) aammalu tilstand (allanngujuitsoq) aspektitut imaralugit. (Trondhjem, 2008, 88)
+
+Uiguutit sammissallugit aalajangiussakka sisamaapput, taakkulu uiguutit oqaluutinut qanoq ittumik pissusilinnut imaluunniit oqaluutinut qanoq ittumik isumaqqaateqartunut atatilerneqarsinnaanersut misissorneqassapput, taamaalilluni aamma uiguutit ataasiakkaat pineqartut qanoq atorluarneqartigi-sinnaanerat  (produktivitet) paasineqassammat. 
+Ilisimalluinnarpara Karen Hagedornip uiguutit ilaai allaaseriniakkakka allaaserereersimammagit, isummat aspektinut tunngasut eqqarsaatigalugit, uiguutit ataasiakkaat qanoq atorluarneqarsinnaa-tiginerat eqqarsaatigalugit aammalu uiguutit sorliit oqaluutinut sorlernut atassuserneqarsinnaanersut allaaserisimallugit. Taamaattumik allaaserisakka Karen Hagedornip allaaserisaanut assingusinnaap-put apeqqutaalluni misissukkama qanoq inerneqarumaarnissai. 
+Aammalu ilisimalluinnarpara misissugassakka Naja Trondhjemip ph.d. afhandlingiliamini allaaseri-saminut ilanngussimammagit. Allaaserisamali qularnanngitsumik Karen Hagedornip Naja Trond-hjemillu allaaserisaanit allaassutigissavaa misissugassakka imaqarmata oqaluutit nagguii assigiin-ngitsut allanngujuitsumik isumaqalersimatillutik immikkoortunut assigiinngitsunut immikkoorti-terneqarsinnaanersut misissorniarakkit, tassalu allaaserisassama taakkunannga allaassutissaat. 
+Sammisassat taakku aallaavigalugit allaaserisassama suliassartaa imaattumik imaqassaaq:
+
+
+1.1 Suliassiissutip ilisaritinnera
+1. Oqaluutit nagguii sorliit imaluunniit qanoq ittumik imallit imaluunniit isumaqqaatillit, uiguutinik allanngujuitsunngortitsisunik ukuninnga ´qqa´, ´nga´, ´(u)ma´, aamma ´sima´ ajornaquteqanngitsumik ippinnanngitsumillu ilaneqarsinnaappat?
+2. Oqaluutit assigiinngitsut allanngujuitsunngorsimasut immikkoortiterneqarsinnaappat? 
+3. Immikkoortiterneqarsinnaappata suut immikkoortiterinermi tunngaviuppat?
+
+2 Misissuinermi periuseq - Paasissutissanik katersineq
+
+Misissuineq paasissutissanik pingaarnernik, tassalu nammineq misissukkanik tunngaveqarluni suliaavoq paasissutissat atuagarsornermut tunngasut tunuliaqutaralugit. Paasissutissat pingaarnerit takussutissiami nr. 1-mi takuneqarsinnaapput. Paasissutissat atuagarsornermut tunngasut immik-koortumi ´Paasissutissat atuagarsornermut tunngasut´-ni allaaserineqarput. Paasissutissat pingaar-nerit nammineq misissukkat oqaluutit nagguiinik (227-it missaaniittunik) imaqarput. Oqaluutit nagguii pineqartut isumaviisa (verbalstammernes betydninger) qallunaatut nutsernerat ilanngun-neqarpoq, kingornatigullu oqaluutip nagguiani isumaqqaatit (verbernes inhærent aspektuelle betyd-ninger) ilanngunneqarlutik aspektinullu assigiinngitsunut immikkoortiterneqarlutik.
+
+Uanga imminut paasissutissiisutut (informant) atorlunga misissuineq ingerlappara, inunnik toqqaan-nartumik apersuineq apeqqutinilluuniit pappialanngortitanik apersuinermik tunngaveqarnanga, isumaqarama kalaallisut oqaatsit ilitsoqqussaralugit atugarinerat naammattoq. Taamaalillunga uiguutit suut oqaluutillu nagguii suut imminnut ataqatigiissinnaanerat tunngavilimmik nalilersor-sinnaagakkit isornartorsiorsinnaallugillu. 
+
+3 Paasissutissat atuagarsornermut tunngasut pillugit
+Paasissutissat aspektimut tunngasut teoretikerit assigiinngitsut allaaserinikuusaat immikkoortumi ´Paasissutissat atuagarsornermut tunngasut´-mi sammineqassapput. 
+Teoretikerip Bernard Comriep nalinginnaasumik aspekt pillugu atuakkiamini ‘Aspect’-imi allaaseri-sai pingaarnertut tunuliaqutaralugit, saniatigut Karen Hagedornip 1987-imi ph.d afhandlingiliamini ‘Aspekt i Vestgrønlandsk’-imi allaaserisai, aammalu Naja Trondhjemip ph.d. afhandlingiliamini ‘Markering af tid i grønlandsk sprog med særlig fokus på fortid’-imi allaaserisai tunngavigalugit. Aammalu William Croftip allaaserisai aspektimut tunngasut assigiinngitsut marluk oqaluutit allanngujuitsutut isumalimmik imallit immikkoortiternissaanut pingaarnertut najoqqutaralugit tunngaviginiarlugit. Ilanngullugit kalaallisut ordbogit assigiinngitsut misissuininni tunngavittut atorpakka. 
+
+3.1 Aspekt – nalinginnaasumik oqaasilerinerup iluani
+Aspekt ilaanneeriarluni tempusimut paarlaanneqartarpoq, immikkoortut assigiinngitsut taakku marluk piffissamut tunngassuteqarneri pissutigalugu. Taamaattumik erseqqissaatigissavara aspekt tassaammat, oqaluummi pisup nalunaarneqartup iluanut ´pulalluni´ isiginniffik, tassunga inissilluni aspekt ´takuneqarsinnaasoq´, taavalu tempusip aspektimit allaanerussutigalugu oqaluutip anin-neqarnerani piffissap qanoq ittuunera pineqartarmat. Tassa aspektip tempusillu assigiinngissutigaat aspekt pisup sivisussusaanut tunnganerusumik nalunaaruteqartarami (situation-internal time) tempusili piffissamut tunngatillugu qaqugukkut pisup pineranut tunngatinneqartarluni (situation-external time) (Comrie, 1976, 5). 
+Bernard Comriep tempus pillugu ima nassuiaateqarpoq: “Tense relates the time of the situation referred to to some other time, usually to the moment of speaking” (Comrie, 1976, 1-2).
+
+Iluamik immikkoortissinnaajumallugu tempus aspektimit Comriep tempus pillugu nassuiaatai imaattut ilannguppakka:  “The commonest tenses found in languages – though not all languages distinguish these three tenses, or indeed distinguish tense at all – are present3, past4, and future5 (...) Since tense locates the time of a situation relative to the situation of the utterance, we may describe tense as deictic.” (Comrie, 1976, 2)
+
+Oqaluutini pisut nalunaagaasa piffissaat oqarfiup piffissaanut naleqqiunneqartarnerat pissutigalugu piffissamik naleqqiussisinnaanerit assigiinngitsut marluupput. 
+Siullermik, piffissaq naleqqiunneqar-sinnaavoq oqaaseqatigiinni oqaluutip pingaarnerup pisuata nalunaagaa piffissamut oqarfimmut naleqqiullugu (absolut tid reference), pisoq pereersuunersoq, maannakkut pisuunersoq imaluunniit siunissami pisussaanersoq apeqqutaatinnagit (Comrie, 1976, 2), assersuutigalugu oqaaseqatigiinnik makkuninnga atuinerni: 
+
+1. “arsaq isimmippara” (-------X1-0------- >)
+2. “ippassaq siallerpoq” (--X1------0------ >)
+0 = oqarfiup piffissaa, X1= oqaluutip pingaarnerup nalunaagaani pisup piffissaa.
+
+Oqaaseqatigiinnik assersuutini 1 aamma 2-mi, piffissaq naleqqiunneqarpoq oqaaseqatigiinni oqaluutit pingaarnerit (“isimmippara” aamma “siallerpoq”) pisuisa nalunaagai oqarfiup piffissaan-nut naleqqiullugit. 
+
+Aappaattut, piffissaq naleqqiunneqarsinnaalluni oqaaseqatigiinni oqaluutip pingaarnerup pisuata nalunaagaa pisumut allamut, tassa oqarfiup piffissaata ungataaniittumut, oqaaseqatigiinni oqaluutip minnerup pisuata nalunaagaata piffissaanut, naleqqiunneqarsinnaalluni (relativ tid reference) (Comrie, 1976, 2), pisoq pereersuunersoq, maannakkut pisuunersoq imaluun-niit siunissami pisussaanersoq apeqqutaatinnagit, assersuutigalugu oqaaseqatigiinnik makuninnga atuinerni: 
+
+3. “puisimik tikiussimmat pilappunga” (----X2, X1-----------0------- >)
+4. “puisimik tikiussippat pilassaanga”  (-----------0----X2, X1------- >)
+0 = oqarfiup piffissaa, X1 = oqaluutip pingaarnerup nalunaagaani pisup piffissaa, X2 = oqaluutip minnerup nalunaagaani pisup piffissaa.
+
+Oqaaseqatigiinnik assersuutini 3 aamma 4-mi, piffissaq naleqqiunneqarpoq oqaaseqatigiinni oqaluutip pingaarnerup pisuata nalunaagaa pisumut allamut, tassalu oqaaseqatigiinni oqaluutip minnerup pisuata nalunaagaa piffissamut, tassalu oqarfiup piffissaata ungataaniittumut, naleqqiunneqarluni.
+
+Aspektip tempusimit allaanerussutigilluinnarpaa, aspekt piffissamik naleqqiussinermik tunngave-qannginnami, kisiannili oqaluummi pisup nalunaarneqartup iluanut isertutut illuni piffissamik qanoq atuinera ´qimerloorneqartarluni/isiginnaarneqartarluni´. (Comrie, 1976, 5)
+
+Oqaluutit nagguiisa isumaqqaatai ‘uuttuutit’ assigiinngitsut pingasut najoqqutaralugit aalajanger-neqartarput, tamatumalu kingorna pisut aspektinut assigiinngitsunut immikkoortinneqartarlutik. Uuttuutit assigiinngitsut pingasut ukuupput:
+1. uuttuut dynamisk/statisk - [+/- statisk]: nukimmik atuinera allanngujuitsuuneraluunniit apeqqutaatillugu6.
+a. [- statisk] oqaluummi pisup nalunaagaa nukimmik atuinermik imaqarpat dynamiskiusarluni, 
+b. [+ statisk] oqaluummili pisup nalunaagaa allanngujuitsuuppat statiskiusarluni. 
+2. uuttuut durativitet - [+/- punktuel] imalt. [+/- dynamisk]: piffissamik ingerlaavartumik atuinera atuinnginneraluunniit apeqqutaatillugu7.
+a. [- punktuel] imalt. [+ dynamisk] oqaluummi pisup nalunaakkap piffissaa ingerlaan-nartutut isikkoqarpat durativiusarluni, 
+b. [+ punktuel] imalt. [- dynamisk] oqaluummi pisup nalunaagaa piffissami aalajanger-simasumi pisuuppat, iluani ingerlaarneqarani, punktueliusarluni (Comrie, 1976, 41-51) 
+3. Uuttuut telicitet - [+/- telisk]: killilimmik killeqanngitsumilluunniit atuinera apeqqutaatillugu.
+a. [+ telisk] oqaluummi pisup nalunaagaata piffissaa killeqarpat teliskiusarluni8, 
+b. [- telisk] oqaluummi pisup nalunaagaata piffissaa killeqanngippat ateliskiusarluni.
+(Comrie, 1976, 41-51)
+
+Immikkoortitsissutit qulaani pineqartut tunngavigalugit Comrie pisunut assigiinngitsunut pingasunut ima immikkoortitsivoq:
+ Situationer:
+State
+Dynamic situations:
+Event: “a dynamic situation as a single complete whole...means a dynamic situation viewed perfectively”
+Process: “the internal structure of a dynamic situation (there are thus no punctual processes)...dynamic situation viewed imperfectively” (Comrie, 1976, 41-51)
+
+Taakkuli aamma immikkoortitsissutit tunngavigalugit Croft ima pisunut assigiingitsunut sisamanut immikkoortitsivoq, taakkulu misissugassanni najoqqutariniarlugit aalajangiussimavakka: 
+1. Tilstand, oqaluummi pisup nalunaagaa allanngujuitsumik imalik, 
+2. Aktivitet, oqaluummi pisup nalunaagaa arlaannik sunermik imalik, 
+3. Accomplishment, oqaluummi pisup nalunaagaa sunermik imalik ersarissumik naammassiffeqartoq,
+4. Achievement, oqaluummi pisup nalunaagaa angusaqarnermik imalik.
+(Croft, 2010, 1-6)
+Itinerusumik nassuialaarlugit: 
+Siullertut, oqaluummi pisut nalunaarneqartarput allanngujuitsutut imaluunniit nukimmik atuisutut isigineqassanersut apeqqutaatillugu, taakkunani isiginiarneqartarluni oqaluummi pisup nalunaagaa 
+arlaannik allannguinermik (dynamisk) imaluunniiit allanngortoqannginnermik imaqarnersoq (statisk). 
+Aappaattut, oqaluummi pisup nalunaagaa piffissami aalajangersimasumi pisuunersoq (punktuel), imaluunniit piffissamik ingerlaannartumik atuisuunersoq (durativ) aalajangerniarlugu apeqqutaa-sarpoq, oqaluummi pisup nalunaagaa arlaannik sunermik imaqartup (dynamisk) piffissaa ingerlaar-tuusoq killilimmik atuisuunersoq  (achievement) imaluunniit piffissamik aalajangersimasumi pisuu-nersoq (achievement). 
+Pingajuattut, oqaluummi pisup nalunaagaa piffissami aalajangersimasumi pinersoq imaluunniit oqaluummi pisup nalunaagaa piffissamik ingerlaannartumik atuisuunersoq aalajangerniarlugu, oqaluummi pisup nalunaagaa allannguinermik imaqartoq (dynamisk) piffissamik killilimmik atuip-pat oqaluutit sunermik imaqartut ersarissumik naammassiffeqartunut (accomplishment) inissinne-qartarlutik imaluunniit oqaluummi pisup nalunaagaa allannguinermik imaqartoq killeqartorlu angusaqarnermut tunnganersoq (achievement) nalunnaarneqartarluni. Oqaluummi pisoq nalunaagaq allanngujuitsuuppat, imaluunniit oqaluummi pisoq nalunaagaq arlaannik sunermik imaqarpat, pisunut nalunnaakkanut aalajangersimasumik pisartunut immikkoortiterinermi uuttuut [-punktuel] pisariaqarneq ajorpoq, piffissamik annertuumik atuisarneri pissutigalugu. (Comrie, 1976, 41-51) (Croft, 2010, 1-6)
+
+3.1.1 Oqaluutit allanngujuitsumik isumalimmik imallit
+Oqaluut allanngujuitsuusoq allanngornavianngilaq arlaannik nukimmik allanngortitsisumik piso-qanngippat. Oqaluutit nukimmik atuisunik imallit allanngujuitsunngortitsisinnaapput taamatuttaarlu allanngujuitsuujunnaarsitsisinnaallutik. (Comrie, 1976, 49-50)
+
+
+3.1.1.1 Oqaluutit allanngujuitsumik isumalimmik imallit immikkoortinneqarneri
+Oqaluutit allanngujuitsunik isumalinnik imallit William Croft malillugu assigiinngitsut pingasuup-put, tassalu transitory states (allanngujuitsuugallartut), permanent states (allanngujuitsuujuaannar-tut) aammalu point states (piffimmi aalajangersimasumi allanngujuitsuusut). Allanngujuitsuujuaan-naartut assigiinngitsunut marlunnut immikkoorteqqippai, tassalu acquired permanent states (allanngujuitsuujuaannarneq anguneqarsimasoq) aammalu inherent permanent states (allanngujuitsuviit). (Croft, 2009, 7)
+
+Ataanilu takussutissiami assigiinngitsut taakku sisamat takuneqarsinnaapput:
+
+(Croft, 2009, 7)
+Oqaluutit allanngujuitsuugallartutut isumallit allanngujuitsuujuaannanngillat, tassa piffissami killi-limmi allanngujuitsuusarlutik imaaliallaannarlu allanngujuitsuunerat unitsinneqarsinnaalluni ima-luunniit allanngujuitsumik allamik pilersitsisoqarsinnaalluni. Soorlu takussutissiami assersuutitut takuneqarsinnaasoq: The door is open (matu ammavoq). 
+Matu imaaliallaannaq ammanera unitsinneqarsinnaavoq, tassa matu matugaanni. Tamanna kalaallisut oqaatitsinni pisinnaavoq oqaatsit imalt. oqaatsit sannaat unititsinermik pissuseqartut atorlugit (terminative). Assersuutigalugu uiguutit unitsitsinermik isumaqartut atorlugit 
+(‘junnaar’  ‘ammajunnaarpoq’), imalt. oqaluutit allanngujuitsup pineqartup akerlianik isumallit atorlugit. Kisiannili taakku oqaluutit naammasisutut isikkoqartariaqarput (achievement), assersuu-tigalugu ‘matuvoq’. Oqaluutip naammassisutut isikkullip pereerneratigut allanngujuissuseq alla pilersinnaavoq, soorlu ‘matu matoqqavoq’ (the door is closed). (Croft, 2009, 8)
+
+Oqaluutit allanngujuitsuujuaannaartunik isumallit piffissap sinnerani allanngujuitsuusarput, taamaattorli allanngujuissuseq pilersimasuusinnaalluni, tassa anguneqarsimasuusinnaalluni (acquired permanent states) imaluunniit allanngujuissuseq pileqqaarnermiit allanngujuitsuujuannarsimasinnaalluni (inherent permanent states) allanngortinneqarsinnaanngitsoq. 
+Allanngujuitsuusut taakku marluk allanngujuissuseq pineqartoq piunertik tamaat attattussaallugu. Allanngujuitsuujuaannarnerup anguneqarsimanera takussutissiami assersuuteqartinneqarpoq ima: The window is shattered (igalaaq aserorpoq). Nalunngilarput igalaaq sequminneqartilluni igalaami-neeqqat amerlasuut pilersittarai, qanorluunniillu katersorlugit katiteraluarutsigit igalaaq aserorsima-juaannartussaalluni. Taamaalillunilu allanngujuissuseq, tassa aserorsimaneq igalaap qaqugumul-luunniit attattussaallugu katiterneqaraluaruniluunniit. Allalli aserorsimagaluarlutik iluarsineqar-sinnaapput aserorsimagaluarneralu malunnarunnaavissinnaalluni, taamaattumillu aserorsimaneq allanngujuitsuujuaannarani aamma allanngujuitsuugallarsinnaalluni, tassa piffissami killilimmi. Aserorsimaneq aserujuitsuugallarnersoq aserujuitsuujuaannarnersorluunniit aalajangissagaanni oqaaseqatigiinni qanoq ittuni inissisimanera apeqqutaasarpoq. (Croft, 2009, 8)
+ 
+Allanngujuitsuujuaannartut aappaat, tassa allanngujuitsuiusut (inherent permanent states) tassaapput suup pineqartup pissusii, ilisarnaatai allalluunniit allanngortinneqarsinnaanngitsut. Takussutissiami assersuutigineqarpoq: She is French (franskiuvoq). Tamanna allanngujuissuseq pileqqaarnermit attassaavoq allanngortinneqarsinnaanngitsoq, pineqartorlu inuunini naallugu franskiujuassaaq aammalu toqoreeraluaruniluunniit eqqartorneqartilluni suli franskiusutut taaneqartarumaarluni. Taamaattumik allanngujuitsuviit allanngortinneqarsinnaanngillat arlaannik tupinnarluinnartumik pisoqartinnagu. (Croft, 2009, 8)
+
+Allanngujuitsut pissusaat kingulleq eqqaasassara tassaavoq piffissami aalajangersimasumi allanngujuitsuusut (point states). Taakku allanngujuitsuugallartunut eqqaanarsinnaapput allaassutigaluguli killissaat aalajangersimasuusarami oqaseqatigiinni qanoq ittuni inissisimanerat apeqqutaalluni, illuatungaanilli allanngujuitsuugallartut qaqugu allanngujuitsuunerat allanngussa-nersoq takujuminaattarluni, avataaninngaaniit arlaannik pisoqartariaqarluni allanngujuitsuugallar-nerat allanngussappat. Piffissami aalajangersimasumi allanngujuitsuusut pissusaanni ersereertarpoq qanoq sivisutigisumik/sivikitsigisumik allanngujuitsuussanersut. Takussutissiami assersuutigineqar-poq: The sun is at it’s zenith (seqineq qutsinnerpaaffissaminiippoq). Seqernup qutsinnerpaaffissami-niinnerata sivisussusaa takorloorsinnaavarput avataaniillu arlaannik pisoqartariaqanngilaq qutsin-nerpaaffissaminiikkunnaarnissaminut seqernulli nammineerluni tamanna isumagissallugu. Allanngujuitsuugallartulli tassa avataaninngaaniit pisoqarnissaa utaqqissavaat, tamannalu qaqugukkut pinissaa takorlooruminaalluni. (Croft, 2009, 8)
+
+3.2 Kalaallisut oqaatsini oqaluutit sannaat9
+Kalaallisut oqaatsini oqaatsit ataasiakkaat sannai morfeminik, tassa oqaatsit sannaanik minnerpaa-nik immikkut isumalinnik, malittarisassanik aalajangersimasunik malitaqarluni katitigaasarneri pissutigalugu kalaallisut oqaatsit polysyntetiskiusutut taaneqartarput. Morfemit assigiinngitsuupput kalaallisullu oqaatsini nalinginnaasumik ukuusinnaallutik imalt. uku iluaniissinnaallutik; præfiks (siulleqqiut), sorlak (rod) / nagguiit (stamme), uiguut (derivation), fleksionit (naanerit uku imara-lugit: modus/kasus, person aamma numerus), enklitiskillu (uiguutit annerit). (Trondhjem, 2008, 24)
+
+Oqaluutit pinngitsooratik minnerpaamik nagguimmik fleksioninillu imaqartussaapput. Nagguik oqaatsip tunngaviusumik isumaanik imaqartarpoq, fleksionilu nagguiup isumaani nalunaarneqartup suunera, susua, susaa, qassiunerilu nalunaartarlugu. Tammannalu aamma isumaqarpoq oqaaseq ataaseq nalinginnaasumik oqaatsini allani, assersuutigalugu qallunaatut oqaatsini, oqaaseqatigiittut taaneqartartoq oqaluutip iluani susap, oqaluullu aamma transitiviusimappat (susalik) susap paasis-sutissartaai oqaluummi ilaareertaramik. 
+Tamanna pissutigalugu kalaallisut oqaatsit polysynte-tiskiusutut taaneqartarput, tamannalu aamma isumaqarpoq oqaluutit sannaat morfeminik assigiin-ngitsunik katitikkanik imaqartartut, soorlu imaattunik:
+[Sorlak / nagguik #] + [uiguut(-it)*] + [fleksion # ] + [enklitisk*]
+(# pinngitsooratik oqaatsimi ilaasariaqartut) (* oqaatsini ilaasinnaasut pisariaqavinngitsulli)
+
+Oqaluutit fleksionii morfeminik ukuninnga imaqarput:  
+modus + person + numerus
+
+Taggisit sorlai/nagguii (nominalrødder/-stammer) kisimiitillugit oqaasiusinnaapput fleksionii oqaatsip iluaneereertaramik (frie morfemer), oqaluutilli sorlai/nagguii (verbalrødder/-stammer) aatsaat morfeminik allanik, tassa oqaluutit fleksioniinik ilaqqaarlugit oqaasinngorsinnaallutik (bundne morfemer). Oqaluutittaaq nagguii taggisinik sorlaqarsinnaapput/naaggueqarsinnaapput uiguutinik taggisiniit oqaluutinngortitsisunik uiguuserlugit oqaluutitut nagguinngortartut. (Trondhjem, 2008, 24) 
+
+
+Oqaaseq ‘imaarpaa’ (tømmer det for dets indhold) assersuutigilaarlara:
+
+{imaq}(taggit, indhold)
+		{ir}(uiguut taggimmiit oqaluutinngortitsisoq10, fjerner/fratager)
+
+		{pa}(oqaluutip oqaluinnarniutaasup transitiviuneranik ersersitsisoq)
+	{a}(susoq: 3. person, singularis – susaq: 3. person singularis)
+
+Kalaallisut oqaatsini uiguutit pingaarnertut atuuffeqarput leksemimut aalajangersimasumut kattun-neqartillutik leksemimik nutaamik pilersitsisaramik. Uiguutit assigiinngitsut sisamaapput immik-koortunut pingaarnernut marlunnut immikkoortinneqarsinnaasut:
+
+1) Uiguutit oqaatsit immikkoortuannik pingaarnernik allanngortitsisinnaasut (omdannende), soorlu nagguinnik oqaluutaasunik taggisinngortitsisartut (nominaliserende) aamma nagguinnik taggisaa-sunik oqaluutinngortitsisartut. 
+
+2) Uiguutit oqaatsit immikkoortua pingaarneq allanngortinnagu nagguimmut ilassutaaginnartartut (videredannende), soorlu nagguinnik oqaluutaasunik oqaluutaaginnartitsisartut11 aamma nagguinnik taggisaasunik taggisaaginnartitsisartut12. 
+
+Uiguutit nagguimmut ilassutaaginnarsinnaapput imaluunniit nagguimmut uiguusiussat nagguimmut ilassutaaginnaratik oqaaseqatigiinnuttaaq ilassutitut atorneqarsinnaallutik. (Trondhjem, 2008, 24-25)
+
+3.3 Kalaallisut oqaatsini aspektip atugaanera
+Trondhjem malillugu kalaallisut oqaatsini aspektip atuunnera malunnartarpoq ukununani assigiin-ngitsuni pingasuni: 
+
+1. Oqaluutip nagguiani fleksioneqanngitsumi, tassa isumaqqaateqarnera ersertarami.
+2. Oqaluutip nagguiata fleksionilernerani, taamaalilluni isumaqqaat fleksioneqannginnermini pissuserisimasaa allanngorsinnaalluni. 
+3. Oqaluutip nagguiata uiguusernerani, isumaqqaat aamma allanngorsinnaalluni. 
+(Trondhjem, 2008, 28-29)
+
+Hagedornip aspektip ersinngitsumik malunniuttarneranik eqqartugaa (covert/leksikalske/inhærente aspektuel betydning) qulaani taaneqartuni nr. 1-mut attuumassuteqarpoq, aspektillu ersittumik malunniuttarneranik (overt/derivativt/semantisk manifistation af aspekt) eqqartugaa 2-mut aamma 3-mut attuumassuteqarluni. (Hagedorn, 1987: 1)
+
+Trondhjemip malugisimavaa kalaallisut oqaluutit nagguuinut pingaarnertut telicitet kontrolilu (agency – aqutsisoqarnera/aqutsisoqannginnera) immikkoortiterissutaasartut. Aammalu oqaluutit susaatsuunerat susaqarneralluunniit telicitetimut pisunik immikkoortiterinermi apeqqutaasinnaasoq. Oqaluutit susaatsunut susalinnullu immikkoortinneqarsinnaasut susaatsuutillutik pisut killeqanngit-suusarput, susaliullutilli killeqartarlutik. (Trondhjem, 2008, 29-30)
+
+Oqaluutit aqutsisullit (+kontrol) inatsiniummik kissarniummilluunniit modusilerlugit oqaaseqati-giinni taamaallaat atorneqarsinnaapput. Oqaluutit susaatsuutillutik killeqanngitsuusut susaliutillu-tillu killeqartut aqutsisoqartarput (+kontrol), taamaattorli susaatsuuneq susaliunerluunniit kisiat telicitetimut najoqqutaralugu  immikkoortitsisoqassanngitsoq allappoq, oqaluutit susallit ilaat killeqanngitsuusinnaammata, soorlu assersuutigigai uku: ‘atuagaq atuarpaa’ (oqaluut susaliugaluar-luni killeqanngitsumik isumalik). Oqaluutit naammassiffeqartutut (accomplishment) isumalinnik imallit kalaallisut tassaapput oqaluutit susallit aqutsisullillu, assersuutigalugu ‘iipili nerivaa’ (‘han/hun spiser æblet’), susaatsuugunillu Croft malillugu ‘aktivitet’-iussallutik killeqanngitsuullu-tillu, soorlu ‘nerivoq’ (‘han/hun spiser’). (Trondhjem, 2008, 30-31)
+
+Trondhjemip pisunik aspektinut immikkoortitsinera telicitet aamma ‘agency’ (aqutsisoqarnera aqutsisoqaannginneraluunniit) malillugu immikkoortitikkat: 
+Tilstand	        -tel, +dur, -kontrol, -dyn.	Kaappoq - ‘han/ hun er sulten’
+       -tel, +dur, + kontrol, -dyn.	Issiavoq - ’han/ hun sidder’
+Proces/Aktivitet   -tel, +dur, +kontrol, +dyn.	Arpappoq – ‘han/ hun løber’ - intransitive
+Event	      +tel, +dur, +kontrol, +dyn.	Igavoq - ’han/ hun laver mad’- transitive
+Achievement       +tel, -dur, +kontrol, +dyn.	Iserpoq - ’han/ hun kommer ind’
+       +tel, -dur, -kontrol, +dyn.	Nakkarpoq - ’han/ hun/det falder ned’
+Semelfaktiv           +tel, -dur, -kontrol, -dyn.	Tangajorpoq - ’han/ hun nyser’
+(Trondhjem, 2008, 32)
+
+Hagedornip allaaserisamini oqaatigaa Michael Fortescuep allaaserisai malillugit uiguutit aspektimik imallit oqaluummuinnaq ilassutaasartut (verbalmodificerende), uiguutillu pineqartut imminnut malitsigiissinnaallutik. Uiguutilli tempusimut modalitetimullu tunngasut oqaaseqatigiinnut ilassu-taasarnerarpai (sætningsmodificerende). Ilanngullugu taava uiguutit oqaluutinut ilassutaasartut uiguutinik oqaaseqatigiinnut ilassutaasartunik malitseqarsinnaasut illuatungaanilli uiguutit oqaase-qatigiinnut ilassutaasartut uiguutinik oqaluutinut ilassutinik malitseqarsinnaanatik. Taamaattumik uiguutit aspektimik imaqarnersut paasiniarlugit manna tunngavigineqarsinnaavoq: uiguutit pineqar-tut uiguutinik oqaluummut ilassutaasartunik allanik malitseqarsinnaappata uiguutit oqaaseqa-tigiinnut ilassutaasimassapput taamaattumillu aspektimik imaqaratik (Hagedorn, 1987, 3).
+
+3.3.1 Kalaallisut oqaatsini pisut oqaluutip nalunaagai allanngujuitsumik isumalimmik imallit
+Pisut oqaluutip nalunaagai allanngujuitsumik isumalimmik imallit tassaapput 1) oqaluutit nagguiini pisut nalunaarneqartut nukimmik atuinermik imaqanngitsut (-dynamisk), tassa pisoq nalunaar-neqartoq allanngujaatsutut isikkoqartarluni (+statisk), 2) oqaluummi pisup nalunaakkap piffissaa ingerlaannartutut isikkoqartarluni (+durativ),  3) oqaluummi pisup nalunaakkap piffissaa kille-qanngitsuulluni (-telisk), kingullertullu 4) oqaluummi pisoq nalunaagaq naammassisaqarnermik imaqarani (-resultativ). Oqaluutit allanngujuitsumik pissuseqartutut ittut iluanut pulasutut illuni ingerlaarnerata isikkua (indre struktur) tamarmi assigiippoq, tassa allanngornermik ineriartorner-milluunniit nalunaagaqarneq ajorput, (Comrie, 1976, 48-49) taamaallaalli oqariartuutigisarlugu oqaluummi pisup nalunaakkap susuata qanoq timini atorlugu (fysisk) sianissutsikkullunniit (mental) inissisimanera imaluunniit susup arlaannik pigisaqarnera imaqarneraluunniit nalunaartarlugu.
+
+Kalaallisut oqaatitsinni oqaluutit pisoq nalunaagaq allanngujuitsumik isumalinnik imallit assersuutaat ilanngussani nr. 1-imi takuneqarsinnaapput.
+
+3.3.1.1 Uiguutit ataasiakkaat oqaluutinik assigiinngitsunik allanngujuitsumik isumalimmik pilersitsisartut
+Uiguut ‘-nga’ allanngujuissutsimik isumaqarpoq arlaannillu pisoqareernerata kingornatigut inerne-rusutut allanngujuitsunngorsimasuusarluni (resultat efter en proces), isumaanili tamanna ilaanani. Uiguut ‘-qqa’ peqatigalugu uiguut ima isumalik pinnguutigalugu “*ղa ’be in state of doing s.th.’ (Fortescue et al. 1994: 417)“. (Trondhjem, 2008, 105) Hagedorn malillugu ‘-nga’ aamma 
+‘-(u)ma’ siornatigut nalinginnaasuusimagaluarput maannali ‘-qqa’ kisingajammi oqaluutit nagguii-nik assigiinngitsunik allanngujuitsutut isumaqalersitsisartuni nalinginnaanerpaalersimalluni. (Hagedorn, 1987, 45)
+
+Uiguut ‘-(u)ma’ ‘-nga’-tulli allanngujuitsumik isumaqarpoq arlaannik pisoqareernerata kingorna-tigut inernerusutut allangujuitsunngorsimasuulluni, isumaanili tamanna ilaanani. Oqaluutit nagguii-nut atuussinnaaffia killeqarpoq nalinginnaasumillu oqaluutit nagguiinut killeqartumik ikaarsaariar-nermillu isumaqqaateqartunut (naammassisutut isikkulinni) uiguutitut atorneqarsinnaalluni, taamaattumilli killeqangaatsiartumik. (Trondhjem, 2008, 105) Hagedorn malillugu oqaluutit nagguiini aalajangersimasuni, tassa piniarnermut/aalisarnermut tunngassuteqartunik isumalinni takussaanerusarpoq, uiguummullu ‘qqa’-mut naleqqiullugu ajunngitsumik/assuarnaateqangitsumik isumaqarluni ersertarluni, oqaluutit nagguiisa isumai uiguutip pineqartup atatinneqarsinnaaffigisai peqqutaallutik. (Hagedorn, 1987, 45)
+
+Uiguut ‘-qqa’ aamma pisoqareernerata kingornatigut inernerusutut allanngujuitsunngorsimasuusar-poq, tamannalu isumaani ilaalluni. Oqaluutit nagguiini killilimmik isumaqqaateqartuni (Hagedorn malillugu oqaluutit nagguiini pisut nalunaarneqartut piffissami aalajangersimasumi pisuni (punktuel) killilinni, tassa achievementiusuni (Hagedorn, 1987, 45)) aammalu aqutsisoqanngitsuni nalinginnaasumik atugaasarpoq, assersuutigalugu: ‘kivivoq’ (synke)  ‘kiveqqavoq’ (er synket), aammali oqaluutit nagguiini allanngujuitsumik isumalinni nassaassaalluni, soorlu ‘qasuvoq’ (er træt)  ‘qasoqqavoq’ (er træt). (Trondhjem, 2008, 105) Oqaluutit nagguiini allanngujuitsuusuni ilaatigut atorneqartarnera Hagedornip nassuiarpaa allanngujuitsunik sakkortusaataasarnerarlugu, soorlu oqaaseqatigiinni imaattuni: ‘umiarsuaq suli taleqqavoq’ (skibet ligger stadig ved kajen), allanngujuitsuunerallu unitsinneqarsinnaalluni uiguut unititsinermik isumallit atorlugit, soorlu ‘junnaar’  “umiarsuaq taleqqajunnaarpoq” (skibet ligger ikke længere ved kajen). Pisut uiguum-mik ‘-qqa’-mik atuilluni nalunaakkat oqaaseeqqanik pissutsinut tunngasuteqartunik (mådeadver-bier) ilaneqarsinnaanngillat piffissamik atuisuunnginnerat peqqutaalluni. Uiguutinullu allanut aspektimik imaqartunut uiggiunneqarsinnaanngilaq taamaallaalli oqaluutip nagguianut uiggiun-neqarsinnaalluni. (Hagedorn, 1987, 45)
+
+Uiguutip ‘-sima’-p ilaatigut aamma allanngujuitsumik isumaqartarpoq uiguullu ‘-(u)ma’ eqqar-leralugu, tamarmik pinnguutaat assigiillutik, tassalu ‘*-(u)ma ’perfective’ (Fortescue et al. 1994: 410)”. Uiguutip ‘-sima’-p uiguutit allanngujuitsunngortitsisartut allat assigalugit pisoqareernerata kingornatigut inernerusutut allanngujuitsunngorsimasuusarpoq, tammani isumaani aamma ilaalluni. Oqaluutit nagguii killilimmik isumaqqaatillit aammalu aqutsisulittut aqutsisoqanngitsutulluunniit isumaqqaatillit uiggiunneqarfigisinnaasarlugit. 
+Trondhjem isumaqarpoq uiguut ‘-qqa’ oqaluutit nagguiini killeqartutut isumaqqaatilinni uiguummut ‘-sima’-mut ilaanni paarlaallugu atorneqartalersimanera, soorlu imaattuni: tikippoq (ankomme)  tikeqqavoq (er ankommet), tunngaveqartoq tamarmik isumaanni ilareertarami pisoqareernerup kingornatigut inernerusumik allanngujuitsunngortitsisarnerat. (Trondhjem, 2008, 105)
+
+4 Misissuinerit
+4.1 Oqaluutit nagguii naammassiffeqartuttut isikkullit allanngujuitsunngorsinnaappat?
+Misissukkakka malillugit oqaluutit nagguii naammassiffeqartutut ittunik isumalinnik imallit uiguummik ‘-nga’-mik (allanngujuitsumik isumalimmik) ilaneqarsinnaanngillat. Tamanna pissuteqarpoq oqaluutit nagguii naammassiffeqartutut ittunik isumalinnik imallit pereerneratigut/ naammassereerneratigut nalinginnaasumik pisoq allanngujuitsoq aalajangersimasoq pinngorneq ajormat, taamaallaalli pisoq naammassisimasut isikkulik pilertarluni. 
+Oqaluutit nagguii naammassiffeqartutut ittunik isumalinnik imallit uiguummik ‘-nga’-mik allanngujuitsumik isumalimmik ilaneqarsinnaannginnerisa assersuutaat ataani takuneqarsinnaapput:
+1. arpappaa (løbe det)  #arpangavaa
+2. igavaa (lave det som mad)  #igangavaa
+3. sanavaa (lave/bygge det)  #sanangavaa
+
+Oqaluutit nagguii naammassiffeqartutut ittunik isumalinnik imallit pereerneratigut pisoq naam-massisimasutut isikkulik pilertarnera pissutigalugu uiguut ‘-sima’ taakkununnga uiguneqarsinnaa-voq, kisiannili oqaluummi piffissap qanoq atorneqarneranik ersersitsinani (angiver ikke den aspektuelle betydning), misissukkanni assersuutit pingasut ataani taasassakka eqqaassanngikkaanni, nalinginnaasumik oqaluummi piffissap qanoq ittuuneranik ersersitsisarluni (angiver den temporale markør), piffissami qanittumi naammassisimanerat (perfektum) imaluunniit piffissami ungasin-nerusumi naammassisimanerat (præteritum) nalunaarniarlugu, oqaaseqatigiit qanoq paasisariaqarnerat apeqqutaallutik (kontekst).
+
+Oqaluutit nagguii naammassiffeqartutut ittunik isumallit ‘-sima’-mik uiguneqartillutik piffisap qanoq atorneqarneranik ersersitsisarnerisa assersuutaat:
+1. agiarpaa (file det/spille det på violin)  agiarsimavaa (har filet det/ har spillet det på violin)
+2. allappaa (skrive det ned)  allassimavaa (har skrevet det ned)
+3. ammalortuliorpoq (tegne en cirkel)  ammalortuliorsimavoq (har tegnet en cirkel)
+Assersuutini pingasuni pisoq naammassiffeqartoq ‘-sima’-mik uiguneqartilluni ‘perfektum’ imalt. ‘præteritum’-inngortarluni, taamaalillunilu ‘-sima’ taakkunani assersuutini oqaluummi piffissap qanoq atorneqarneranik ersersitsisuulluni (tempusmarkør).
+
+Oqaluutit nagguii naammassiffeqartutut ittunik isumallit ‘-sima’-mik uiguneqartillutik allanngu-juitsutut isumaqalersimasut misissukkanni taamaallaat pingasuinnaat nassaarisimavakka, isuma pisup oqaluummi nalunaakkap pereerneratigut inernerusutut oqaatigineqarsinnaasut (det aspektuelle resultative med betydningen ‘tilstand’). Assersuutit pineqartut tassaapput:
+1. angerlarpoq (er på vej hjem)  angerlarsimavoq (er hjemme)
+2. atisivoq (tage tøj på)  atisisimavoq (er med klæder/har tøj på)
+3. atisaajarpoq (klæder sig af)  atisaajarsimavoq (er uden klæder/nøgen)
+Assersuutit pineqartut nalinginnaasuunnginnerisa pissutigigunarpaat leksikaliserikkatut isumaqa-ramik, taamaattumillu nalinginnaasumik oqaluutit nagguii naammassiffeqartutut ittunik isumallit ‘-sima’-mik uiguneqartillutik piffisap qangiutereersimasutut atorneqarneranik ersersitsisussaagaluar-lutik illuatungaanik piffissap ingerlaavartuuneranik ersersitsillutik, taamaalillutillu allanngujuitsutut isigisariaqarlutik. 
+
+Uiguut ‘-qqa’ uiguutitulli ‘-nga’-tut oqaluutit nagguii naammassiffeqartutut isikkullit pineqartillugit pissuseqarpoq, tassa nalinginnaasumik taakkununnga uiggiunneqarsinnaanani. Taamaattorli asser-suutit marluk ulluinnarni tusartakkakka oqaluutit nagguiinut naammassiffeqartutut ittut nagguigalugit  ‘-qqa’-mik uiguuserneqartartut. Tassalu uku:
+1. atisivoq (tage tøj på)  atiseqqavoq (er med klæder/har tøj på)
+2. atisaajarpoq (klæder sig af)  atisaajaqqavoq (er uden klæder/nøgen)
+
+
+Naja Trondhjemip maluginiarsimasai malillugit, ullutsinni inuusunnerusut ingammik, ‘-sima’-p atuuffissaraluini ‘-qqa’ ilaannikkut atorneqartalersimavoq, immaqagooq ‘-sima’-p isumagisinnaa-saasa arlaliuneri peqqutaallutik. Taamaattumik assersuutit nassaarisakka taakkununnga aamma tunngassuteqarsinnaapput, tassami oqaluutit nagguii pineqartut naammassiffeqartutut ittunik imallit ‘-sima’ atorlugu allanngujuitsunngorsinnaasutuat (atisisimavoq aamma atisaajarsimavoq) ilagaat. Unali aporfiuvoq Naja Trondhjemip paasisai oqaluutit nagguiini killilimmik (telisk) aammalu pif-fissamik atuinngitsutut (punktuelle), tassa naammassisutut isikkulittut isumaqqaatilinni (achie-vement) taamaallaat tamanna atuunnerarmagu (Trondhjem, 2008, 134), uanili pisuni piffissamik atuisuni (durative), kisiannili killilinni (teliske) aamma atorneqarpoq, tassa oqaluutit nagguii naam-massiffeqartutut isikkulinni (accomplishment).
+
+4.2 Uiguutit nagguii naammassisutut isikkullit allanngujuitsunngorsinnaappat?
+Misissukkakka malillugit oqaluutit nagguii naammassisutut isikkullit uiguummik ‘-nga’-mik (allanngujuitsumik isumalimmik) ilaneqarsinnaasut arlalissuupput, taamaattorli tamanut atorsinnaanani. Tamanna sumik pissuteqarnersoq paasinngitsoorpara uanga isinnik systemeqar-pasigatik uiguummik ‘-nga’-mik ilaannai uiguneqarsinnaagamik. Taamaattorli oqaluutit nagguii naammassisutut isikkullit pereerneratigut pisoq allanngujuitsoq aalajangersimasoq pinngortarluni. 
+Oqaluutit nagguii naammassisutut isikkullit uiguummik ‘-nga’-mik allanngujuitsumik isumalimmik ilaneqarsinnaasut ataani takussutissiaraakka. 
+
+Oqaluutit nagguii achievementiusut
+Oqaluutit allanngujuitsut naammassisutut ittunik nagguillit
+aatsar (åbne munden)
+aatsangavoq (gaber/ har åben mund)
+alar (vende ansigtet den anden vej)
+alangavoq (vender ansigtet den anden vej/ er sur på nogen) / alangavaa (vender sit ansigt den anden vej)
+allaap (sprede ben)
+allaangavoq (står/går/sidder/ligger med spredte ben)
+ani (gå ud/komme ud)
+aninngavoq (kun bruges til noget som er udenfor banen, såsom ’arsaq aninngavoq’)
+anillap (gå ud/komme ud)
+anillangavoq (rager ud/rager frem/ er fremspringende)
+aquip (sætte sig på hug)
+aqunngavoq (sidder på hug/ er på wc)
+eqeer (blive lysvågen)
+eqiingavoq (er opvakt/er kvik)
+eqip (krympe)
+eqingavoq (er krympet/forkrampet)
+equ (blive skæv)
+equngavoq (er skæv)
+ersap (vise tænder)
+ersangavoq (taler i-dialekt)
+ipummer (lukke munden)
+ipummingavoq (holder munden lukket)
+isivip (folde sig ud)
+isinngavoq (er udstrakt)
+kamillar (tage sine sko af)
+kamillaangavoq (er barbenet/barfodet)
+katip (komme til at hænge sammen med nogen / blive gift)
+katinngavoq (hænger sammen med noget)
+kipu (blive skæv)
+kipungavoq (er skåret skævt)
+kivi (synke)
+kivingavoq (går med bukserne hængende nede)
+kussar (vende nedad)
+kussangavoq (skråner nedad/vender nedad)
+malar (bøje hovedet bagover)
+malangavoq (holder hovedet bagoverbøjet)
+mattar (tage tøj af)
+mattaangavoq (er nøgen)
+mumip (vende om)
+mumingavoq (er omvendt)
+nakap (bøje hovedet ned)
+nakangavoq (hænger med hovedet)
+nakkar (falde ned (fra noget))
+nakkangavoq (er deprimeret)
+naku (komme til at skele øjnene)
+nakungavoq (er skeløjet)
+nallar (lægge sig)
+nallangavoq (ligger)
+tarrip (er ude af syne)
+tarringavoq (er udenfor øjets rækkevidde) / tarringavaa (er udenfor øjets hans rækkevidde)
+tinip (ebbe)
+tininngavoq (er lavvande)
+toqu (dø)
+toqungavoq (er død)
+ulip (blive højvande)
+ulinngavoq (er højvande)
+ulip (dække)
+ulinngavoq (er dækket)
+unip (stoppe)
+uninngavoq (sidde/stå/ligge stille)
+
+Naja Trondhjemip ph.d. afhandlingiliamini allappoq oqaluutit uiguummik ‘-(u)ma’-mik ilaneqar-tillutik allanngujuitsunngorsimasut nagguii naammassisutut ittuusartut (achievement). Misissukkanni tamanna uppernarsivara, soorlu takussutissiami ataani takuneqarsinnaasut oqaluutit nagguii naammassisutut ittunik isumaqqaatillit uiguummik ‘-(u)ma’-mik uiguneqarsimasut allanngujuitsutut inississimasut. Ajoraluartumilli aamma misissukkanni takussutissaqanngilaq oqaluutit nagguii qanoq ittunut atatinneqarsinnaanera sumut killeqarnersoq, qulaani eqqartukkattulli systemeqarpasinngimmata, taamaallaalli takusinnaavara qulaani oqaluutit nagguii naammassisutut isikkullit pineqartut uiggiuffigisinnaanngikkai. Uiggiunneqarfigisinnaasaalu ataani takussutissiami takuneqarsinnaapput.
+
+Oqaluutip nagguii naammassisut isikkullit
+Oqaluut allanngujuitsumik isumaqalersimasut ’-(u)ma’-mik uiguneqarsimatillutik
+aallar (rejse/komme i bevægelse)
+aallaamavoq (farer omkring i dødskamp (om et sødyr))
+aanngar (er ude af syne)
+aanngaamavoq (er kommet ud af syne/er blevet utydeligt)
+alakkar (kigge ind)
+alakkaamavoq (har det åbent for sig (intet af det er skjult))
+amili (blive smallere)
+amilimavoq (er aflang)
+apor (støde mod noget)
+apumavoq (støder imod)
+attor (berøre noget)
+attuumavoq (støder op til noget/er i berøring med noget)
+eqqaa (komme i tanke om)
+eqqaamavaa (husker det)
+iku (tænde)
+ikumavoq (er tændt)
+iter (vågne)
+eqqumavoq (er vågen)
+naa (få færden af det)
+naamavaa (kan lugte det)
+aqqar (dykke/stige ned)
+aqqamavoq (holde vejret/er under vandet)
+kui (hælde ud/spilde)
+kuimavoq (skråner ned)
+aap (smelte)
+aamavoq (er ikke helt frossen)
+ali (fjerne sig)
+alimavoq (er borte / har fjernet sig) 
+aru (rådne) [cf. ari(t)-?] (blive våd)
+aramavoq (er ugidelig af varme)
+
+Oqaluutit nagguii naammassisutut isikkullit uiguummik ‘-sima’-mik ilaneqartillutik allanngujuitsumik isumaqalersinnaapput susaatsuusimagunik. Susaliutillutik pisoq naammassisutut isikkulik ‘-sima’-mik uiguneqartilluni ‘perfektum’ imalt. ‘præteritum’ oqaluummi piffissap qanoq atorneqarneranik ersersitsisuutaasoq isumagilertarpaat. 
+
+4.3 Oqaluutit nagguii arlaannik sunermik imallit allannguijuitsunngorsinnaappat?
+Uiguutit ‘-nga’ aamma ‘-qqa’ allanngujuitsumik isumallit oqaluutit nagguiinut arlaannik sunermik imalinnut nalinginnaasumik uiguneqarsinnaanngillat, ataaserpiaq eqqaassanngikkaanni, pineqartulli leksikaliseerigaanini pissutigaa, tassalu oqaluutip nagguia ‘allap’ (skrive)  ‘allaqqavoq’ (der står).  
+Nalinginnaasumik allanngujuitsunngorsinnaannginnerat uiguummik ‘-sima’-mik uiguneqaraluaru-nilluunniit atuuppoq, ‘allap’ (skrive)  ‘allassimavoq’ (der står) taamaallaat minillugu. ‘-sima’-mik uiguneqartillutik nalinginnaasumik pisoq arlaannik sunermik imalik naammassereersimasutut nalunaartarpaat, tassa aspektimik imaqaratik tempusimik imaqartarlutik. Tempusip piffissami qanittumi naammassisimanerat (perfektum) imalt. piffissami ungasinnerusumi naammassisimanerat (præteritum) nalunaartarpaa, oqaaseqatigiit qanoq paasisariaqarnerat apeqqutaallutik. 
+Tamanna pissuteqarpoq oqaluutit nagguii arlaannik sunermik imallit pereerneratigut/ naammasse-reerneratigut nalinginnaasumik pisoq allanngujuitsoq aalajangersimasoq pinngorneq ajormat, taamaallaalli pisoq naammassisimasut isikkulik pilertarluni. 
+
+Aammali ilanngullugu paasivara oqaluummi pisup nalunaagaa arlaannik sunermik imalik (proces) uiguummik ‘(u)ma’-mik malitseqarsinnaasoq, soorlu ataani takussutissiami takuneqarsinnaasoq. Oqaluutini pisut nalunaakkat sunermik imallit ‘(u)ma’-mik ilaneqartillutik oqaluutip nagguiani susutut nalunaarneqartup pissuserisaa pissutsitut aalajangersimasutut, pineqartup arlaannik sugajunneranik pissuseqartutut nalunaartaraa, apeqqutaalluni oqaluutip nagguiani pisoq nalunaagaq arlaannik sunermik imallip suunera.
+
+ 
+Oqaluutit nagguii arlaannik sunermik imallit
+Oqaluutit nagguii arlaannik sunermik imallit allanngujuitsumik isumaqalersimasut ’-(u)ma’-mik uiguneqarsimatillutik
+agiar (file/spille violin)
+agiaamavoq (gnide/file opad noget/spille tit violin)
+milup (sutte)
+miluumasoq (pattedyr)
+inuttor (spise menneske)
+inuttuumasoq(menneskeæder)
+kaffisor (drikke kaffe)
+kaffisuumavoq (kan godt lide at drikke kaffe)
+timmisartor (flyve)
+timmisartuumavoq (rejse tit med flyvemaskine)
+tupator (nyde tobak)
+tupatuumavoq (sætter pris på tobak)
+allap (skrive)
+allaamavoq (skriver tit )
+
+
+4.4 Oqaluutit nagguii ataasiarlutik pisartunik isumallit allanngujuitsunngorsinnaappat?
+Oqaluutit nagguii ataasiarlutik pisartutut isumallit allanngujuitsunngorsinnaaffii ataani takuneqarsinnaapput. 
+annilaar
+forskrække
+annilaangavoq
+annilaaqqavoq
+annilaarsimavoq
+er forskrækket
+sequnnger
+lukke øjne
+sequnngingavoq
+sequnngeqqavoq
+sequnngersimavoq
+har lukkede øjne
+aalajanger
+fastlægge
+
+
+aalajangersimavoq
+er fastlagt
+kigar
+ridse
+
+kigaqqavoq
+kigarsimavoq
+ridset
+qalap
+koge
+
+qalaqqavoq
+qalassimavoq
+kogt
+tupap
+forskrække
+
+tupaqqavoq
+tupassimavoq
+er forskrækket 
+
+4.5 Oqaluutit nagguii allanngujuitsuusut uiguutinik allanngujuitsunngortitsisartunik ilaqqineqarsinnaappat?
+Oqaluutit nagguuii allanngujuitsunik isumallit uiguutinik allanngujuitsunngortitsissartunik nalinginnaasumik allanngujuitsunngortinneqarsinnaanngillat allanngujuitsooreermata. Taamaattorli oqaluutit nagguii assigiinngitsut marluk uiguummik ‘-qqa’-mik ilaqqinneqarsinnaapput allanngujitsuunerat katatsinnagu, tassalu ukuupput: Panerpoq (er tør)  paneqqavoq (er tør) aamma qasuvoq (er træt)  qasoqqavoq (er træt).
+Uiguut ‘-sima’ uiggiunneqartillugu oqaluutit nagguii allanngujuitsuusut ‘perfektive’-tut ‘epistimisk modalitet’-itulluunniit paasineqarsinnaassapput.
+
+5 Misissukkanik nalilersuineq
+Oqaluutit nagguii naammassiffeqartutut isikkullit allanngujuitsunngorsinnaannginnerat pissutaalluni allanngujuitsunut immikkoortunut sisamanut immikkoortiterneqarsinnaanngillat. Taamaallaalli leksikaliseerigaasoq angerlarsimavoq transitory statenut inissinneqarsinnaalluni. 
+
+Oqaluutit nagguii naammassisutut isikkullit allanngujuitsunngorsimatillutik amerlanerpaat transitory statenut immikkoortinneqassapput, taamaattorli ataasiakkaannguit, soorlu:
+Eqingavoq, equngavoq, ersangavoq, katissimavoq, kipungavoq, nakungavoq, toqungavoq, napisimavoq, naasimavoq, qiusimavoq, sequmissimavoq, tammarsimavoq, susuisa suuneri apeqqutaallutik acquired permanent statenut inissinneqarsinnaallutik, tamannali aalajangissallugu oqaaseqatigiinni qanoq ittuni inissisimanerat apeqqutaalluinnarpoq.
+
+Oqaluutit nagguii arlaannik sunermik imallit nalinginnaasumik allanngujuitsunngorneq ajorput uiguummik ‘(u)ma’-mik uiguneqartillutik pissutsitut piulertartut eqqaassanngikkaanni, taakkulu nalinginnaasumik transitory statenut inissinneqarsinnaapput imaaliallaannaq allanngujuitsuujunnaarsinnaaneri peqqutaallutik, ukuli ‘inuttuumasoq’ aamma ‘miluumasoq’ allanngujuitsuupput siulleq acquired permanent statetut taaneqarsinnaasoq aatsaat inuttortalernermi anguneqarsinnaagami aappaali uumasunut miluumasunut taaguutaagami inherent permanent statenut inissinneqarsinnaalluni.
+
+Oqaluutit nagguii ataasiaannarlutik pisartutut isumallit allanngujuitsunngorsinnaasut transitory statenuinnaq inissinneqarsinnaapput. 
+
+Oqaluutit nagguii allanngujuitsunik imaqartut taamaallaat teoriinut sammeriikkannut innersuussutigiinnarsinnaavakka allanngujuissutsit assigiinngitsunut taakkununnga immikkoortiterneqareermata.
+6 Litteraturliste:
+
+Comrie, Bernard (1976): Aspect. Cambridge Textbooks in Linguistics.
+
+Croft, William (2009): Force dynamics and directed change in event lexicalization and argument realization. (Draft May 2009). ( www.unm.edu/~wcroft/Papers/Montreal600.pdf , 26.06.12)
+
+Croft, William (2010): The aspectual structure of events. IN: (Draft 2010) Verbs, aspect and argument structure. Oxford: Oxford University Press.
+
+Fortescue, Michael (1980): Affix Ordering in West Greenlandic Derivational Processes. International Journal of American Linguistics. Vol. 46, no. 4, 259-278.
+
+Hagedorn, Karen (1987): Aspekt i Vestgrønlandsk. Institut for Eskimologi. Hovedfagsspeciale i Eskimologi. København, Københavns Universitet.
+
+Trondhjem, Naja (2007): Markering af tid i grønlandsk sprog med særlig fokus på fortid. Ph.d. afhandling. Københavns Universitet. 
+
+7 Ilanngussat
+
+Oqaluutit nagguii tunngavigalugit immikkoortitikkat
