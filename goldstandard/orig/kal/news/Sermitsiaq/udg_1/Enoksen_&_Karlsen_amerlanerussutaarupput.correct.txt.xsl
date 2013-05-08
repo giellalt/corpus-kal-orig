@@ -18,7 +18,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Enoksen & Karlsen amerlanerussutaarupput'"/>
+<xsl:variable name="title" select="'Enoksen &amp; Karlsen amerlanerussutaarupput'"/>
 <xsl:variable name="author1_fn" select="'Erik'"/>
 <xsl:variable name="author1_ln" select="'Holmsgaard'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
