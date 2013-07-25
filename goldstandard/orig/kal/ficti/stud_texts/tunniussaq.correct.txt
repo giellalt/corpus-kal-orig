@@ -17,7 +17,7 @@
 4 Misissuinerit	10
 4.1 Oqaluutit nagguii naammassiffeqartuttut$(typo,con,t,2-1|naammassiffeqartutut) isikkullit allanngujuitsunngorsinnaappat?	10
 4.2 Uiguutit nagguii naammassisutut isikkullit allanngujuitsunngorsinnaappat?	11
-4.3 Oqaluutit nagguii arlaannik sunermik imallit allannguijuitsunngorsinnaappat?$(typo,i-0|allanngujuitsunngorsinnaappat)	16
+4.3 Oqaluutit nagguii arlaannik sunermik imallit allannguijuitsunngorsinnaappat$(typo,i-0|allanngujuitsunngorsinnaappat)?	16
 4.4 Oqaluutit nagguii ataasiarlutik pisartunik isumallit allanngujuitsunngorsinnaappat?	16
 4.5 Oqaluutit nagguii allanngujuitsuusut uiguutinik allanngujuitsunngortitsisartunik ilaqqineqarsinnaappat?	17
 5 Misissukkanik nalilersuineq	17
@@ -344,7 +344,7 @@ aramavoq
 
 Oqaluutit nagguii naammassisutut isikkullit uiguummik ‘-sima’-mik ilaneqartillutik allanngujuitsumik isumaqalersinnaapput susaatsuusimagunik. Susaliutillutik pisoq naammassisutut isikkulik ‘-sima’-mik uiguneqartilluni ‘perfektum’ imalt. ‘præteritum’ oqaluummi piffissap qanoq atorneqarneranik ersersitsisuutaasoq isumagilertarpaat.
 
-4.3 Oqaluutit nagguii arlaannik sunermik imallit allannguijuitsunngorsinnaappat?$(typo,i-0|allanngujuitsunngorsinnaappat?)
+4.3 Oqaluutit nagguii arlaannik sunermik imallit allannguijuitsunngorsinnaappat$(typo,i-0|allanngujuitsunngorsinnaappat)?
 Uiguutit ‘-nga’ aamma ‘-qqa’ allanngujuitsumik isumallit oqaluutit nagguiinut arlaannik sunermik imalinnut nalinginnaasumik uiguneqarsinnaanngillat, ataaserpiaq eqqaassanngikkaanni, pineqartulli leksikaliseerigaanini pissutigaa, tassalu oqaluutip nagguia ‘allap’ (skrive) ? ‘allaqqavoq’ (der står).
 Nalinginnaasumik allanngujuitsunngorsinnaannginnerat uiguummik ‘-sima’-mik uiguneqaraluarunilluunniit atuuppoq, ‘ allap$(infl,0-suff|allappoq)'  ? ‘allassimavoq’ (der står) taamaallaat minillugu. ‘-sima’-mik uiguneqartillutik nalinginnaasumik pisoq arlaannik sunermik imalik naammassereersimasutut nalunaartarpaat, tassa aspektimik imaqaratik tempusimik imaqartarlutik. Tempusip piffissami qanittumi naammassisimanerat (perfektum) imalt. piffissami ungasinnerusumi naammassisimanerat (præteritum) nalunaartarpaa, oqaaseqatigiit qanoq paasisariaqarnerat apeqqutaallutik.
 Tamanna pissuteqarpoq oqaluutit nagguii arlaannik sunermik imallit pereerneratigut/ naammassereerneratigut nalinginnaasumik pisoq allanngujuitsoq aalajangersimasoq pinngorneq ajormat, taamaallaalli (pisoq naammassisimasut isikkulik pilertarluni)£(x|pisoq naammassisimasutut isikkulik pilertarluni).
