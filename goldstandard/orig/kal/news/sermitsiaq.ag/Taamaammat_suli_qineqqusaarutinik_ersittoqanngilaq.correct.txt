@@ -14,6 +14,6 @@ Siumut:
 
 
 Partiit: Qineqqusaarutit nivinngarneqalerputAtassummit(cmp,2-1|nivinngarneqalerput Atassummit) aamma qineqqusaarutit nivinngarneqangajalerput.
-- Qineqqusaatutit$(noun,x|Qineqqusaarutit) tamaasa tigunikuuagut$(verb,x|tigunikuuavut), nivinngaassorneqarnissaanullu$(noun,x|nivinngaassorneqarnissaannullu) piareeqqallutik. Sipaarnerulaartariaqarsimavugulli Kalaallit Nunaanni naqitertitsineq$(noun,x|naqiterisitsineq) akisummat. Qineqqusaartulli ikiuutaalluarsimapput, Ove Frank Heilmand$(noun,x|Heilmann), Atassutip konsulentia oqarpoq.
+- Qineqqusaatutit$(typo,t-r|Qineqqusaarutit) tamaasa tigunikuuagut, nivinngaassorneqarnissaanullu$(infl,sing-plur|nivinngaassorneqarnissaannullu) piareeqqallutik. Sipaarnerulaartariaqarsimavugulli Kalaallit Nunaanni naqitertitsineq$(noun,x|naqiterisitsineq) akisummat. Qineqqusaartulli ikiuutaalluarsimapput, Ove Frank Heilmand$(noun,x|Heilmann), Atassutip konsulentia oqarpoq.
 
 Partiit sinneri sisamat qineqqusaarutit nivinngarnissaannut aamma piareeqqapput.
