@@ -15,16 +15,16 @@ Atassut tunuliaqutaralugu politikkeri isumaqarmat Naalakkersuisut Arctic Green F
 Malinnaaffigilluarneqarpoq
 Suliffeqarfilli februaarip 28-ani akiliisinnaajunnaarluni matusariaqalersoq malinnaarfigilluarneqartoq Ane Hansen nassuiaavoq.
 
-- Suliffeqarfimmut piumasarinikuuarput ukiumut marloriarlutik nalunaaruteqartassasut. Sullissinissamik isumaqatigiissummi arlaannik pissusissamisut ingerlasoqanngikkaangat suliffeqarfik nalunaarfigisarparput ajornartorsiut iluarseqqullugu. Assinganik suliffeqarfimmut taama isiorpugut, Ane Hansen Sermtsiaq.AG-mut$(typo,vow,0-1|Sermitsiaq.AG-mut) apersorneqarnermini oqarpoq.
+- Suliffeqarfimmut piumasarinikuuarput ukiumut marloriarlutik nalunaaruteqartassasut. Sullissinissamik isumaqatigiissummi arlaannik pissusissamisut ingerlasoqanngikkaangat suliffeqarfik nalunaarfigisarparput ajornartorsiut iluarseqqullugu. Assinganik suliffeqarfimmut taama isiorpugut, Ane Hansen (Sermtsiaq.AG-mut)∞(url) apersorneqarnermini oqarpoq.
 
 Politikkikkut akisussaaffimminiilluni suliffeqarfiup nunaqarfinni aaqqissussani$(typo,vowu,1-2;typo,vowa,1-2|aaqqissuussaani) siuariartortoqanngitsut takuaa.
 
 - Sullissinissamut isumaqatigiissummi allaqqavoq nunaqarfinni tunitsivinnik ammaassuisoqassasoq, taamaattoqanngimmallu siulersuisut saaffigaagut.
 
 Pisaqartoqarpianngilaq
-Jacob Abelsenip qaqilernikuuaa ilaqutariit 200-ut$(num,vow,1-0|200-t) Arctic Green Foodip akiliisinnaajunnaarluni matuneranut eqqugaasut.
+Jacob Abelsenip qaqilernikuuaa ilaqutariit 200-ut$(num,u-0|200-t) Arctic Green Foodip akiliisinnaajunnaarluni matuneranut eqqugaasut.
 Kisitsilli taama annertutiginngitsoq Ane Hansenip oqaatigaa.
 
-- Oqaatiginiarneqarpoq ilaqutariit 200-ut$(num,vow,1-0|200-t) eqqorneqartut, tamannali ilumuunngilaq. Kvartalimi kingullermi takusinnaavarput aalisartut piniartullu 32-t pisaminnik Arctic Green Foodimut tulaassisimasut, suliffeqarfimmilu sulisut 36-ullutik. Tulaassuisumanerni$(typo,vow,u-i|Tulaassuisimanerni) annikitsuinnarmik Arctic Green Foodimut tulaassisoqarsimasoq takusinnaavarput.
+- Oqaatiginiarneqarpoq ilaqutariit 200-ut$(num,u-0|200-t) eqqorneqartut, tamannali ilumuunngilaq. Kvartalimi kingullermi takusinnaavarput aalisartut piniartullu 32-t pisaminnik Arctic Green Foodimut tulaassisimasut, suliffeqarfimmilu sulisut 36-ullutik. Tulaassuisumanerni$(typo,vow,u-i|Tulaassuisimanerni) annikitsuinnarmik Arctic Green Foodimut tulaassisoqarsimasoq takusinnaavarput.
 
 - Uannut pingaarnersaavoq aalisartunut, piniartunut akissarsiortunullu siunissami qaninnerpaami aaqqiisoqassasoq – ajortuliortunik ujarlernermiit suliarerusunneruakka
