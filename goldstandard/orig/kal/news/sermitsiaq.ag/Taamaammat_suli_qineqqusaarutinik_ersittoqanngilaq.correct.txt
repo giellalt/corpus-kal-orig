@@ -10,10 +10,10 @@ Sermitsiaq.AG-p partiit akornanni misissuinerani erserpoq.
 
 Siumut:
 
-- Kingusinnerpaamik qinersinissamut ullut pingasuinnanngorpata qineqqusaarutit ikkussoreersimassavagut$(verb,x|ikkussoreersimassavavut). Kommunimut qinersisoqalerpalli tapiisoqarnikuunngilaq£(clit,2-1|Kommunimulli qinersisoqalerpat tapiisoqarnikuunngilaq), tassani partiit namminneq aningaasaataannik qineqqusaarutinut akiliisussaavugut. Isumaqarpugut kikkut tamat oqartussaanerat tassani eqqorneqartoq, tassami kommunimut qineqqusaartussat nalunnginneqarnerit maluginiarneqarnerussammata, aatsaallu qineqqusaartussat maluginiarneqannginnerusussaallutik. Demokratiimut tamanna uggornarpoq. Inatsisartunut qinersinissamulli piareersarluarpugut£(clit,2-1|Inatsisartunulli qinersinissamut piareersarluarpugut), Siumumi konsulenti, qineqqusaartorlu Kenneth Rasmussen oqarpoq.
+- Kingusinnerpaamik qinersinissamut ullut pingasuinnanngorpata qineqqusaarutit ikkussoreersimassavagut. Kommunimut qinersisoqalerpalli tapiisoqarnikuunngilaq£(clit,2-1|Kommunimulli qinersisoqalerpat tapiisoqarnikuunngilaq), tassani partiit namminneq aningaasaataannik qineqqusaarutinut akiliisussaavugut. Isumaqarpugut kikkut tamat oqartussaanerat tassani eqqorneqartoq, tassami kommunimut qineqqusaartussat nalunnginneqarnerit maluginiarneqarnerussammata, aatsaallu qineqqusaartussat maluginiarneqannginnerusussaallutik. Demokratiimut tamanna uggornarpoq. Inatsisartunut qinersinissamulli piareersarluarpugut£(clit,2-1|Inatsisartunulli qinersinissamut piareersarluarpugut), Siumumi konsulenti, qineqqusaartorlu Kenneth Rasmussen oqarpoq.
 
 
 Partiit: Qineqqusaarutit nivinngarneqalerputAtassummit(cmp,2-1|nivinngarneqalerput Atassummit) aamma qineqqusaarutit nivinngarneqangajalerput.
-- Qineqqusaatutit$(typo,t-r|Qineqqusaarutit) tamaasa tigunikuuagut, nivinngaassorneqarnissaanullu$(infl,sing-plur|nivinngaassorneqarnissaannullu) piareeqqallutik. Sipaarnerulaartariaqarsimavugulli Kalaallit Nunaanni naqitertitsineq$(noun,x|naqiterisitsineq) akisummat. Qineqqusaartulli ikiuutaalluarsimapput, Ove Frank Heilmand$(noun,x|Heilmann), Atassutip konsulentia oqarpoq.
+- Qineqqusaatutit$(typo,t-r|Qineqqusaarutit) tamaasa tigunikuuagut, nivinngaassorneqarnissaanullu$(infl,sing-plur|nivinngaassorneqarnissaannullu) piareeqqallutik. Sipaarnerulaartariaqarsimavugulli Kalaallit Nunaanni naqitertitsineq¢(der|naqiterisitsineq) akisummat. Qineqqusaartulli ikiuutaalluarsimapput, Ove Frank Heilmand$(prop|Heilmann), Atassutip konsulentia oqarpoq.
 
 Partiit sinneri sisamat qineqqusaarutit nivinngarnissaannut aamma piareeqqapput.

@@ -2,7 +2,7 @@ Kunuuti Kleemann 2.S 17/9-12
 
 Ilinniartuuneq 
 
-Aallaqqaasiut: Uani eqqartussuara ilinniartuuneq. Ilinniartuunerup ukiut 15’it iluanni ineriartornissaa allaaserissuara. 
+Aallaqqaasiut: Uani eqqartussuara$(dial,ssa|eqqartussavara) ilinniartuuneq. Ilinniartuunerup ukiut 15’it$(num,apos-hyph|15-it) iluanni ineriartornissaa allaaserissuara$(dial,ssa|allaaserissavara). 
 
 Nunatsinni ilinniartuusimanissaq pingaarutilerujuuvoq. Nunatsinni Hjemmestyret ullutsinni suliaasa annersaasa ilaraat ilinniarnikunik amerlanerpaanik pilersitsiniassallutik. Tassami ukiuni kingullerni suliffeqarfiit amerlanerpaat piumasaraat, ilinniarsimasunik sulisoqassallutik. 
    Ullutsinni kalaallit ikippallaarujussuarput ilinniarnikut, imaluunniit gymnasie naammassiinnariarlungu ingerlaqqinneq ajuleqqasunik. Oqartoqartarpoq gymnasie naammassingaanni aatsaat tassa ilinniarneq aallartittartoq. Isumaqarpunga kalaallit eqqarsartariaasiat aaqqittariaqartoq ilinniarnerup tungaatingut. Assersuutigiinnarlugu eqqaariikkattut gymnasie naammassigaanni eqqarsartariaaseq imaalerluni aatsaat ilinniarluni aallartissinnaanngorlungu. Gymnasie-mi tassaavoq ilinniarfinnut ammaassisartoq, uangut kalaallit amerlanerit eqqarsartaratta gymnasie naammassigutsigu tassa piareerluta sumiluunniit sulisinnaanngorluta. Soorunami aamma suliffinni minnerulaanik ammaassisartuuvoq soorlu vikar meeqqat atuarfianni imaluunniit arlaanni suliffeqarfinni annerni nutserisoq. Tamakku atorfiit kalaallit nunaata namminersulernissaanut annikippallaarujussuarput. Taama kalaallit ikitsigaluta ilinniakkamik naammassinninnissaq pingaarnerpaajuvoq.
