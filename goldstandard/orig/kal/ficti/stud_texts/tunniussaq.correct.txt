@@ -57,7 +57,7 @@ Sammisassat taakku aallaavigalugit allaaserisassama suliassartaa imaattumik imaq
 
 Misissuineq paasissutissanik pingaarnernik, tassalu nammineq misissukkanik tunngaveqarluni suliaavoq paasissutissat atuagarsornermut tunngasut tunuliaqutaralugit. Paasissutissat pingaarnerit takussutissiami nr. 1-mi takuneqarsinnaapput. Paasissutissat atuagarsornermut tunngasut immikkoortumi ´Paasissutissat atuagarsornermut tunngasut´-ni allaaserineqarput. Paasissutissat pingaarnerit nammineq misissukkat oqaluutit nagguiinik (227-it missaaniittunik) imaqarput. Oqaluutit nagguii pineqartut isumaviisa ((verbalstammernes betydninger))∞(dan) qallunaatut nutsernerat ilanngunneqarpoq, kingornatigullu oqaluutip nagguiani isumaqqaatit ((verbernes inhærent aspektuelle betydninger))∞(dan) ilanngunneqarlutik aspektinullu assigiinngitsunut immikkoortiterneqarlutik.
 
-Uanga imminut paasissutissiisutut ((informant))∞(dan) atorlunga misissuineq ingerlappara, inunnik toqqaannartumik apersuineq apeqqutinilluuniit pappialanngortitanik apersuinermik tunngaveqarnanga, isumaqarama kalaallisut oqaatsit ilitsoqqussaralugit atugarinerat naammattoq. Taamaalillunga uiguutit suut oqaluutillu nagguii suut imminnut ataqatigiissinnaanerat tunngavilimmik nalilersorsinnaagakkit isornartorsiorsinnaallugillu.
+Uanga imminut paasissutissiisutut ((informant))∞(dan) atorlunga misissuineq ingerlappara, inunnik toqqaannartumik apersuineq apeqqutinilluuniit$(typo,n,1-2|apeqqutinilluunniit) pappialanngortitanik apersuinermik tunngaveqarnanga, isumaqarama kalaallisut oqaatsit ilitsoqqussaralugit atugarinerat naammattoq. Taamaalillunga uiguutit suut oqaluutillu nagguii suut imminnut ataqatigiissinnaanerat tunngavilimmik nalilersorsinnaagakkit isornartorsiorsinnaallugillu.
 
 3 Paasissutissat atuagarsornermut tunngasut pillugit
 Paasissutissat aspektimut tunngasut teoretikerit assigiinngitsut allaaserinikuusaat immikkoortumi ´Paasissutissat atuagarsornermut tunngasut´-mi sammineqassapput.
@@ -135,7 +135,7 @@ Allanngujuitsuusut taakku marluk allanngujuissuseq pineqartoq piunertik tamaat a
 
 Allanngujuitsuujuaannartut aappaat, tassa allanngujuitsuiusut ((inherent permanent states))∞(eng) tassaapput suup pineqartup pissusii, ilisarnaatai allalluunniit allanngortinneqarsinnaanngitsut. Takussutissiami assersuutigineqarpoq: (franskiuvoq). Tamanna allanngujuissuseq pileqqaarnermit attassaavoq allanngortinneqarsinnaanngitsoq, pineqartorlu inuunini naallugu franskiujuassaaq aammalu toqoreeraluaruniluunniit eqqartorneqartilluni suli franskiusutut taaneqartarumaarluni. Taamaattumik allanngujuitsuviit$(orto,glides|allanngujuitsuiit) allanngortinneqarsinnaanngillat arlaannik tupinnarluinnartumik pisoqartinnagu. (Croft, 2009, 8)
 
-Allanngujuitsut pissusaat kingulleq eqqaasassara tassaavoq piffissami aalajangersimasumi allanngujuitsuusut ((point states))∞(eng). Taakku allanngujuitsuugallartunut eqqaanarsinnaapput allaassutigaluguli killissaat aalajangersimasuusarami oqaseqatigiinni$(typo,vowa,1-2|oqaaseqatigiinni) qanoq ittuni inissisimanerat apeqqutaalluni, illuatungaanilli allanngujuitsuugallartut qaqugu allanngujuitsuunerat allanngussanersoq takujuminaattarluni, avataaninngaaniit arlaannik pisoqartariaqarluni allanngujuitsuugallarnerat allanngussappat. Piffissami aalajangersimasumi allanngujuitsuusut pissusaanni ersereertarpoq qanoq sivisutigisumik/sivikitsigisumik allanngujuitsuussanersut. Takussutissiami assersuutigineqarpoq: (seqineq qutsinnerpaaffissaminiippoq). Seqernup qutsinnerpaaffissaminiinnerata sivisussusaa takorloorsinnaavarput avataaniillu arlaannik pisoqartariaqanngilaq qutsinnerpaaffissaminiikkunnaarnissaminut seqernulli nammineerluni tamanna isumagissallugu. Allanngujuitsuugallartulli tassa avataaninngaaniit pisoqarnissaa utaqqissavaat, tamannalu qaqugukkut pinissaa takorlooruminaalluni. (Croft, 2009, 8)
+Allanngujuitsut pissusaat kingulleq eqqaasassara tassaavoq piffissami aalajangersimasumi allanngujuitsuusut ((point states))∞(eng). Taakku allanngujuitsuugallartunut eqqaanarsinnaapput allaassutigaluguli killissaat aalajangersimasuusarami oqaseqatigiinni$(typo,vowa,1-2|oqaaseqatigiinni) qanoq ittuni inissisimanerat apeqqutaalluni, illuatungaanilli allanngujuitsuugallartut qaqugu allanngujuitsuunerat allanngussanersoq takujuminaattarluni, avataaninngaaniit$(typo,n,1-2|avataaninngaanniit) arlaannik pisoqartariaqarluni allanngujuitsuugallarnerat allanngussappat. Piffissami aalajangersimasumi allanngujuitsuusut pissusaanni ersereertarpoq qanoq sivisutigisumik/sivikitsigisumik allanngujuitsuussanersut. Takussutissiami assersuutigineqarpoq: (seqineq qutsinnerpaaffissaminiippoq). Seqernup qutsinnerpaaffissaminiinnerata sivisussusaa takorloorsinnaavarput avataaniillu arlaannik pisoqartariaqanngilaq qutsinnerpaaffissaminiikkunnaarnissaminut seqernulli nammineerluni tamanna isumagissallugu. Allanngujuitsuugallartulli tassa avataaninngaaniit$(typo,n,1-2|avataaninngaanniit) pisoqarnissaa utaqqissavaat, tamannalu qaqugukkut pinissaa takorlooruminaalluni. (Croft, 2009, 8)
 
 3.2 Kalaallisut oqaatsini oqaluutit sannaat
 
@@ -332,7 +332,7 @@ eqqumavoq
 naa$(infl,0-suff|naavaa)
 naamavaa
 aqqar$(infl,0-suff|aqqarpoq)
-aqqamavoq
+aqqamavoq$(typo,a,1-2|aqqaamavoq)
 kui$(infl,0-suff|kuivaa;kuivoq)
 kuimavoq
 aap

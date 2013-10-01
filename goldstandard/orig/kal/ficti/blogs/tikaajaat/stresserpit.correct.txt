@@ -33,7 +33,7 @@ Kamajalerneq
 Naarlunneq erlavilunneq
 Arnat: Aaqarnerup allanngornera
 Stressersorinnginneq
-Kikkulluunniit eqqugaasinnaapput, sivisuallaammik ulapaarneq kingunerlussinnaavoq - ulapputeqarsimatillutit eqqissisimaartarnissat eqqaamajuk! Eqqissisimaarnitsinnimi ulapeqqinnissatsinnut nukissaneqqittarpugut, eqqisisimaartanngikkaannili ulapinnissamut nukissaarukkaluttuinnalernarpoq... Ulapittuarsimagaanni ajortissanani eqqissisimaarnissaq pisariaarussorinartarpoq, tamannali ulorianarpoq - eqqissisimaalaarnissarmi pisariaqartuarpoq, nukissaqarumagaanni!
+Kikkulluunniit eqqugaasinnaapput, sivisuallaammik ulapaarneq kingunerlussinnaavoq - ulapputeqarsimatillutit eqqissisimaartarnissat eqqaamajuk! Eqqissisimaarnitsinnimi ulapeqqinnissatsinnut nukissaneqqittarpugut, eqqisisimaartanngikkaannili$(typo,s,1-2|eqqissisimaartanngikkaannili) ulapinnissamut nukissaarukkaluttuinnalernarpoq... Ulapittuarsimagaanni ajortissanani eqqissisimaarnissaq pisariaarussorinartarpoq, tamannali ulorianarpoq - eqqissisimaalaarnissarmi pisariaqartuarpoq, nukissaqarumagaanni!
 
 Immissinnut paaralusi - eqqissisimaalaartarlusilu - ulapaarluarnissassinnik kissaappassi ;)
 
