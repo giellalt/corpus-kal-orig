@@ -6,14 +6,14 @@ Anslagit amerlassusaat:		64.544 inkl. Probl. Form.
 
 Ulloq:______________________________ Atsiorneq:_________________________________________
 Piareersaataasumik amerlisaanermik ilinniarneq
-Bachelor opgave
+(Bachelor opgave)∞(dan)
 
 
 Najoqqutat allattorsimaffiat
 1. Misissuiffigisassat 	2
 1.1 Aallaqqaasiut	2
 1.2 Qulequttamik aalajangiineq:	2
-1.3 Sammisassamik erseqqissaaneq (Problemformulering)	3
+1.3 Sammisassamik erseqqissaaneq ((Problemformulering))∞(dan)	3
 1.4 Ilisimasassanik paasiniagassanillu apeqqusiat	3
 2 Misissuinerup siunertaa	3
 3. Misissueriaatsit 	4
@@ -37,9 +37,9 @@ Najoqqutat allattorsimaffiat
 6.3 Atuartut matematikkimi piginnaasaqarnerit 	9
 8 Oqallinneq kiisalu periutsinut isornartorsiuineq	9
 9 Naggasiineq	9
-10 Siumut eqqarsaatersorneq (Perspektivering)	9
+10 Siumut eqqarsaatersorneq ((Perspektivering))∞(dan)	9
 Najoqqutat allattorsimaffiat	10
-Bilag 1 –Start/Sluttest 	12
+(Bilag 1 –Start/Sluttest 	12
 Bilag 1.1 Starttest	12
 Bilag 1.2 Sluttest	12
 Bilag 2 –Starttest resultater i excel 	12
@@ -50,15 +50,15 @@ Bilag 5  -Spørgeskema til elever – svaret 	23
 Bilag 6 –Spørgeskema til lærer –svaret   	23
 Bilag 6.1 Lærer 1	23
 Bilag 6.2 Lærer 2	25
-Bilag 7 – Logbog Atuarfik Hans Lynge –Matematik 	27
-Bilag 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 	27
+Bilag 7 – Logbog)∞(dan) Atuarfik Hans Lynge (–Matematik 	27
+Bilag)∞(dan) 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 	27
 Bilag 8.1 Ilikkagassatut anguniagassat	28
 Bilag 8.2 Atuartitsinermit pilersaarut 	29
-Bilag 9 Powerpoint	30
-Bilag 9 Powerpoint	31
+Bilag 9 (Powerpoint)∞(eng)	30
+Bilag 9 (Powerpoint)∞(eng)	31
 Bilag 10 Suleriaatsit nassuiaataat 	33
 Bilag 11 Atuartut suliassaat/ Suliaat 	34
-Bilag 12 CREDE standards –Metode –Periuseq 	34
+Bilag 12 (CREDE standards)∞(eng) (–Metode)∞(dan) –Periuseq 	34
 
 
 
@@ -76,13 +76,13 @@ Bilag 12 CREDE standards –Metode –Periuseq 	34
 1. Misissuiffigisassat 
 
 1.1 Aallaqqaasiut
-Bachelorprojektimi misissugassatut aalajangiussakka aallaavigalugit, bachelorimik allaaserisassannut nukarlerni atuartuni 3.klasseni katiterinermiit amerlisaanermut ikaarsaarnermi, sullivilersornerup iluani atortut tigussaasut atuakkallu aallaavigalugit, atuartunut atuartitsissutigissallugit suleriaaseq sorleq atuartut atoraangamikku, atuartunut ilikkalertorfiunerunersoq misissussallugu aalajangiunnikuuara. Atuarfimmi misiliininni misissukkakka akissutisiniarlugit suleriutsit assigiinngitsut atorlugit atuartitsissullunga misileraavunga, sullivilersorlunili atuartitsineq pingaarnerutillugu atuartitsillunga.  Allaaserinninninni sullivilersornerup isumaa, atuartitsineq ilikkarluarfiusumullu atuartitsininni atassusiinera eqqartussavakka. Tigussaasut aammalu tigussaanngitsut atorlugit atuartitsineq qanoq paasineqassanersut paasissutissiissutigilaassavakka. Atuartitsitsininnut teoriit suut ikorfartuinersut, tassa tigussaasut aallaavigalugit aammalu suleqatigiilluni sulineq aallaavigalugu atuartitsinermi, Piaget aammalu Vygotsky atuartitsininnut ikorfartuineri  ”Atuarfik pillugu inatsisartut inatsisaat nr. 15, 3. December 2012”-imut  tunngavilersuutigalugit atuartitsininnut tutsillugit eqqartussavakka. Aammalu qanoq atuartitsisoqarsinnaanersoq, misissugassatullu aalajangiussama inerneri aallaavigalugit nalilersuillunga allaaserinnissallunga. 
+Bachelorprojektimi misissugassatut aalajangiussakka aallaavigalugit, bachelorimik allaaserisassannut nukarlerni atuartuni 3.klasseni katiterinermiit amerlisaanermut ikaarsaarnermi, sullivilersornerup iluani atortut tigussaasut atuakkallu aallaavigalugit, atuartunut atuartitsissutigissallugit suleriaaseq sorleq atuartut atoraangamikku, atuartunut ilikkalertorfiunerunersoq misissussallugu aalajangiunnikuuara. Atuarfimmi misiliininni misissukkakka akissutisiniarlugit suleriutsit assigiinngitsut atorlugit atuartitsissullunga$(typo,ssu-0|atuartitsillunga) misileraavunga, sullivilersorlunili atuartitsineq pingaarnerutillugu atuartitsillunga.  Allaaserinninninni sullivilersornerup isumaa, atuartitsineq ilikkarluarfiusumullu atuartitsininni atassusiinera eqqartussavakka. Tigussaasut aammalu tigussaanngitsut atorlugit atuartitsineq qanoq paasineqassanersut paasissutissiissutigilaassavakka. Atuartitsitsininnut$(typo,der,tsi-0|Atuartitsininnut) teoriit suut ikorfartuinersut, tassa tigussaasut aallaavigalugit aammalu suleqatigiilluni sulineq aallaavigalugu atuartitsinermi, Piaget aammalu Vygotsky atuartitsininnut ikorfartuineri  ”Atuarfik pillugu inatsisartut inatsisaat nr. 15, 3. December 2012”-imut  tunngavilersuutigalugit atuartitsininnut tutsillugit eqqartussavakka. Aammalu qanoq atuartitsisoqarsinnaanersoq, misissugassatullu aalajangiussama inerneri aallaavigalugit nalilersuillunga allaaserinnissallunga. 
 
 1.2 Qulequttamik aalajangiineq:
 
-Ilinniartitsisutut ilinniarninni inaarutaasumik Bachelorimi misilitsinnissannut toqqarpara, nukarlerni atuartuni matematikkimi katiterinermiit amerlisaanermut ikaarsaarneq(multiplikation) atuartitsinermi atuartitseriutsit assigiinngitsut atorlugit paasiniarusuppara, atuartut suleriaaseq suna ilikkarsarnermi atoraangamikku ilikkagaqarnerusarnersut, tassani pineqarpoq atortut tigussaasut, tigussaanngitsut atorlugit ilikkarsaraangamik sorleq ilikkalertorfiginerusarneraat. Multiplikation toqqarneranut pissutaavoq tigussaasunik atortoqarluni atuartitsinermi sammisaq nutaaq, atuartunut tigussaasut atorlugit atuartitsissutigissallugu tulluartuummat. Nukarlerni atuartitsinermi ilikkagassatut anguniagassani allaqqavoq ”Piareersaataasumik amerlisaaneq ilinniassagaat”1. Atuartunut nukarlernut atuakkat misissornerini takusinnaavara 3. klassemi amerlisaaneq annikitsunnguamik aallartittaraat, taamaattumik tigussaasut atuakkallu atorlugit amerlisaanermik ilikkarsarneq aallarniutitut tulluartippara. Tassanittaaq sammerusuppara Sullivilersornerup iluani tigussaasut atuakkallu atorlugit ilikkarsarneq, ilaatigut atuartitsineq ilikkarluarfiusumi atuartitsinerup pitsaassusaanik tunngaviliisut ilai atorlugit atuartitserusullunga. Taassuma sammerusunneranut pissutaavoq, ilinniarfissuarmi matematikkimi ilinniarninni paasinikuugakku atuartut piginnaasaat ilikkartariaasaallu assigiinngitsut pissutigalugit, atortut tigussaasut atorlugit ilinniartitsineq atuartut ilaannut pingaaruteqartoq, ilinniakkaminnik paasisaqarluarnissaat sukkanerusumillu paasinninnissaat anguniarlugu. Aamma ilinniartitsisutut sulilinnginninni matematikkimi tigussaasut atorlugit ilinniartitsineq piareersimaffiginerorusullugu misissuiffigerusuppara. 
+Ilinniartitsisutut ilinniarninni inaarutaasumik Bachelorimi misilitsinnissannut toqqarpara, nukarlerni atuartuni matematikkimi katiterinermiit amerlisaanermut ikaarsaarneq(multiplikation)$(punct,cmp,1-2|ikaarsaarneq (multiplikation)) atuartitsinermi atuartitseriutsit assigiinngitsut atorlugit paasiniarusuppara, atuartut suleriaaseq suna ilikkarsarnermi atoraangamikku ilikkagaqarnerusarnersut, tassani pineqarpoq atortut tigussaasut, tigussaanngitsut atorlugit ilikkarsaraangamik sorleq ilikkalertorfiginerusarneraat. Multiplikation toqqarneranut pissutaavoq tigussaasunik atortoqarluni atuartitsinermi sammisaq nutaaq, atuartunut tigussaasut atorlugit atuartitsissutigissallugu tulluartuummat. Nukarlerni atuartitsinermi ilikkagassatut anguniagassani allaqqavoq ”Piareersaataasumik amerlisaaneq ilinniassagaat”. Atuartunut nukarlernut atuakkat misissornerini takusinnaavara 3. klassemi amerlisaaneq annikitsunnguamik aallartittaraat, taamaattumik tigussaasut atuakkallu atorlugit amerlisaanermik ilikkarsarneq aallarniutitut tulluartippara. Tassanittaaq sammerusuppara Sullivilersornerup iluani tigussaasut atuakkallu atorlugit ilikkarsarneq, ilaatigut atuartitsineq ilikkarluarfiusumi atuartitsinerup pitsaassusaanik tunngaviliisut ilai atorlugit atuartitserusullunga. Taassuma sammerusunneranut pissutaavoq, ilinniarfissuarmi matematikkimi ilinniarninni paasinikuugakku atuartut piginnaasaat ilikkartariaasaallu assigiinngitsut pissutigalugit, atortut tigussaasut atorlugit ilinniartitsineq atuartut ilaannut pingaaruteqartoq, ilinniakkaminnik paasisaqarluarnissaat sukkanerusumillu paasinninnissaat anguniarlugu. Aamma ilinniartitsisutut sulilinnginninni matematikkimi tigussaasut atorlugit ilinniartitsineq piareersimaffiginerorusullugu misissuiffigerusuppara. 
 
-1.3 Sammisassamik erseqqissaaneq (Problemformulering)
+1.3 Sammisassamik erseqqissaaneq ((Problemformulering))∞(dan)
 
 Qanoq ililluni nukarlerni atuartuni 3.klasseni atortut tigussaasut atuakkallu aallaavigalugit suleriaatsit assigiinngitsut atornerini amerlisaanermik ilikkalertorfiusumik atuartitsisisoqarsinnaava? 
 
@@ -104,9 +104,9 @@ Atuartut piginnaasaqarnerit suleriaatsit qanoq tiguaat?
 
 
 2 Misissuinerup siunertaa
-Bachelorprojektimi misissorusunnikuuara qanoq ililluni nukarlerni atuartuni 3. Klasseni atortut tigussaasut atuakkallu aallaavigalugit suleriaatsit assigiinngitsut atornerini amerlisaanermik ilikkalertorfiusumik atuartitsisoqarsinnaanersoq. Taama paasiniaanissaq uannut pisariaqarsimavoq, atuaqatigiit piginnaasaat assigiinngitsut klassemi atuartinneqartarneri ilinniartitsinermi ajornaatsuinnaaneq ajormat, atuartut piginnaasaat pisariaqartitaallu aallaavigalugit ajornaannerusumik atuartitsisinnaaneq ujartorusukkakku. Atuarfik pillugu inatsisartut inatsisaanni nr.15, 3. December 2012 kapitali 4 § 18-mi allaqqavoq: ”Atuartitsineq allanngorartuussaaq, atuartut ataasiakkaat pisariaqartitaannut piginnaariigaannullu naapertuuttuussalluni.”2. Atuaqatigiit piginnaasamikkut assigiinngitsut atuartinnerini akissutiserusutara ujartorusussimavara atuartut katiterinermiit amerlisaanermut ikaarsaarnermi qanoq atuartinneqarunik ilikkalertorsinnaanerunersut paaserusullugu. Aammalu ilinniartitsisutut sulileruma suleriaatsit, atuartullu  pisariaqartitaat aamma eqqumaffiginerusinnaajumallugit. 
+Bachelorprojektimi misissorusunnikuuara qanoq ililluni nukarlerni atuartuni 3. Klasseni atortut tigussaasut atuakkallu aallaavigalugit suleriaatsit assigiinngitsut atornerini amerlisaanermik ilikkalertorfiusumik atuartitsisoqarsinnaanersoq. Taama paasiniaanissaq uannut pisariaqarsimavoq, atuaqatigiit piginnaasaat assigiinngitsut klassemi atuartinneqartarneri ilinniartitsinermi ajornaatsuinnaaneq ajormat, atuartut piginnaasaat pisariaqartitaallu aallaavigalugit ajornaannerusumik atuartitsisinnaaneq ujartorusukkakku. Atuarfik pillugu inatsisartut inatsisaanni nr.15, 3. December 2012 kapitali 4 § 18-mi$(num,0-i|18-imi) allaqqavoq: ”Atuartitsineq allanngorartuussaaq, atuartut ataasiakkaat pisariaqartitaannut piginnaariigaannullu naapertuuttuussalluni.”. Atuaqatigiit piginnaasamikkut assigiinngitsut atuartinnerini akissutiserusutara ujartorusussimavara atuartut katiterinermiit amerlisaanermut ikaarsaarnermi qanoq atuartinneqarunik ilikkalertorsinnaanerunersut paaserusullugu. Aammalu ilinniartitsisutut sulileruma suleriaatsit, atuartullu  pisariaqartitaat aamma eqqumaffiginerusinnaajumallugit. 
 
-3. Misissueriaatsit 
+3. Misissueriaatsit KILLIFFIK
 
 Immikkoortumi uani qanoq misissueriaaseqassanerlunga aammalu misissuininni sakkut suut atussanerlugit eqqartussavakka naggataanilu sammisassamik killiliinera takutillugu. 
 3.1 Misissueriaaseq
