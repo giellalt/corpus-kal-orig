@@ -231,7 +231,7 @@ Oqaluutit nagguii naammassiffeqartutut ittunik isumallit ‘-sima’-mik uiguneq
 1. angerlarpoq ? angerlarsimavoq
 2. atisivoq ? atisisimavoq
 3. atisaajarpoq ? atisaajarsimavoq
-Assersuutit pineqartut nalinginnaasuunnginnerisa pissutigigunarpaat leksikaliserikkatut isumaqaramik, taamaattumillu nalinginnaasumik oqaluutit nagguii naammassiffeqartutut ittunik isumallit ‘-sima’-mik uiguneqartillutik piffisap$(typo,con,s,1-2|piffissap) qangiutereersimasutut atorneqarneranik ersersitsisussaagaluarlutik illuatungaanik piffissap ingerlaavartuuneranik ersersitsillutik, taamaalillutillu allanngujuitsutut isigisariaqarlutik.
+Assersuutit pineqartut nalinginnaasuunnginnerisa pissutigigunarpaat leksikaliserikkatut isumaqaramik, taamaattumillu nalinginnaasumik oqaluutit nagguii naammassiffeqartutut ittunik isumallit ‘-sima’-mik uiguneqartillutik piffisap$(typo,con,s,1-2|piffissap) qangiutereersimasutut$(typo,a,1-2|qaangiutereersimasutut) atorneqarneranik ersersitsisussaagaluarlutik illuatungaanik piffissap ingerlaavartuuneranik ersersitsillutik, taamaalillutillu allanngujuitsutut isigisariaqarlutik.
 
 Uiguut ‘-qqa’ uiguutitulli ‘-nga’-tut oqaluutit nagguii naammassiffeqartutut isikkullit pineqartillugit pissuseqarpoq, tassa nalinginnaasumik taakkununnga uiggiunneqarsinnaanani. Taamaattorli assersuutit marluk ulluinnarni tusartakkakka oqaluutit nagguiinut naammassiffeqartutut ittut nagguigalugit  ‘-qqa’-mik uiguuserneqartartut. Tassalu uku:
 1. atisivoq ? atiseqqavoq
