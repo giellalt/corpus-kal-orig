@@ -80,7 +80,7 @@ Isumaqarpunga niuernermik ingerlataqartuusoq Pisiffik A/S Kalaallit Nunaanni inu
 Suliffissuaq Pisiffik
 
 Piginnittuusut
-Pisiffik A/S qallunaat suliffeqarfissuanit Dagrofamit($(cmp,1-2|Dagrofamit () annertunerusumik piginneqataasoq) aammalu Greenland Venturemit pigineqarpoq, Pisiffik tassaavoq Pisiffik A/S-ip pisinniarfiutaasa¢(sub,der,n,2-1|pisiniarfiutaasa) taagutaat.
+Pisiffik A/S qallunaat suliffeqarfissuanit (Dagrofamit()$(cmp,1-2|Dagrofamit () annertunerusumik piginneqataasoq) aammalu Greenland Venturemit pigineqarpoq, Pisiffik tassaavoq Pisiffik A/S-ip pisinniarfiutaasa¢(sub,der,n,2-1|pisiniarfiutaasa) taagutaat.
 Pisiffik Sisimiuni qullersaqarfeqarpoq, immokkoortunit assigiinngitsunit ittuusunik/ningiuusunik  qullersaqarfik allaffiuvoq, sinerissamilu Pisiffeqarfinnut ingerlatsillutik aqutsisuullutik.
 
 Suliffeqarfiup ilisaritinnera

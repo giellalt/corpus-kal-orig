@@ -306,9 +306,9 @@ Najoqqutat allattorsimaffiat
 Atuakkiortoq aamma atuakkap naqiterneqarfia
 Atuakkap aqqa aamma ISBN nr.
 Bech, Hans Jørgen ; Hans Christian Hansen ; Anna Jørgensen ; Leif Ørsted Petersen & Peter Bollerslev
-© 2003 (by Gyldendalske boghandel, Nordisk Forlag A.S Copenhagen 
+© 2003 (by Gyldendalske boghandel, Nordisk Forlag A.S Copenhagen)∞(dan)
 
-Matematik i læreruddannelsen –Teori og praksis –en fagdidaktik)∞(dan)
+(Matematik i læreruddannelsen –Teori og praksis –en fagdidaktik)∞(dan)
 
 ISBN 87-00-36206-9
 Fleischer, Ane ; Dorrit Hansen ; Merete Jørgensen ; Inge-Lise Lynge & Kirsten Mortensen
@@ -335,16 +335,16 @@ Matikkut 4 –ILINNIARTITSISUP ATUAGAA (LÆRERENS BOG)∞(dan)
 ISBN 87-7975-079-6
 Imsen, Gunn
 © 2006, (Gyldendalske Boghandel, Nordisk Forlag A/S, København 
-1. udgave, 2. oplag, 2008
+1. udgave, 2. oplag, 2008)∞(dan)
 
-Elevens Verden –Indføring i pædagogisk psykolog)∞(dan)  
+(Elevens Verden –Indføring i pædagogisk psykolog)∞(dan)
 
 ISBN 978-87-02-03662-6
 Kristensen, Bo & Rikke Teglskov          
 2012 (Gyldendal A/S, københavn
-1. udgave, 1. oplag
+1. udgave, 1. oplag)∞(dan)
 
-MULTI 2B lærervejledning)∞(dan)
+(MULTI 2B lærervejledning)∞(dan)
 
 ISBN 9788702106879
 Kristensen, Bo & Rikke Teglskov
@@ -370,16 +370,16 @@ ISBN 978-87-02-11602-1
 
 
 Kvale, Steiner
-©1994 (Steinar Kvale og Studentlitteratur og for den danske udgave  Hans Reitzels Forlag a/s, København 1997
+©1994 (Steinar Kvale og Studentlitteratur og for den danske udgave  Hans Reitzels Forlag a/s, København 1997)∞(dan)
 
-INTERVIEW –En introduktion til det kvalitative forskningsinterview)∞(dan)
+(INTERVIEW –En introduktion til det kvalitative forskningsinterview)∞(dan)
 
 ISBN 87-412-2816-2
 Kvale, Steiner & Svend Brinkmann 
 © 2008 (SAGE Publications, Inc. og for den danske udgave Hans Reitzels Forlag,  Købehavn 2009   
-2. udgave, 1. oplag 2008
+2. udgave, 1. oplag 2008)∞(dan)
 
-INTERVIEW –Introduktion til et håndværk)∞(dan)
+(INTERVIEW –Introduktion til et håndværk)∞(dan)
 
 
 ISBN 978-87-412-5198-1
@@ -393,14 +393,14 @@ ISBN 87 7988 094 0
 
 
 (http://www.inerisaavik.gl
-http://www.inerisaavik.gl/fileadmin/user_upload/Ineri saavik/Laereplaner_gr/Yngste_gr/Matematik_yng.pdf  
+http://www.inerisaavik.gl/fileadmin/user_upload/Ineri saavik/Laereplaner_gr/Yngste_gr/Matematik_yng.pdf)∞(url) 
 
-http://www.inerisaavik.gl
-http://www.inerisaavik.gl/fag-og-projekter/effektive-undervisningsprincipper/info-om-crede-samt-artikler/    
+(http://www.inerisaavik.gl
+http://www.inerisaavik.gl/fag-og-projekter/effektive-undervisningsprincipper/info-om-crede-samt-artikler/)∞(url) 
 
-http://www.pernillepind.dk 
+(http://www.pernillepind.dk)∞(url) 
 
-http://pernillepind.dk/mambo/index.php?option =com_content&task=view&id=142&Itemid=156)∞(url) 
+(http://pernillepind.dk/mambo/index.php?option =com_content&task=view&id=142&Itemid=156)∞(url) 
 
 (Inatsisartutlov nr. 15 af 3. december 2012 om 
 folkeskolen)∞(dan)
@@ -421,11 +421,11 @@ Saqqaani assitarisap suminngaanneernera:
 
  
 (Bilag 1 –Start/Sluttest 
-Bilag 1.1 Starttest
+Bilag 1.1 Starttest)∞(dan)
 
 
 
-Bilag 1.2 Sluttest
+(Bilag 1.2 Sluttest)∞(dan)
 
 
 
@@ -433,7 +433,7 @@ Bilag 1.2 Sluttest
 
 
 
-Bilag 2 –Starttest resultater i excel 
+(Bilag 2 –Starttest resultater i excel 
 Starttest 17 opg
 I
 A
@@ -751,17 +751,17 @@ Naqinnerit Tabelimi qullermi inissisimasut tassaapput atuartut atiisa aallaqaata
 
 
 (Bilag 2.1 - Starttest resultater i søjlediagram i %  
-Starttest`s resultater i søjlediagram – Rigtig svarer er blå og forkertsvar eller ikke regnet er rød
+Starttest`s resultater i søjlediagram – Rigtig svarer er blå og forkertsvar eller ikke regnet er rød)∞(dan)
 
-Rigtigt svar i % (blå) = 72,27%      Forkert svar/ikke regnet resultater i % (rød) = 27,73%
-Bilag 3  Sluttest i søjlediagram i %
+(Rigtigt svar i % (blå) = 72,27%      Forkert svar/ikke regnet resultater i % (rød) = 27,73%
+Bilag 3  Sluttest i søjlediagram i %)∞(dan)
 
-Rigtigt svar i % (blå)= 90,30%
+(Rigtigt svar i % (blå)= 90,30%
 Forkert svar /ikke regnet i % (rød)= 9,70% 
 Bilag 4  Start & sluttest i % - af nogle elever – resultaterne kan sammenlignes 
 Initiativ 3.klasse 
 Starttest ud fra 17 opg.
-Sluttest ud fra 61 opg.
+Sluttest ud fra 61 opg.)∞(dan)
 I                        (d)
 82,35 %
 90,15 %
@@ -783,7 +783,7 @@ O                      (d)
 R                      (d)
 64,70 %
 100 %
-Dette er rigtigt svar i % ud fra start og sluttest som nogle elever der har lavet, fra)∞(dan) Atuarfik Hans Lynge.
+(Dette er rigtigt svar i % ud fra start og sluttest som nogle elever der har lavet, fra)∞(dan) Atuarfik Hans Lynge.
 
 
 
@@ -808,13 +808,13 @@ Dette er rigtigt svar i % ud fra start og sluttest som nogle elever der har lave
 
 
 
-(Bilag 5  -Spørgeskema til elever – svaret 
+(Bilag 5  -Spørgeskema til elever – svaret)∞(dan)
 
 
 
 
 
-Bilag 6 –Spørgeskema til lærer –svaret   
+(Bilag 6 –Spørgeskema til lærer –svaret   
 Bilag 6.1 Lærer 1)∞(dan)
 1) Katiterinermiit amerlisaanermut ikaarsaarnermi, atuartut amerlisaanermik ilinniartinnerini qanoq aallarniinissaq pitsaanerusoraajuk?
 
@@ -1019,7 +1019,7 @@ Atuartitsinera tamaat isigalugu, atuartut katiterinermiit amerlisaanermut ikaars
 
 
 
-Bilag 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 
+(Bilag)∞(dan) 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 
 Atuartitsinermut pilersaarut 3.a Hans Lyngep Atuarfia
 
 Praktikkertoq: Nivikkannguaq Mørch Reimer
@@ -1028,7 +1028,7 @@ Atuartut: 17-it
 Lektionit amerlassusaat: 16
 Sammisaq: Katiterinermiit amerlisaanermut ikaarsaarneq, aamma amerlisaaneq.
 
-Bilag 8.1 Ilikkagassatut anguniagassat
+(Bilag)∞(dan) 8.1 Ilikkagassatut anguniagassat
 
 Ilisimasassatigut angujumasat
 Kisitsisinik taalluartaagassiat kisitsisillu tulleriinneri ilisimassagaat
@@ -1057,18 +1057,18 @@ Qupperneq 24-25
 Kasse)∞(dan) (Inerisaavimmit)
 Saniatigut atuartitsinermi atortussat
 (Gratisskole.dk)∞(url) – Atortut tigussaasut.
-(Matematrix 2B
+(Matematrix 2B)
 
-Multi kopimappe)∞(dan) 2B
+(Multi kopimappe)∞(dan) 2B
 
 
-Bilag 8.2 Atuartitsinermit¢(typo,i-u|Atuartitsinermut) pilersaarut 
+(Bilag)∞(dan) 8.2 Atuartitsinermit¢(typo,i-u|Atuartitsinermut) pilersaarut 
 
-Skema
-Marlunngorneq/ Torsdag 08.15-09.45    Hold
-Sisamanngorneq/ Torsdag 10.15-11.45  Hold
-Uge 8
-Marlungorneq/ Tirsdag 19.februar 2013
+(Skema)∞(dan)
+Marlunngorneq/ (Torsdag 08.15-09.45    Hold)∞(dan)
+Sisamanngorneq/ (Torsdag 10.15-11.45  Hold
+Uge)∞(dan) 8
+Marlungorneq/ (Tirsdag 19.februar 2013)∞(dan)
 Misilitsinneq/(Test  starttest)∞(dan)
 
 Sullivinni sulineq / (Arbejde i aktiviteter hvert 15minutter. 
@@ -1082,9 +1082,9 @@ Sisamanngorneq/ (Torsdag)∞(dan) 21.februar 2012
 Nigalinngorluni tabelilerineq/ (Tabel leg i rundkreds)∞(dan)
 Siuleriilluni tabelilerineq / (Tabel leg i elevrække)∞(dan) 
 ”Matikkut 4B” qupp/(side 24
-Ekstra opgave  kopiside 23
+Ekstra opgave  kopiside 23)∞(dan)
 
-Uge)∞(dan) 9
+(Uge)∞(dan) 9
 Marlungorneq/ (Tirsdag)∞(dan) 26.februar 2013
 Sullivinni sulineq / (Arbejde i aktiviteter)∞(dan)
 1. Tabelit qalipallugit / (Male tabelark 
@@ -1142,20 +1142,20 @@ Naliliineq.
 
 
 
-Bilag 9 Powerpoint
+(Bilag)∞(dan) 9 Powerpoint
 Atuartitsineq aallartimmat saqqummiussaq 7.marts.13 
 Kisitsineq / (Matematik)∞(dan)
 3.A Atuarfik Hans Lynge 
 
 
 Kisitseriaatsit pingasut ilisarnaataat / (3 regningsarter)∞(dan)
-Plus 	   +
-Minus	   -
-Gange	     x
+(Plus)∞(dan) 	   +
+(Minus)∞(dan)	   -
+(Gange)∞(dan)	     x
 
 
-Katiterineq / Plus
-Amerlisaaneq / Gange
+Katiterineq / (Plus)∞(dan)
+Amerlisaaneq / (Gange)∞(dan)
 
 1 2+2+2+2+2=
 2 3+3+3+3=
@@ -1173,12 +1173,12 @@ Amerlisaaneq / Gange
 (Gangehistorie)∞(dan)
 Aina, Inuk aamma Lulu immikkut 5kr.-iuteqarput. 5kr.-iutaat katikkaanni qanoq amerlatigissappat?
 
-(Aina, Inuk og Lulu har 5kr. hver. Hvor meget har de tilsammen?  
+(Aina, Inuk og Lulu har 5kr. hver. Hvor meget har de tilsammen?)∞(dan) 
 
 
-Bilag)∞(dan) 9 Powerpoint
+(Bilag)∞(dan) 9 Powerpoint
 
-Amerlisaaneq / Gange
+Amerlisaaneq / (Gange)∞(dan)
 =
 
 
@@ -1232,8 +1232,8 @@ Tamatumunnga ilaatillugu, atuartitsinerup ilaa, inip atuarfiusup avataani ingerl
 
 
 
-Bilag 11 Atuartut suliassaat/ Suliaat 
+(Bilag)∞(dan) 11 Atuartut suliassaat/ Suliaat 
 
 
 
-Bilag 12 (CREDE standards –Metode)∞(dan) –Periuseq$(cmp,1-2|– Periuseq) 
+(Bilag 12 CREDE standards –Metode)∞(dan) (–Periuseq)$(cmp,1-2|– Periuseq)
