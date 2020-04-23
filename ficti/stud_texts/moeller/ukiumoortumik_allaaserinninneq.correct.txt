@@ -36,8 +36,8 @@ Najoqqutarisat apersorneqartullu................................................
 							
 Siulequt
 
-Suliffissuaq Pisiffik A/S sammivara. Pisiffik pisinniarfiuvoq¢(sub,der,n,2-1|pisiniarfiuvoq) assigiinngitsorpassuarnik nioqqutissalik, arlalinnullu immikkoortortanut agguagaasoq. Pisiffik A/S allaaserisassatut soqutigigalugu$(typo,gi-0|soqutigalugu) toqqarpara, pissutigalugu suliffissuit niuernermik ingerlataqartut soqutigigakkit, qularutiginnginnakkulu Pisiffik inuiaqatigiinni pinngitsoorneqarsinnaanngitsumik inissisimasoq, taamaalillungalu Pisiffimmut tunngasunik paaserusutannik katersillunga allaaserinnippunga.
- Pisiffik pillugu paasissutissanik sunngiffinni Pisattani sulininni pissarsisarpunga, taamaalillunga Pisiffik pillugu ilisimasaqalaareerpunga. Paaserusutaralu Pisattani suleqatinnut apeqqutigaara, suleqatiga pisinniarfimmiutut¢(sub,der,n,2-1|pisiniarfimmiutut) ilinniartuummat Pisiffimmullu tunngasunik ilisimasaqarluni. Paaserusutamalu sinneri ilisimanngisakka Pisiffiup nittartagaanut iserlunga, aammalu Pisiffimmut tunngasunik paasissutissanik nittartakkami qinerlerlunga paasiniarpakka. 
+Suliffissuaq Pisiffik A/S sammivara. Pisiffik {pisinniarfiuvoq}¢{sub,der,n,2-1|pisiniarfiuvoq} assigiinngitsorpassuarnik nioqqutissalik, arlalinnullu immikkoortortanut agguagaasoq. Pisiffik A/S allaaserisassatut {soqutigigalugu}${typo,gi-0|soqutigalugu} toqqarpara, pissutigalugu suliffissuit niuernermik ingerlataqartut soqutigigakkit, qularutiginnginnakkulu Pisiffik inuiaqatigiinni pinngitsoorneqarsinnaanngitsumik inissisimasoq, taamaalillungalu Pisiffimmut tunngasunik paaserusutannik katersillunga allaaserinnippunga.
+ Pisiffik pillugu paasissutissanik sunngiffinni Pisattani sulininni pissarsisarpunga, taamaalillunga Pisiffik pillugu ilisimasaqalaareerpunga. Paaserusutaralu Pisattani suleqatinnut apeqqutigaara, suleqatiga {pisinniarfimmiutut}¢{sub,der,n,2-1|pisiniarfimmiutut} ilinniartuummat Pisiffimmullu tunngasunik ilisimasaqarluni. Paaserusutamalu sinneri ilisimanngisakka Pisiffiup nittartagaanut iserlunga, aammalu Pisiffimmut tunngasunik paasissutissanik nittartakkami qinerlerlunga paasiniarpakka. 
 
 
 
@@ -58,7 +58,7 @@ Suliffissuaq Pisiffik A/S sammivara. Pisiffik pisinniarfiuvoq¢(sub,der,n,2-1|pi
 Siunertaa
 
 Ulluinnarni Pisiffik inuiaqatigiinni assigiinngitsutigut pinngitsoorneqarsinnaanngitsoq qularutiginngilara. Taamaammat Suliffissuup Pisiffiup samminerani pingaarnertut paasiniarlugit sammivakka: kikkut piginnittuunersut, Pisiffiup ilisaritinnera, qanoq ingerlatsinersut, qanoq nioqqutissanik piniartarnersut, ilinniartoqarneq, aningaasanik kaaviaartitsineq. 
-Isumaqarpunga niuernermik ingerlataqartuusoq Pisiffik A/S Kalaallit Nunaanni inuiaqatigiit akornanni pingaaruteqartuusoq, taamaammat siunertaraara itinerulaamik Pisiffimmut tunngasunik paasissutissanik inuiaqatigiinni paasissutaasinnaasunik allaatiginninnissara. Inoqarmammi Pisiffimmut tunngasunik ilisimasaqanngitsunik, assersuutigalugu Pisiffiup piginnittuisa kikkuunerinik, qanoq ingerlanneqarnera. Isumaqarpungalu tamakkununnga ilisimasaqarpallaanngitsunut ulluinnarnilu pisinniartartuusunut¢(sub,der,n,2-1|pisiniartartuusunut) tamanna siunertaq soqutiginarsinnaasoq.
+Isumaqarpunga niuernermik ingerlataqartuusoq Pisiffik A/S Kalaallit Nunaanni inuiaqatigiit akornanni pingaaruteqartuusoq, taamaammat siunertaraara itinerulaamik Pisiffimmut tunngasunik paasissutissanik inuiaqatigiinni paasissutaasinnaasunik allaatiginninnissara. Inoqarmammi Pisiffimmut tunngasunik ilisimasaqanngitsunik, assersuutigalugu Pisiffiup piginnittuisa kikkuunerinik, qanoq ingerlanneqarnera. Isumaqarpungalu tamakkununnga ilisimasaqarpallaanngitsunut ulluinnarnilu {pisinniartartuusunut}¢{sub,der,n,2-1|pisiniartartuusunut} tamanna siunertaq soqutiginarsinnaasoq.
 
 
 
@@ -80,47 +80,47 @@ Isumaqarpunga niuernermik ingerlataqartuusoq Pisiffik A/S Kalaallit Nunaanni inu
 Suliffissuaq Pisiffik
 
 Piginnittuusut
-Pisiffik A/S qallunaat suliffeqarfissuanit (Dagrofamit()$(cmp,1-2|Dagrofamit () annertunerusumik piginneqataasoq) aammalu Greenland Venturemit pigineqarpoq, Pisiffik tassaavoq Pisiffik A/S-ip pisinniarfiutaasa¢(sub,der,n,2-1|pisiniarfiutaasa) taagutaat.
+Pisiffik A/S qallunaat suliffeqarfissuanit (Dagrofamit()$(cmp,1-2|Dagrofamit () annertunerusumik piginneqataasoq) aammalu Greenland Venturemit pigineqarpoq, Pisiffik tassaavoq Pisiffik A/S-ip {pisinniarfiutaasa}¢{sub,der,n,2-1|pisiniarfiutaasa} taagutaat.
 Pisiffik Sisimiuni qullersaqarfeqarpoq, immokkoortunit assigiinngitsunit ittuusunik/ningiuusunik  qullersaqarfik allaffiuvoq, sinerissamilu Pisiffeqarfinnut ingerlatsillutik aqutsisuullutik.
 
 Suliffeqarfiup ilisaritinnera
 Pisiffik 1774-imiilli tunngavilerneqarpoq, 1986-imi KGH Namminersornerullutik Oqartussanit tiguneqarpoq, ingerlateqqinneqarlunilu Kalaallit Niuerfiat (KNI) taaguutigalugu. 1993-imilu KNI suliffeqarfinnut arlaqartunut aggorneqarpoq, taamaalilluni aktieselskabit arlallit, soorlu Royal Arctic Line aammalu pisiniarfitsigut ingerlatsiviit marluk Pisiffik Pilersuisorlu pilersinneqarlutik. 2001-imi Pisiffik namminersortunit aningaasaliinikkut tiguneqarpoq.
 
-Pisiffik A/S nerisassanik, tamanut atisassanik, piniutinik, pequtinik, pisattanik allarpassuarnillu pisinniarfiuvoq¢(sub,der,n,2-1|pisinniarfiuvoq). Pisiffiup pisinniarfii¢(sub,der,n,2-1|pisiniarfii) immikkoortunut assigiinngitsunut agguagaapput ukuullutillu: 
-Torrak Fashioni pinngussanik, pinnersaatinik, tipigissaatinik, angutinut arnanut meeqqanullu atisassianik allarpassuarnillu pisinniarfiusoq¢(sub,der,n,2-1|pisiniarfiusoq). Jysk Sengetøjslageri illup iluani pisattanik, pequtinik,siniffinnik$(cmp,1-2|pequtinik, siniffinnik) assigiinngitsorpassuarnillu nioqquteqarpoq. Pisattat igaffimmi atortunik, tunissutissaqqissunik, isiginnaarutinik allarpassuarnillu nioqquteqarpoq. Spari nerisassanik pisinniarfeeraavoq¢(sub,der,n,2-1|pisiniarfeeraavoq), inoqarfinnullu qanittumi inissisimasarluni, unnuullu tungaanut ammasarpoq. Idemøbler sinerissami kisiartaalluni Nuummi inissisimavoq, tassanilu pisattat, pequtit pitsaassuit¢(typo,a,2-1|pitsassuit) akisuullu pisinarineqarsinnaallutik¢(typo,n-0|pisiarineqarsinnaallutik)                                                                                                                    
-Pisinniarfiit¢(sub,der,n,2-1|Pisiniarfiit) Pisiffik, Torrak Fashioni, Pisattat, Jysk Sengetøjslageri Sparilu kitaani  illoqarfinni annerni Ilulissani, Aasianni, Sisimiuni, Maniitsumi, Nuummi aammalu Qaqortumi taamaallaat pisinniarfiupput¢(sub,der,n,2-1|pisiniarfiupput). Pisiffik A/S ukiuni kingullerni agguaqatigiissillugu 500 sinnerlugit sulisoqarpoq.
+Pisiffik A/S nerisassanik, tamanut atisassanik, piniutinik, pequtinik, pisattanik allarpassuarnillu {pisinniarfiuvoq}¢{sub,der,n,2-1|pisinniarfiuvoq}. Pisiffiup {pisinniarfii}¢{sub,der,n,2-1|pisiniarfii} immikkoortunut assigiinngitsunut agguagaapput ukuullutillu: 
+Torrak Fashioni pinngussanik, pinnersaatinik, tipigissaatinik, angutinut arnanut meeqqanullu atisassianik allarpassuarnillu {pisinniarfiusoq}¢{sub,der,n,2-1|pisiniarfiusoq}. Jysk Sengetøjslageri illup iluani pisattanik, {pequtinik,siniffinnik}${cmp,1-2|pequtinik, siniffinnik} assigiinngitsorpassuarnillu nioqquteqarpoq. Pisattat igaffimmi atortunik, tunissutissaqqissunik, isiginnaarutinik allarpassuarnillu nioqquteqarpoq. Spari nerisassanik {pisinniarfeeraavoq}¢{sub,der,n,2-1|pisiniarfeeraavoq}, inoqarfinnullu qanittumi inissisimasarluni, unnuullu tungaanut ammasarpoq. Idemøbler sinerissami kisiartaalluni Nuummi inissisimavoq, tassanilu pisattat, pequtit {pitsaassuit}¢{typo,a,2-1|pitsassuit} akisuullu {pisinarineqarsinnaallutik}¢{typo,n-0|pisiarineqarsinnaallutik}                                                                                                                    
+{Pisinniarfiit}¢{sub,der,n,2-1|Pisiniarfiit} Pisiffik, Torrak Fashioni, Pisattat, Jysk Sengetøjslageri Sparilu kitaani  illoqarfinni annerni Ilulissani, Aasianni, Sisimiuni, Maniitsumi, Nuummi aammalu Qaqortumi taamaallaat {pisinniarfiupput}¢{sub,der,n,2-1|pisiniarfiupput}. Pisiffik A/S ukiuni kingullerni agguaqatigiissillugu 500 sinnerlugit sulisoqarpoq.
 
 Aammattaaq pitsaassuseq nioqqutissatigut, akitigut sullissinermilu Pisiffimmit pingaartinneqarpoq. Taamaammat Pisiffimmi sulisut suleqatigiillutik, sullitaminnut pitsaanerpaamik sullissinissartik anguniartuaannarpaat.  
 Pisiffik sapaatip akunneri tamaasa aviiseeqqatigut nioqqutissanik neqerooruteqartarpoq, aviiseeqqallu illunut agguaanneqartarput. Aviiseeqqanillu agguaaffigineqarsimanngikkaanni Pisiffiup nittartagaanut {www.pisiffik.gl-mut}∞{url} iserluni sapaatip akunnerata neqeroorutai malinnaaffigineqarsinnaapput.
 
-Pisinniarfiit¢(sub,der,n,2-1|Pisiniarfiit) assigiinngitsut taakkua immikkut tamarmik immikkoortortani aqutsisoqarput, taakkualu pisiniarfinni aqutsisut aamma qaffasinnerusunik ningioqarlutik/ittoqarlutik taamatullu qaffakkaluttuinnartunik aqutsisoqarlutik. 
+{Pisinniarfiit}¢{sub,der,n,2-1|Pisiniarfiit} assigiinngitsut taakkua immikkut tamarmik immikkoortortani aqutsisoqarput, taakkualu pisiniarfinni aqutsisut aamma qaffasinnerusunik ningioqarlutik/ittoqarlutik taamatullu qaffakkaluttuinnartunik aqutsisoqarlutik. 
 
 Ingerlatsineq
 Immikkoortortami aqutsisut pisinniarfiup aqunnissaa akisussaaffigisarpaat, Sisimiunilu qullersaqarfimmi qulliunerusut ningiut/ittut misissortarpaat immikkoortortat ajunngitsumik ingerlanneqarnersut.
-Immikkoortortamilu aqutsisoq annertuumik akisussaassuseqarluni pingaarnertut ilaatigut makkua isumagisassarai: pisinniartitsisut¢(sub,der,n,2-1|pisiniartitsisut)/sulisut aqunnissaat, sulisumilu suliai ajunnginnersut, pisinniarfiup¢(sub,der,n,2-1|pisiniarfiup) pitsaasuunissaa, nioqqutissanik piniartarnerit, pisinniartartunut¢(sub,der,n,2-1|pisiniartartunut) sullissilluarnissaq,
-pisinniarfimmut¢(sub,der,n,2-1|pisiniarfimmut) ineriartortitsinissaq, ukiumoortumik aningaasanik isertitassanik, aningaasanillu atugassanik missingersuusiorneq, pisinniarfiullu¢(sub,der,n,2-1|pisiniarfiullu) sinneqartoortumik ingerlanissaa allarpassuarnillu.
+Immikkoortortamilu aqutsisoq annertuumik akisussaassuseqarluni pingaarnertut ilaatigut makkua isumagisassarai: {pisinniartitsisut}¢{sub,der,n,2-1|pisiniartitsisut}/sulisut aqunnissaat, sulisumilu suliai ajunnginnersut, {pisinniarfiup}¢{sub,der,n,2-1|pisiniarfiup} pitsaasuunissaa, nioqqutissanik piniartarnerit, {pisinniartartunut}¢{sub,der,n,2-1|pisiniartartunut} sullissilluarnissaq,
+{pisinniarfimmut}¢{sub,der,n,2-1|pisiniarfimmut} ineriartortitsinissaq, ukiumoortumik aningaasanik isertitassanik, aningaasanillu atugassanik missingersuusiorneq, {pisinniarfiullu}¢{sub,der,n,2-1|pisiniarfiullu} sinneqartoortumik ingerlanissaa allarpassuarnillu.
 
 Nioqqutissanik piniartarneq				
-Pisinniarfiit¢(sub,der,n,2-1|Pisiniarfiit) immikkoortortaanni aqutsisuusut namminneq nioqqutissatik piniartarpaat, kisianni suna tamarmi nioqqutissaq piniarneqarsinnaasanngilaq, tassami Sisimiuni qullersaqarfinni piniartartuusut aalajangertarpaat suut immikkoortortami piniarneqarsinnaasersut$(typo,s-n|piniarneqarsinnaanersut). Immikkoortortat assigiinngitsut tamarmik nioqqutissanik immikkoortitikkanik (aalajangersimasunik) piniagassaqartarpoq, assersuutigalugu ilaatigut meqqit aalajangersimalluinnartut. 
+{Pisinniarfiit}¢{sub,der,n,2-1|Pisiniarfiit} immikkoortortaanni aqutsisuusut namminneq nioqqutissatik piniartarpaat, kisianni suna tamarmi nioqqutissaq piniarneqarsinnaasanngilaq, tassami Sisimiuni qullersaqarfinni piniartartuusut aalajangertarpaat suut immikkoortortami {piniarneqarsinnaasersut}${typo,s-n|piniarneqarsinnaanersut}. Immikkoortortat assigiinngitsut tamarmik nioqqutissanik immikkoortitikkanik (aalajangersimasunik) piniagassaqartarpoq, assersuutigalugu ilaatigut meqqit aalajangersimalluinnartut. 
 
 Ilinniartitaaneq
-Pisiffik ullumikkut (30-40-ullu$(num,u-0|30-40-llu) missaani)£(x|30-40-llu missaanni) Pisiffimmi immikkoortortaanilu sinerissami ilinniartoqarpoq, tassa ilinniartut ilinniarnerminnut atatillugu Pisiffik suliffittut misiliiffigisarpaat. Suliffimmilu misileereeraangamik atuagarsoriartortarput, assersuutigalugu Niuernermut Ilinniarfimmut Nuummiittumut. Atuagarsoriartorneq pisarpoq apeqqutaalluni sumut ilinniartuunerluni.
- Pisiffiup ilinniartui assigiinngitsunik ilinniagaqarput, ilaatigut pingaarnertut makkuninnga ilinniagaqartuullutik: neqaarnianngorniat, iffiortunngorniat, allaffimmiunngorniat, pisinniarfimmiunngorniallu¢(sub,der,n,2-1|pisiniarfimmiunngorniallu). Pisinniarfimmiunngorniaraannilu¢(sub,der,n,2-1|Pisiniarfimmiunngorniaraannilu) immikkut sammisaqarluni ilinniartoqarsinnaavoq, assersuutigalugu inuussutissanut tunngasunik, atisanut tunngasunik, atortussanut tunngasunik, pequtinut tunngasunik aammalu elektroniskinut tunngasunut. 
-Neqaarnianngorniaraanni, allaffimmiunngorniaraanni aammalu pisinniarfimmiunngorniaraanni¢(sub,der,n,2-1|pisiniarfimmiunngorniaraanni) ilinniarneq ukiunik sisamanik sivisussuseqartarpoq, iffiortunngorniarneq ukiunik pingasunik qaammatinillu arfineq-marlunnik sivisussuseqarpoq.
+Pisiffik ullumikkut {{30-40-ullu}${num,u-0|30-40-llu} {missaani}}£{x|30-40-llu missaanni} Pisiffimmi immikkoortortaanilu sinerissami ilinniartoqarpoq, tassa ilinniartut ilinniarnerminnut atatillugu Pisiffik suliffittut misiliiffigisarpaat. Suliffimmilu misileereeraangamik atuagarsoriartortarput, assersuutigalugu Niuernermut Ilinniarfimmut Nuummiittumut. Atuagarsoriartorneq pisarpoq apeqqutaalluni sumut ilinniartuunerluni.
+ Pisiffiup ilinniartui assigiinngitsunik ilinniagaqarput, ilaatigut pingaarnertut makkuninnga ilinniagaqartuullutik: neqaarnianngorniat, iffiortunngorniat, allaffimmiunngorniat, {pisinniarfimmiunngorniallu}¢{sub,der,n,2-1|pisiniarfimmiunngorniallu}. {Pisinniarfimmiunngorniaraannilu}¢{sub,der,n,2-1|Pisiniarfimmiunngorniaraannilu} immikkut sammisaqarluni ilinniartoqarsinnaavoq, assersuutigalugu inuussutissanut tunngasunik, atisanut tunngasunik, atortussanut tunngasunik, pequtinut tunngasunik aammalu elektroniskinut tunngasunut. 
+Neqaarnianngorniaraanni, allaffimmiunngorniaraanni aammalu {pisinniarfimmiunngorniaraanni}¢{sub,der,n,2-1|pisiniarfimmiunngorniaraanni} ilinniarneq ukiunik sisamanik sivisussuseqartarpoq, iffiortunngorniarneq ukiunik pingasunik qaammatinillu arfineq-marlunnik sivisussuseqarpoq.
 Neqaarniatut iffiortutullu qinnuteqarniaraanni piumaasaaqaataapput meeqqat atuarfiannit ukiumoortumik nalilerneqarnermi misilitsinnermilu karakterit agguaqatigiissinneranni (FSA): Qallunaatut 7, Tuluttut 6, {Matematik 7, Fysik/Kemi}∞{dan} 6.  
-Qinuteqartut$(typo,n,1-2|Qinnuteqartut) allat meeqqat atuarfiannit oqaaseqaatit naapertorlugit nalilerneqartassapput.
-Allaffimmiutut pisinniarfimmiutullu¢(sub,der,n,2-1|pisiniarfimmiutullu) qinuteqarniaraanni$(typo,n,1-2|qinnuteqarniaraanni) piumasaqaataapput kalaallisoorneq, qallunaatoorneq, tuluttoorneq aamma kisitsineq / matematikki taamaasa$(typo,a,2-1|tamaasa) immikkut minnerpaamik karakteerimik 7-mik$(num,0-i|7-imik) ukiumoortumik misilitsinnermilu karakteereqarfigalugit Meeqqat Atuarfiannit 11. klassimit misilitsereerluni anisimanissaq.
+{Qinuteqartut}${typo,n,1-2|Qinnuteqartut} allat meeqqat atuarfiannit oqaaseqaatit naapertorlugit nalilerneqartassapput.
+Allaffimmiutut {pisinniarfimmiutullu}¢{sub,der,n,2-1|pisiniarfimmiutullu} {qinuteqarniaraanni}${typo,n,1-2|qinnuteqarniaraanni} piumasaqaataapput kalaallisoorneq, qallunaatoorneq, tuluttoorneq aamma kisitsineq / matematikki {taamaasa}${typo,a,2-1|tamaasa} immikkut minnerpaamik karakteerimik {7-mik}${num,0-i|7-imik} ukiumoortumik misilitsinnermilu karakteereqarfigalugit Meeqqat Atuarfiannit 11. klassimit misilitsereerluni anisimanissaq.
 Pisiffimmi ilinniakkamik naammassinnikkaanni aammattaaq periarfissaajuarpoq qaffasinnerusumut ingerlaqqinnissaq, imaluunniit pikkorissartarnikkut atorfimmut qaffasinnerusumut ingerlaqqissinnaaneq.
  Aningaasanik kaaviiartitsineq
-Pisiffiup 2000-imiit 2005-imut aningaasanik kaaviaartitsinera tabeli 1.-imi takuneqarsinnaavoq. Ukiuni taakkunani ukiumut agguaqatigiissillugu 789,5 million kr.-nit¢(num,n-0|kr.-it) Pisiffiup kaaviiartissimavai, aningaasartuutillu tamaasa peereerlugit ukiumut agguaqatigiissillugu 26 million kr-nit¢(num,n-0|kr.-it) Pisiffiup sinneqartoorutigisimallugit.
-Pisiffiup aningaasanik isertitaminik assigiinngitsorpassuit akiligassani akileqqaartarpai, assersuutigalugu: innaallagiaq, pisinniarfinnik¢(sub,der,n,2-1|pisiniarfinnik) aserfallatsaaliineq, sulisuminut akissarsisitsineq allarpassuillu, taamaalilluni sinneqartooruteqarnerluni imaluunniit amigartooruteqarnerluni aatsaat akiligassat akilereerneratigut paasineqartarpoq.
+Pisiffiup 2000-imiit 2005-imut aningaasanik kaaviaartitsinera tabeli 1.-imi takuneqarsinnaavoq. Ukiuni taakkunani ukiumut agguaqatigiissillugu 789,5 million {kr.-nit}¢{num,n-0|kr.-it} Pisiffiup kaaviiartissimavai, aningaasartuutillu tamaasa peereerlugit ukiumut agguaqatigiissillugu 26 million {kr-nit}¢{num,n-0|kr.-it} Pisiffiup sinneqartoorutigisimallugit.
+Pisiffiup aningaasanik isertitaminik assigiinngitsorpassuit akiligassani akileqqaartarpai, assersuutigalugu: innaallagiaq, {pisinniarfinnik}¢{sub,der,n,2-1|pisiniarfinnik} aserfallatsaaliineq, sulisuminut akissarsisitsineq allarpassuillu, taamaalilluni sinneqartooruteqarnerluni imaluunniit amigartooruteqarnerluni aatsaat akiligassat akilereerneratigut paasineqartarpoq.
 Qularnaatsumillu Pisiffiup sinneqartoorluni ingerlanera tabel 1.-mi takusinnaavarput. Taamaammat Pisiffik A/S-ip inuiaqatigiinni pinngitsoorneqarsinnaannginnera tassuunattaaq takuneqarsinnaavoq.
 Tigusiffinnik nalunaaqutsersuineq
 
 1986-imi KGH Namminersornerullutik Oqartussanit tiguneqarpoq, ingerlateqqinneqarlunilu Kalaallit Niuerfiat (KNI) taaguutigalugu (1). 1993-imilu KNI suliffeqarfinnut arlaqartunut aggorneqarpoq, taamaalilluni aktieselskabit arlallit, soorlu Royal Arctic Line aammalu pisiniarfitsigut ingerlatsiviit marluk Pisiffik Pilersuisorlu pilersinneqarlutik (2). 2001-imi Pisiffik namminersortunit aningaasaliinikkut tiguneqarpoq (3).	
-         Kalaallisoorneq, qallunaatoorneq, tuluttoorneq aamma kisitsineq / matematikki taamaasa$(typo,a,2-1|tamaasa) immikkut minnerpaamik karakteerimik 7-mik$(num,0-i|7-imik) ukiumoortumik misilitsinnermilu karakteereqarfigalugit Meeqqat Atuarfiannit 11. klassimit misilitsereerluni anisimanissaq (4). 
+         Kalaallisoorneq, qallunaatoorneq, tuluttoorneq aamma kisitsineq / matematikki {taamaasa}${typo,a,2-1|tamaasa} immikkut minnerpaamik karakteerimik {7-mik}${num,0-i|7-imik} ukiumoortumik misilitsinnermilu karakteereqarfigalugit Meeqqat Atuarfiannit 11. klassimit misilitsereerluni anisimanissaq (4). 
           Meeqqat atuarfiannit ukiumoortumik nalilerneqarnermi misilitsinnermilu karakterit agguaqatigiissinneranni (FSA): Qallunaatut 7, Tuluttut 6, {Matematik 7, Fysik/Kemi}∞{dan} 6.  
-Qinuteqartut$(typo,n,1-2|Qinnuteqartut) allat meeqqat atuarfiannit oqaaseqaatit naapertorlugit nalilerneqartassapput (5).						
+{Qinuteqartut}${typo,n,1-2|Qinnuteqartut} allat meeqqat atuarfiannit oqaaseqaatit naapertorlugit nalilerneqartassapput (5).						
 
 
 
@@ -155,7 +155,7 @@ Kaaviiartitaviit (mio. kr.)
 811
 807
 821
-Akileraartigani$(sub,infl,ga-nna|Akileraartinnani)
+{Akileraartigani}${sub,infl,ga-nna|Akileraartinnani}
 angusat (mio. kr.)
 42
 21
@@ -170,17 +170,17 @@ Kalaallit Nunaat 2007, Ukiumoortumik kisitsisitigut paasissutissat-niit tigusaq,
 
 Ass. 1
 
-Pisiffiup nerisassaarniarfia SB Nuummiitoq$(typo,t,1-2|Nuummiittoq). Uani takuneqarsinnaavoq inuusuttuaraq nioqqutissanik ilioraasoq. 
+Pisiffiup nerisassaarniarfia SB {Nuummiitoq}${typo,t,1-2|Nuummiittoq}. Uani takuneqarsinnaavoq inuusuttuaraq nioqqutissanik ilioraasoq. 
 
  Tigusiffik: {http://sermitsiaq.gl/multimedia/archive/00020/Pipaluk-arb-027_20839l.jpg}∞{url} 
 
 
 Naggasiut
 
-Suliffissuaq Pisiffik A/S pillugu paasisakka pingaarnerit tassaapput: Pisiffiup aningaasanik kaaviaartitsinerata$(typo,i,1-2|kaaviiaartitsinerata) sinneqartooruteqartarnera ukiuni 2000-miit$(num,0-i|2000-imiit)  2005-i ilanngullugu, Pisiffiullu oqaluttuarisaanerata 1774-miilli$(num,0-i|1774-imiilli) aallartissimanera. 
-Pisiffiup suliffeqarfittut imminut napatissinnaanera aningaasanillu sinneqartooruteqartarnera isumaqarpunga pingaartuusut, tassami Pisiffiup nunatta karsianut akileraartarnera ullutsinni inuiaqatigiinni pinngitsoorneqarsinnaanngitsutut taaneqarsinnaanera qularutissaanngimmat. Aammattaaq Pisiffiup assigiingitsorpassuarnik$(typo,ng-nng|assigiinngitsorpassuarnik) nioqquteqartarnera neqerooruteqartarneralu inuiaqatigiinni pinngitsoorneqarsinnaanilu oqilisaasuummat. 
+Suliffissuaq Pisiffik A/S pillugu paasisakka pingaarnerit tassaapput: Pisiffiup aningaasanik {kaaviaartitsinerata}${typo,i,1-2|kaaviiaartitsinerata} sinneqartooruteqartarnera ukiuni {2000-miit}${num,0-i|2000-imiit}  2005-i ilanngullugu, Pisiffiullu oqaluttuarisaanerata {1774-miilli}${num,0-i|1774-imiilli} aallartissimanera. 
+Pisiffiup suliffeqarfittut imminut napatissinnaanera aningaasanillu sinneqartooruteqartarnera isumaqarpunga pingaartuusut, tassami Pisiffiup nunatta karsianut akileraartarnera ullutsinni inuiaqatigiinni pinngitsoorneqarsinnaanngitsutut taaneqarsinnaanera qularutissaanngimmat. Aammattaaq Pisiffiup {assigiingitsorpassuarnik}${typo,ng-nng|assigiinngitsorpassuarnik} nioqquteqartarnera neqerooruteqartarneralu inuiaqatigiinni pinngitsoorneqarsinnaanilu oqilisaasuummat. 
 Pisiffiuttaaq kalaallinik suliffissaqartitsilluarnera tamatsinnut iluaqutigaarput.
-Pisiffiup oqaluttuarisaanera nittartakkatigut ujartorlugu nassaaraara, tupaallappungalu Pisiffik siornatigut KGH-mik KNI-millu taaguuteqarsimasoq 1774-miilli$(num,0-i|1774-imiilli) tunngavilerneqarsimammat, isumaqarpungalu allaaserinninneq takinerusinnaasuuppat Pisiffiup oqaluttuarisaanera itinerusumik sammisinnaagaluarlugu, pissanganarunarlunilu soqutiginaqimmat.
+Pisiffiup oqaluttuarisaanera nittartakkatigut ujartorlugu nassaaraara, tupaallappungalu Pisiffik siornatigut KGH-mik KNI-millu taaguuteqarsimasoq {1774-miilli}${num,0-i|1774-imiilli} tunngavilerneqarsimammat, isumaqarpungalu allaaserinninneq takinerusinnaasuuppat Pisiffiup oqaluttuarisaanera itinerusumik sammisinnaagaluarlugu, pissanganarunarlunilu soqutiginaqimmat.
               Isumaqarpunga Pisiffiup niuernera sullissineralu ukiuni kingullerni qulertani arlalinni sukkanngikkaluamik pitsanngoriartuaaruusaarsimasoq, tamannalu Pisiffiup sullitaanut toqqissisimanerulertitsinera malugisassaalluni.
 
 Pisiffik nuannersuinnarnik misigiffigisarunanngilarput, sunami tamarmi nuannersuinnaajuaannanngimmat. Pisiffittaaq nioqqutissatigut ukiuni kingullerni akitsuisoq misigiuarparput minnerunngitsumik nerisassat tungaasigut. Nerisassanik akitsuinermut peqqutaasa ilagisarpaat nunarsuami uuliap akiata ukiuni kingullerni akitsortuarnera, taamaasillunimi nunatta avataaninngaanniit nioqqutissat umiarsuakkut tikisinneqartartut akitsortarput. Umiarsuup nioqqutissanik assartuutip uuliamut akiliutigisartagaa annertusisarmat taamaalillunilu akilersinnaasumik ingerlanissani qulakkeerumallugu nioqqutissat angallanneqarneri akitsortarpaat.
@@ -189,7 +189,7 @@ Pisiffillu ataatsimut isigalugu isumaqarpunga niuernera sutigut tamatigut pissan
 Tigusiffiit nassuiaatillu
 
 (1) +(2)+(3): {http://dk.nanoq.gl/Emner/Om%20Groenland/Trafikforhold/Trafikstruktur_2006/Links/KNI.aspx}∞{url}
-”KNI-p oqaluttuarisaanera 1774-mi$(num,0-i|1774-imi) aallartippoq”
+”KNI-p oqaluttuarisaanera {1774-mi}${num,0-i|1774-imi} aallartippoq”
 (4)+(5): 
 {http://www.ninuuk.gl/index.asp?lang=gl&num=217
 http://www.ninuuk.gl/index.asp?lang=gl&num=219}∞{url}
@@ -226,21 +226,21 @@ Najoqqutarisat
 
 “Iffiortoq”:  {http://www.inuili.gl/Fag/bager.htm}∞{url}
 
-“KNI PilersuisoqA/S$(cmp,1-2|Pilersuisoq A/S)”:
+“KNI {PilersuisoqA/S}${cmp,1-2|Pilersuisoq A/S}”:
 {http://www.nanoq.gl/Emner/Om%20Groenland/Trafikforhold/Trafikstruktur_2006/Links/KNI.aspx}∞{url}
 
 “Neqaarniaq” {http://www.inuili.gl/Fag/butiksslagter.htm}∞{url}
  
 Pisiffimmut tunngasut:  {http://www.pisiffik.gl/}∞{url} 
 
-“Pisinniarfimmiunngorniarneq¢(sub,der,n,2-1|Pisiniarfimmiunngorniarneq), ulluinnarni nioqqutissat”:
+{“Pisinniarfimmiunngorniarneq}¢{sub,der,n,2-1|Pisiniarfimmiunngorniarneq}, ulluinnarni nioqqutissat”:
 {http://www.ninuuk.gl/index.asp?lang=gl&num=219}∞{url} 
 
 
 
 Apersorneqartoq
 
-Nivikka Berthelsen, Pisinniarfiunngorniatut¢(sub,der,n,2-1|Pisiniarfiunngorniatut) iliniartoq¢(typo,n,1-2|ilinniartoq), Pisattani suliffimmik misiliisoq, 24-nik ukiulik. 
+Nivikka Berthelsen, {Pisinniarfiunngorniatut}¢{sub,der,n,2-1|Pisiniarfiunngorniatut} {iliniartoq}¢{typo,n,1-2|ilinniartoq}, Pisattani suliffimmik misiliisoq, 24-nik ukiulik. 
 Pisiffik qassinik ilinniartoqarnersoq pillugu Nivikka aperivara. 
 
 

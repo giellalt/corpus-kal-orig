@@ -4,7 +4,7 @@ Inuilli ulluinnarni assut atugaraat oqassallutik stresserlutik. Stressili nappaa
 
 Ilumut stressernerlutit paaserusukkukku nakorsamik oqaloqateqartariaqassaatit, ilisarnaatilli ilaat aaku:
 
-Stressernermut ilisarnaatit assigiinngitsunut pingasunut agguagaapput, qorsuk = sakkukittumik stresserneq, taama ingerlaannarallarsinnaavutit sivikitsumilli - sivisuumik taamakku$(typo,a,2-1|tamakku) stressernermut ilisarnaatit atorukkit stressernerit ulorianarnermut pisinnaammat. Orangiaq = unikaallattariaqalernermut takussutissat, stressernermut ilisarnaatit orangiamiittut arlaat atugarigukku eqqarsarluarit, inuuninni allanngortitassaqaruit ajortivinnginninni iliuuseqarit. Aappaluttoq = iliuuseqarit, stressernerit ulorianarpoq, nakorsamut saaffiginnigit!!
+Stressernermut ilisarnaatit assigiinngitsunut pingasunut agguagaapput, qorsuk = sakkukittumik stresserneq, taama ingerlaannarallarsinnaavutit sivikitsumilli - sivisuumik {taamakku}${typo,a,2-1|tamakku} stressernermut ilisarnaatit atorukkit stressernerit ulorianarnermut pisinnaammat. Orangiaq = unikaallattariaqalernermut takussutissat, stressernermut ilisarnaatit orangiamiittut arlaat atugarigukku eqqarsarluarit, inuuninni allanngortitassaqaruit ajortivinnginninni iliuuseqarit. Aappaluttoq = iliuuseqarit, stressernerit ulorianarpoq, nakorsamut saaffiginnigit!!
 
 Qorsumi ilisarnaatit makkuupput:
 Ilaanneeriarluni uummatip kassussuaalertarnera
@@ -33,7 +33,7 @@ Kamajalerneq
 Naarlunneq erlavilunneq
 Arnat: Aaqarnerup allanngornera
 Stressersorinnginneq
-Kikkulluunniit eqqugaasinnaapput, sivisuallaammik ulapaarneq kingunerlussinnaavoq - ulapputeqarsimatillutit eqqissisimaartarnissat eqqaamajuk! Eqqissisimaarnitsinnimi ulapeqqinnissatsinnut nukissaneqqittarpugut, eqqisisimaartanngikkaannili$(typo,s,1-2|eqqissisimaartanngikkaannili) ulapinnissamut nukissaarukkaluttuinnalernarpoq... Ulapittuarsimagaanni ajortissanani eqqissisimaarnissaq pisariaarussorinartarpoq, tamannali ulorianarpoq - eqqissisimaalaarnissarmi pisariaqartuarpoq, nukissaqarumagaanni!
+Kikkulluunniit eqqugaasinnaapput, sivisuallaammik ulapaarneq kingunerlussinnaavoq - ulapputeqarsimatillutit eqqissisimaartarnissat eqqaamajuk! Eqqissisimaarnitsinnimi ulapeqqinnissatsinnut nukissaneqqittarpugut, {eqqisisimaartanngikkaannili}${typo,s,1-2|eqqissisimaartanngikkaannili} ulapinnissamut nukissaarukkaluttuinnalernarpoq... Ulapittuarsimagaanni ajortissanani eqqissisimaarnissaq pisariaarussorinartarpoq, tamannali ulorianarpoq - eqqissisimaalaarnissarmi pisariaqartuarpoq, nukissaqarumagaanni!
 
 Immissinnut paaralusi - eqqissisimaalaartarlusilu - ulapaarluarnissassinnik kissaappassi ;)
 

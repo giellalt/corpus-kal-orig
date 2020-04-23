@@ -15,7 +15,7 @@ Qinersisartunik isumasiuinerup {takutippaa ullumikkut Inatsisartunut qinersisoqa
 
 Atassut.
 
-Ullumikkut qinersisoqartuuppat isumasiuineq malillugu Atassutip taasisut 19,3 procentii pissarsiarissavai. 2005imi$(num,0-hyph|2005-imi) novembarimi qinersinermi partip taasisuisa amerlaqataanik. Atassutip qinersisartunik nutaanik Siumut arsaalaassavaa Demokratinullu annaasaqalaassalluni. Siusinnerusukkut misissuisarnertut Atassutip qinersisartuisa ilarujussui 50-it sinnerlugit ukioqarput. Piffissaq ungasinnerusoq isigalugu tamanna partimut ajornartorsiortitsissaaq, inuusuttuunerusuni nutaanik tapersersortitaanngikkuni. Ellen Christoffersenip politikimit tunuarneratigut ajornartorsiutit minnerulinngillat.
+Ullumikkut qinersisoqartuuppat isumasiuineq malillugu Atassutip taasisut 19,3 procentii pissarsiarissavai. {2005imi}${num,0-hyph|2005-imi} novembarimi qinersinermi partip taasisuisa amerlaqataanik. Atassutip qinersisartunik nutaanik Siumut arsaalaassavaa Demokratinullu annaasaqalaassalluni. Siusinnerusukkut misissuisarnertut Atassutip qinersisartuisa ilarujussui 50-it sinnerlugit ukioqarput. Piffissaq ungasinnerusoq isigalugu tamanna partimut ajornartorsiortitsissaaq, inuusuttuunerusuni nutaanik tapersersortitaanngikkuni. Ellen Christoffersenip politikimit tunuarneratigut ajornartorsiutit minnerulinngillat.
 
 Demokratit.
 
@@ -27,7 +27,7 @@ Inuit Ataqatigiit 1,8 procentpointinik siuariassapput. Tamanna naammappoq partip
 
 Kattusseqatigiit.
 
-Kattusseqatigiit kinguarialaassapput, Inatsisartunili ilaasortaatitani ataaseq attatiinnassallugu. Ilaasortaatitarli taanna Aalisartut Piniartut partiannit$(typo,cap|Partiannit) ulorianartorsiortinneqarpoq, partii taanna pingaartumik Ilulissani inissisimalluarmat, Kattusseqatigiit aamma nukittuujuffianni.
+Kattusseqatigiit kinguarialaassapput, Inatsisartunili ilaasortaatitani ataaseq attatiinnassallugu. Ilaasortaatitarli taanna Aalisartut Piniartut {partiannit}${typo,cap|Partiannit} ulorianartorsiortinneqarpoq, partii taanna pingaartumik Ilulissani inissisimalluarmat, Kattusseqatigiit aamma nukittuujuffianni.
 
 Aalisartut Piniartut Partiat.
 
