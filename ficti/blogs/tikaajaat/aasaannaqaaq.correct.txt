@@ -6,7 +6,7 @@ Jo€(foreing|Ilumut), suligaangama silagittaqaaq kialluni, kisianni soraarlunga
 
 Maannaana aasaanerani radioaviisimi nutserisutut taartaasunga, alianaak maani suleqqilluni, sulisui suli taakku :)
 
-Kingullermik allakkamamiit$(infl|allanninnit) susoqarpiarnikuunngilaq, (eller jow der er sket lidt af hvert)∞(dan) :)
+Kingullermik allakkamamiit$(infl|allanninnit) susoqarpiarnikuunngilaq, {eller jow der er sket lidt af hvert}∞{dan} :)
 
 Ataataga kulturikkut suliaqarsimasutut nersornaatisivoq, inuiattut ullorsiornitsinni.
 Anaanaga feerialerpoq, hehe taannaasiit atuakkanik atuarujoorluni ulloq naasarpaa :)
@@ -19,4 +19,4 @@ Angajoqqaakka 25-iani$(num,ord|25.-ni) Igalikuliarlutik aallalersut ilagerusukka
 
 Taava aggutsimi$(typo,ts-st|aggustimi) uanga feeria :) Immaqa maani Nuummiiginnarlunga, kisianni aallarusukkaluaqaanga... Piffissamaasiit takutikkumaarpaa :)
 
-(Nårm)∞(dan) suliassat aallartittariaqalerakkit, (bey)∞(dan)!  :D
+{Nårm}∞{dan} suliassat aallartittariaqalerakkit, {bey}∞{dan}!  :D

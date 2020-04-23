@@ -91,7 +91,7 @@ Torrak Fashioni pinngussanik, pinnersaatinik, tipigissaatinik, angutinut arnanut
 Pisinniarfiit¢(sub,der,n,2-1|Pisiniarfiit) Pisiffik, Torrak Fashioni, Pisattat, Jysk Sengetøjslageri Sparilu kitaani  illoqarfinni annerni Ilulissani, Aasianni, Sisimiuni, Maniitsumi, Nuummi aammalu Qaqortumi taamaallaat pisinniarfiupput¢(sub,der,n,2-1|pisiniarfiupput). Pisiffik A/S ukiuni kingullerni agguaqatigiissillugu 500 sinnerlugit sulisoqarpoq.
 
 Aammattaaq pitsaassuseq nioqqutissatigut, akitigut sullissinermilu Pisiffimmit pingaartinneqarpoq. Taamaammat Pisiffimmi sulisut suleqatigiillutik, sullitaminnut pitsaanerpaamik sullissinissartik anguniartuaannarpaat.  
-Pisiffik sapaatip akunneri tamaasa aviiseeqqatigut nioqqutissanik neqerooruteqartarpoq, aviiseeqqallu illunut agguaanneqartarput. Aviiseeqqanillu agguaaffigineqarsimanngikkaanni Pisiffiup nittartagaanut (www.pisiffik.gl-mut)∞(url) iserluni sapaatip akunnerata neqeroorutai malinnaaffigineqarsinnaapput.
+Pisiffik sapaatip akunneri tamaasa aviiseeqqatigut nioqqutissanik neqerooruteqartarpoq, aviiseeqqallu illunut agguaanneqartarput. Aviiseeqqanillu agguaaffigineqarsimanngikkaanni Pisiffiup nittartagaanut {www.pisiffik.gl-mut}∞{url} iserluni sapaatip akunnerata neqeroorutai malinnaaffigineqarsinnaapput.
 
 Pisinniarfiit¢(sub,der,n,2-1|Pisiniarfiit) assigiinngitsut taakkua immikkut tamarmik immikkoortortani aqutsisoqarput, taakkualu pisiniarfinni aqutsisut aamma qaffasinnerusunik ningioqarlutik/ittoqarlutik taamatullu qaffakkaluttuinnartunik aqutsisoqarlutik. 
 
@@ -107,7 +107,7 @@ Ilinniartitaaneq
 Pisiffik ullumikkut (30-40-ullu$(num,u-0|30-40-llu) missaani)£(x|30-40-llu missaanni) Pisiffimmi immikkoortortaanilu sinerissami ilinniartoqarpoq, tassa ilinniartut ilinniarnerminnut atatillugu Pisiffik suliffittut misiliiffigisarpaat. Suliffimmilu misileereeraangamik atuagarsoriartortarput, assersuutigalugu Niuernermut Ilinniarfimmut Nuummiittumut. Atuagarsoriartorneq pisarpoq apeqqutaalluni sumut ilinniartuunerluni.
  Pisiffiup ilinniartui assigiinngitsunik ilinniagaqarput, ilaatigut pingaarnertut makkuninnga ilinniagaqartuullutik: neqaarnianngorniat, iffiortunngorniat, allaffimmiunngorniat, pisinniarfimmiunngorniallu¢(sub,der,n,2-1|pisiniarfimmiunngorniallu). Pisinniarfimmiunngorniaraannilu¢(sub,der,n,2-1|Pisiniarfimmiunngorniaraannilu) immikkut sammisaqarluni ilinniartoqarsinnaavoq, assersuutigalugu inuussutissanut tunngasunik, atisanut tunngasunik, atortussanut tunngasunik, pequtinut tunngasunik aammalu elektroniskinut tunngasunut. 
 Neqaarnianngorniaraanni, allaffimmiunngorniaraanni aammalu pisinniarfimmiunngorniaraanni¢(sub,der,n,2-1|pisiniarfimmiunngorniaraanni) ilinniarneq ukiunik sisamanik sivisussuseqartarpoq, iffiortunngorniarneq ukiunik pingasunik qaammatinillu arfineq-marlunnik sivisussuseqarpoq.
-Neqaarniatut iffiortutullu qinnuteqarniaraanni piumaasaaqaataapput meeqqat atuarfiannit ukiumoortumik nalilerneqarnermi misilitsinnermilu karakterit agguaqatigiissinneranni (FSA): Qallunaatut 7, Tuluttut 6, (Matematik 7, Fysik/Kemi)∞(dan) 6.  
+Neqaarniatut iffiortutullu qinnuteqarniaraanni piumaasaaqaataapput meeqqat atuarfiannit ukiumoortumik nalilerneqarnermi misilitsinnermilu karakterit agguaqatigiissinneranni (FSA): Qallunaatut 7, Tuluttut 6, {Matematik 7, Fysik/Kemi}∞{dan} 6.  
 Qinuteqartut$(typo,n,1-2|Qinnuteqartut) allat meeqqat atuarfiannit oqaaseqaatit naapertorlugit nalilerneqartassapput.
 Allaffimmiutut pisinniarfimmiutullu¢(sub,der,n,2-1|pisiniarfimmiutullu) qinuteqarniaraanni$(typo,n,1-2|qinnuteqarniaraanni) piumasaqaataapput kalaallisoorneq, qallunaatoorneq, tuluttoorneq aamma kisitsineq / matematikki taamaasa$(typo,a,2-1|tamaasa) immikkut minnerpaamik karakteerimik 7-mik$(num,0-i|7-imik) ukiumoortumik misilitsinnermilu karakteereqarfigalugit Meeqqat Atuarfiannit 11. klassimit misilitsereerluni anisimanissaq.
 Pisiffimmi ilinniakkamik naammassinnikkaanni aammattaaq periarfissaajuarpoq qaffasinnerusumut ingerlaqqinnissaq, imaluunniit pikkorissartarnikkut atorfimmut qaffasinnerusumut ingerlaqqissinnaaneq.
@@ -119,7 +119,7 @@ Tigusiffinnik nalunaaqutsersuineq
 
 1986-imi KGH Namminersornerullutik Oqartussanit tiguneqarpoq, ingerlateqqinneqarlunilu Kalaallit Niuerfiat (KNI) taaguutigalugu (1). 1993-imilu KNI suliffeqarfinnut arlaqartunut aggorneqarpoq, taamaalilluni aktieselskabit arlallit, soorlu Royal Arctic Line aammalu pisiniarfitsigut ingerlatsiviit marluk Pisiffik Pilersuisorlu pilersinneqarlutik (2). 2001-imi Pisiffik namminersortunit aningaasaliinikkut tiguneqarpoq (3).	
          Kalaallisoorneq, qallunaatoorneq, tuluttoorneq aamma kisitsineq / matematikki taamaasa$(typo,a,2-1|tamaasa) immikkut minnerpaamik karakteerimik 7-mik$(num,0-i|7-imik) ukiumoortumik misilitsinnermilu karakteereqarfigalugit Meeqqat Atuarfiannit 11. klassimit misilitsereerluni anisimanissaq (4). 
-          Meeqqat atuarfiannit ukiumoortumik nalilerneqarnermi misilitsinnermilu karakterit agguaqatigiissinneranni (FSA): Qallunaatut 7, Tuluttut 6, (Matematik 7, Fysik/Kemi)∞(dan) 6.  
+          Meeqqat atuarfiannit ukiumoortumik nalilerneqarnermi misilitsinnermilu karakterit agguaqatigiissinneranni (FSA): Qallunaatut 7, Tuluttut 6, {Matematik 7, Fysik/Kemi}∞{dan} 6.  
 Qinuteqartut$(typo,n,1-2|Qinnuteqartut) allat meeqqat atuarfiannit oqaaseqaatit naapertorlugit nalilerneqartassapput (5).						
 
 
@@ -172,7 +172,7 @@ Ass. 1
 
 Pisiffiup nerisassaarniarfia SB Nuummiitoq$(typo,t,1-2|Nuummiittoq). Uani takuneqarsinnaavoq inuusuttuaraq nioqqutissanik ilioraasoq. 
 
- Tigusiffik: (http://sermitsiaq.gl/multimedia/archive/00020/Pipaluk-arb-027_20839l.jpg)∞(url) 
+ Tigusiffik: {http://sermitsiaq.gl/multimedia/archive/00020/Pipaluk-arb-027_20839l.jpg}∞{url} 
 
 
 Naggasiut
@@ -188,11 +188,11 @@ Inuiaqatigiinnilu sulisartuinnarni aningaasatigut artukkiisarpoq, ulluinnarnimi 
 Pisiffillu ataatsimut isigalugu isumaqarpunga niuernera sutigut tamatigut pissanganartuujuaannartoq. 
 Tigusiffiit nassuiaatillu
 
-(1) +(2)+(3): (http://dk.nanoq.gl/Emner/Om%20Groenland/Trafikforhold/Trafikstruktur_2006/Links/KNI.aspx)∞(url)
+(1) +(2)+(3): {http://dk.nanoq.gl/Emner/Om%20Groenland/Trafikforhold/Trafikstruktur_2006/Links/KNI.aspx}∞{url}
 ”KNI-p oqaluttuarisaanera 1774-mi$(num,0-i|1774-imi) aallartippoq”
 (4)+(5): 
-(http://www.ninuuk.gl/index.asp?lang=gl&num=217
-http://www.ninuuk.gl/index.asp?lang=gl&num=219)∞(url)
+{http://www.ninuuk.gl/index.asp?lang=gl&num=217
+http://www.ninuuk.gl/index.asp?lang=gl&num=219}∞{url}
 “Tiguneqarnissamut Namminersornerullutik Oqartussat piumasaqaataat”
 
 
@@ -218,23 +218,23 @@ Najoqqutarisat
 
 
 
-“Allaffimmiunngorniarneq”: (http://www.ninuuk.gl/index.asp?lang=gl&num=217)∞(url) 
+“Allaffimmiunngorniarneq”: {http://www.ninuuk.gl/index.asp?lang=gl&num=217}∞{url} 
 
-(“Bliv elev i Pisiffik!”:)∞(dan) (http://www.pisiffik.gl/index2.php?option=com_content&do_pdf=1&id=68)∞(url) 
+{“Bliv elev i Pisiffik!”:}∞{dan} {http://www.pisiffik.gl/index2.php?option=com_content&do_pdf=1&id=68}∞{url} 
 
-(“Butikker i Sisimiut, billeder fra november 2003”)∞(dan) – Saqqaaniittoq asseq. (http://images.google.dk/imgres?imgurl=http://www.steffenbramsen.dk/images/pisiffik01112003_500.jpg&imgrefurl=http://www.steffenbramsen.dk/album4.htm&usg=__T3g4oSvMZ6Bp5J9TbUcA_01i4Rw=&h=375&w=500&sz=47&hl=da&start=1&um=1&tbnid=U3fXa6ukpJqKIM:&tbnh=98&tbnw=130&prev=/images%3Fq%3DPisiffik%26hl%3Dda%26um%3D1)∞(url)
+{“Butikker i Sisimiut, billeder fra november 2003”}∞{dan} – Saqqaaniittoq asseq. {http://images.google.dk/imgres?imgurl=http://www.steffenbramsen.dk/images/pisiffik01112003_500.jpg&imgrefurl=http://www.steffenbramsen.dk/album4.htm&usg=__T3g4oSvMZ6Bp5J9TbUcA_01i4Rw=&h=375&w=500&sz=47&hl=da&start=1&um=1&tbnid=U3fXa6ukpJqKIM:&tbnh=98&tbnw=130&prev=/images%3Fq%3DPisiffik%26hl%3Dda%26um%3D1}∞{url}
 
-“Iffiortoq”:  (http://www.inuili.gl/Fag/bager.htm)∞(url)
+“Iffiortoq”:  {http://www.inuili.gl/Fag/bager.htm}∞{url}
 
 “KNI PilersuisoqA/S$(cmp,1-2|Pilersuisoq A/S)”:
-(http://www.nanoq.gl/Emner/Om%20Groenland/Trafikforhold/Trafikstruktur_2006/Links/KNI.aspx)∞(url)
+{http://www.nanoq.gl/Emner/Om%20Groenland/Trafikforhold/Trafikstruktur_2006/Links/KNI.aspx}∞{url}
 
-“Neqaarniaq” (http://www.inuili.gl/Fag/butiksslagter.htm)∞(url)
+“Neqaarniaq” {http://www.inuili.gl/Fag/butiksslagter.htm}∞{url}
  
-Pisiffimmut tunngasut:  (http://www.pisiffik.gl/)∞(url) 
+Pisiffimmut tunngasut:  {http://www.pisiffik.gl/}∞{url} 
 
 “Pisinniarfimmiunngorniarneq¢(sub,der,n,2-1|Pisiniarfimmiunngorniarneq), ulluinnarni nioqqutissat”:
-(http://www.ninuuk.gl/index.asp?lang=gl&num=219)∞(url) 
+{http://www.ninuuk.gl/index.asp?lang=gl&num=219}∞{url} 
 
 
 

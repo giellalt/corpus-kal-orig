@@ -6,7 +6,7 @@ Ukiuni kingullerniit aningaasaatikinneruneq pissutaalluni suli qineqqusaarutinik
 
 Immaqa eqqarsartarsimassaatit sooq illoqarfinni qineqqusaarutinik suli nivingasoqannginnersoq.
 Qineqqusaarutit nivinngarsorneqangajalerput.
-(Sermitsiaq.AG-p)∞(url) partiit akornanni misissuinerani erserpoq.
+{Sermitsiaq.AG-p}∞{url} partiit akornanni misissuinerani erserpoq.
 
 Siumut:
 

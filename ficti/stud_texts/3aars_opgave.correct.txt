@@ -7,7 +7,7 @@ Augo Lynge-p$(prop,hyph-0|Lyngep) ilisaritinnera................................
 Atuagaq naatsumik.....................................................................................................................5
 Inuttatut pingaarnerit ilisaritinnerat........................................................................................5-6
 Misissueqqissaarneq...............................................................................................................7-8
-(Berettermodel)∞(dan)........................................................................................................................9-10
+{Berettermodel}∞{dan}........................................................................................................................9-10
 Atuakkap nammineq isummersorfiginera...........................................................................10-11
 
 1930-miit 1970-kkunnut$(num,0-i|1970-ikkunnut) ikaarsaarneq:
@@ -24,8 +24,8 @@ Sanilliussineq:
 Naggasiut:
 Naggasiineq naliliinerlu...........................................................................................................19
 
-(Bilag)∞(dan) 1.....................................................................................................................................20
-(Bilag)∞(dan) 2.....................................................................................................................................21
+{Bilag}∞{dan} 1.....................................................................................................................................20
+{Bilag}∞{dan} 2.....................................................................................................................................21
 Tingusiffiit$(dial,ng-g|Tigusiffiit) nassuiaatillu........................................................................................................22
 Najoqqutarisat........................................................................................................................23
 Siulequt
@@ -33,7 +33,7 @@ Uanga 1930-ikkut$(num,i-0|1930-kkut) 1970-ikkunnut sanilliunnissaat soqutigisima
 1930-ikkunnimi$(num,i-0|1930-kkunnimi) kalaallit qallunaanut ataqqinnillutik qummut isiginnittuupput, 1970-ikkunnili qallunaaluarneq takussaaleraluttuinnarluni. 
 1930-ikkunni$(num,i-0|1930-kkunni) pingaartitat misissulerukkit atuagaq “Ukiut 300-nngornerat” Augo Lynge-mit$(prop,hyph-0|Lyngemit) atuakkiaasoq tunngavigissavara, misissoqqissaarneranilu inuttaasut pissusilersortinneqarnerat inooriaasaallu pingaarnertut isiginiassavakka, oqaluttuallu ingerlarnga$(phon,rng-rn|ingerlarna) berettermodelimut assersuutissallugu. 1930-miit 1970-mut$(num,0-i|1970-imut) ikaarsaarnermi 1950-kkut$(num,0-i|1950-ikkut) nalaanni pisut, pingaarnertut atuartitaaneq ineriartornerlu tunngavigissavakka. 
 1970-kkunni$(num,0-i|1970-ikkunni) pingaartitat misissulerukkit taallat marluk tunngavigissavakka, tassaasut Piitsukkut atungaat$(dial,ng-g|atugaat) “Nammineq pitsinnik”, aappaalu “Qooqa”-mi taallaq siulequtigitinneqartoq. Taakku taallat marluk saniatigut atuagaq “Qooqa” (Ole Brandt-imik$(prop,hyph-0|Brandtimik) allagaasoq)£(instr-abl|Ole Brandtimit allagaasoq) tingulaariffigissava$(dial,ng-g;typo,infl,0-ra|tigulaariffigissavara), pingaarnertut Alliap Qooqakkullu nunaqqatigiit ilisaritinneqarnerat.
-Misissueqqissaarnerup kingorna 1930-kkunni pingaartitat ersertut 1970-kkunni$(num,0-i|1970-ikkunni) pingaartitanut ersertunut sanilliutissuakka$(dial,ssa|sanilliutissavakka), tassanilu (Fanons faser)∞(dan) ilanngullugit sakkutut atussallugit.
+Misissueqqissaarnerup kingorna 1930-kkunni pingaartitat ersertut 1970-kkunni$(num,0-i|1970-ikkunni) pingaartitanut ersertunut sanilliutissuakka$(dial,ssa|sanilliutissavakka), tassanilu {Fanons faser}∞{dan} ilanngullugit sakkutut atussallugit.
 
 Augo Lynge-p$(prop,0-hyph|Lyngep) ilisaritinnera
 Augo (Augustinus) Lynge:
@@ -46,7 +46,7 @@ Augo Lynge 1959-mi$(num,0-i|1959-imi) umiarsuaq Hans Hedtoft umiiarmat ajunaartu
 
 Ukiut 300-nngornerat
 “Ukiut 300-nngornerat” naatsumik:
-Atuagaq Hans Egedep tikinnerani ukiut 300-t qaangiunneranni (2021 –mi)$(cmp,2-1|2021–mi), Kalaallit Nunaanni pitinneqarpoq. Illoqarfik Grønlandshavn siuarsimasorujussuartut saqqummiunneqarpoq aviisiliorfissuaqarluni, hotelit, rådhusi, fabrikkit, pisiniarfissuit takornariaqarfissuullunilu. Inuttaasut qallunaatut inooriaaseqarput, kinguliaqutitillu atorlugit taaguuteqarput, soorlu Hr. Jensen, Fru Hansen, Frederiksenilu. Aalisarneq savaateqarnerlu inuussutissarsiornermi pingaarnertut inissisimalersimapput. Inuttaasut pigissaartuupput, soorlu savaatilik Jensenikkut illuanni inersuaat$(infl,poss|inersuat) pisatarissaartoq, pattagiarsuaqarput qalipagarsuarmillu assiliaqarlutik. Aalisartoq Frederiksen, nammineerluni umiarsuaaraqarpoq nutaaliaasumik. Inuusuttortaat eqiasuittut¢(dial,tt-ts|eqiasuitsut) ilinniarsimasut, qallunaatut tuluttullu oqallorittut, qallunaat nunaanni universitetimi ilinniarnikut. Grønlandshavnip allanngorsimaneranut peqqutaapput eqeersimaarnerulerneq, imminut tatigilerneq, inuussutissarsiutit nutaat takkunnerat, naalakkersuisut aningaasatigut ikiuinerat, nunarsuarmiooqataaneq, angallatillu pitsanngoriartuinnarnerat. Tillinniat nunarsuarmi tamani ujaarineqartut Kalaallit Nunaannut qimaasimasut Grønlandsbankimut tillinniarput, Erikkullu Jensilu tingusarinninniarlutik$(dial,ng-g|tigusarinninniarlutik) aallarput. (Atuagaq pissanganarsarlugu timmisartumik pujortuleeqqanillu atorlugit malersuipput)£(x|Atuagaq pissanganarsarlugu timmisartumik pujortuleeqqanillu atuillutik malersuipput), Erillu aallaaneqarluni ikilerneqarpoq, anorersuarlu ajunaarnersuarmik kinguneqartinneqarluni. Nunaqarfinnguami Ikerasammi inuit “qivittumik” tillinniarfigineqartalermata, Erik pasitsalluni taakunnarpoq, tillinniarlu uupakaatillugu$(phon,con,metathesis|uukapaatillugu) tingusaraa$(dial,ng-g|tingusaraa). Naggasiullugu ilaqutariit Hansenikkunni nereqatigiipput nunasiaataalernermit ukiut 300-nngornerat nalliuttorsiutigalugu, Erik Katrinelu pissiariilerput, Valborgikkullu 
+Atuagaq Hans Egedep tikinnerani ukiut 300-t qaangiunneranni {2021 –mi}${cmp,2-1|2021–mi}, Kalaallit Nunaanni pitinneqarpoq. Illoqarfik Grønlandshavn siuarsimasorujussuartut saqqummiunneqarpoq aviisiliorfissuaqarluni, hotelit, rådhusi, fabrikkit, pisiniarfissuit takornariaqarfissuullunilu. Inuttaasut qallunaatut inooriaaseqarput, kinguliaqutitillu atorlugit taaguuteqarput, soorlu Hr. Jensen, Fru Hansen, Frederiksenilu. Aalisarneq savaateqarnerlu inuussutissarsiornermi pingaarnertut inissisimalersimapput. Inuttaasut pigissaartuupput, soorlu savaatilik Jensenikkut illuanni inersuaat$(infl,poss|inersuat) pisatarissaartoq, pattagiarsuaqarput qalipagarsuarmillu assiliaqarlutik. Aalisartoq Frederiksen, nammineerluni umiarsuaaraqarpoq nutaaliaasumik. Inuusuttortaat eqiasuittut¢(dial,tt-ts|eqiasuitsut) ilinniarsimasut, qallunaatut tuluttullu oqallorittut, qallunaat nunaanni universitetimi ilinniarnikut. Grønlandshavnip allanngorsimaneranut peqqutaapput eqeersimaarnerulerneq, imminut tatigilerneq, inuussutissarsiutit nutaat takkunnerat, naalakkersuisut aningaasatigut ikiuinerat, nunarsuarmiooqataaneq, angallatillu pitsanngoriartuinnarnerat. Tillinniat nunarsuarmi tamani ujaarineqartut Kalaallit Nunaannut qimaasimasut Grønlandsbankimut tillinniarput, Erikkullu Jensilu tingusarinninniarlutik$(dial,ng-g|tigusarinninniarlutik) aallarput. {Atuagaq pissanganarsarlugu timmisartumik pujortuleeqqanillu atorlugit malersuipput}£{x|Atuagaq pissanganarsarlugu timmisartumik pujortuleeqqanillu atuillutik malersuipput}, Erillu aallaaneqarluni ikilerneqarpoq, anorersuarlu ajunaarnersuarmik kinguneqartinneqarluni. Nunaqarfinnguami Ikerasammi inuit “qivittumik” tillinniarfigineqartalermata, Erik pasitsalluni taakunnarpoq, tillinniarlu uupakaatillugu$(phon,con,metathesis|uukapaatillugu) tingusaraa$(dial,ng-g|tingusaraa). Naggasiullugu ilaqutariit Hansenikkunni nereqatigiipput nunasiaataalernermit ukiut 300-nngornerat nalliuttorsiutigalugu, Erik Katrinelu pissiariilerput, Valborgikkullu 
 Aage Holbækilu aamma pissiariilerlutik. 
 
 Inuttatut pingaarnerit ilisaritinnerat:
@@ -63,7 +63,7 @@ Jach Stevens: tillinniaq amerikarmioq$(loan,r-0|amerikamioq), nunarsuaq tamakker
 Misissueqqissaarneq:
 “Ukiut 300-nngornerat” Augo Lynge-p$(prop,hyph-0|Lyngep) atuakkiaraa, 1931-mi saqqummersinneqaqqaartoq.
  (Kalaallit-nunaani$(prop,hyph-space;prop,min-cap|Kalaallit Nunaani) naqiterisarfik)£(x|Kalaallit Nunaanni naqiterisarfik) aqqutigalugu naqiteqqinneqarpoq 1959-imi.
-Atuakkiaavoq siunissamik takorluuisoq (science fiction), Kalaallit Nunaanni 2021-mi, (Hans Egedep tikinneranit ukiut 300-t qaangiunnerani pisussaatinneqarluni)£(x|Hans Egedep tikinneranit ukiut 300-t qaangiunneranni pisussaatinneqarluni). Inuusuttulikkersaarutaavoq, pinerluttulersaarnertaqarlunilu asanninnilersaarutilik. 
+Atuakkiaavoq siunissamik takorluuisoq (science fiction), Kalaallit Nunaanni 2021-mi, {Hans Egedep tikinneranit ukiut 300-t qaangiunnerani pisussaatinneqarluni}£{x|Hans Egedep tikinneranit ukiut 300-t qaangiunneranni pisussaatinneqarluni}. Inuusuttulikkersaarutaavoq, pinerluttulersaarnertaqarlunilu asanninnilersaarutilik. 
 Atuagaq kapitalinut 12-nut agguangaavoq$(dial,ng-g|agguagaavoq), 89-nillu$(num,0-i|89-inillu) qupperneqarluni.
 Atuakkami piffisaritinneqartoq Grønlandshavnimi eqqaanilu, 2021-mi$(num,0-i|2021-imi) aasakkut, ullualunnguit ingerlaneranni pivoq. Tassanilu avatagiiseq$(dial,hypcorr,g-ng|avatangiiseq) 1931-mut sanilliullugu siuarsimanerujussuuvoq, Kalaallit Nunaat qallunaat nunaannut atalivissimavoq, inooriaaserlu qallunaat inooriaasaannut assigulersimalluni$(dial,hypcorr,g-ng|assingulersimalluni), aalisarneq savaateqarnerlu qitiutinneqalerlutik. Kalaallit Nunaat nunarsuarmiooqataalersimavoq, aalisariutimmi nunani allaneersorpassuit aalisariartalersimapput, timmisartukkut umiarsuatigullu takornariarpassuit tikittarlutik. Allaammi negeri kineserillu naapippaat. Inuttaasut atugarissaartuupput, ilinniarluarsimasut, kalaallisut qallunaatullu oqaluttut, ilaalumi aamma tuluttut oqallorittut. Oqaluttuamilu malunnarpoq, akuttat maligassatut inissinneqartut, sapiitsuliortuullutik, ilinniarluarsimasuullutik atugarissaartuullutillu. Simaarnerusortaallu aamma atugarissaarput, akuttanulli sanilliullutik ilisimasakinnerupput, apersortuutinneqarneratigut ilinniagakinneruneratigullu tamanna erserpoq. Soorlu Frederiksen Jensenimut apersortinneqartoq, Eriullu ilisimasartorpasilluni Jens oqaluttuuppaa aasap ukiullu kusanassusersuata assigiinngissusaannik, Jensilu apersortuutinneqarluni. Aammattaaq Erik akutaasoq tillinniamik tingusarinnittuutinneqarpoq$(dial,ng-g|tigusarinnittuutinneqarpoq), Valborgilu arnanut allanut sanilliullugu sapiitsuutinneqarluni.
 Oqaluttuartoq avataaniit isiginnaarpoq (oqaluttuami ilaanngilaq), tamanillu ilisimasaqarluni. Inuttammi ataasiakkaat eqqarsaataai iserfigai, soorlu Frederiksenip Eriullu eqqarsaatai iserfigingai$(dial,ng-g|iserfigigai). Oqaluttuami tankeplaneqarpoq, Frederiksenimmi eqqarsaatersuutigivaa Kalaallit Nunaata siuariartupiloorsimaneranut Karlsenip atuakkiaani, Hansenip takutissimasaani, peqqutaatinneqartut. Tassanimi takorloorpai Kalaallit Nunaata siuariartoruusaarnerani pisimasut, ataatamilu aningaasanik toqqorterisarsimanera takorloorlugu, uffa realplanimi umiarsuaaqqaminiilluni. Aammattaaq Eriup Katrine asannilerfigeqqasani eqqarsaatigimmagu tankeplaniuvoq, realplanimimi ikkarlummi ilisimajunnaanngujoorpoq.
@@ -81,15 +81,15 @@ Inuttatullu pingaarnerit tamapajaasa ilinniarsimasutut atugarissaartutullu iniss
 
 Oqaluttuap ingerlarnga$(phon,rng-rn|ingerlarna) Beretter modelimut assersuunneqarsinnaavoq:
 
-Ilimasaarut/(anslag)∞(dan): Oqaluttuap aallartinnerani ilimasaarutigineqareerpoq ilaqutariit atugarissaartut, ilinniarsimasullu malinnaaffigineqartut. Kiisalu Kalaallit Nunaanni inooriaaseq siuarsimasuusoq ersersinneqarpoq.
-Ilisarititsineq/(præsentation)∞(dan): Hr Jensen Hr. Frederiksenilu, Hr. Hansen Fru Hansenilu, ilaqutariit atugarissaartuinnaat ilisaritinneqarput. Hr. Holbæk Hr. Hellebækilu suli atugariissaarnertut¢(typo,i,2-1|atugarissaarnertut) saqqummiunneqarput. 
-Itisiliineq/(uddybning)∞(dan): Erik Hansen Jens Jensenilu akerleriittut saqqummiunneqarput, tassani Erik akutaq eqqarsaqqaartartutut inissinneqarpoq, Jensilu simaarnerulluni kalaalerpalunnerusup eqqarsarluaqqaarani nukini atorniartarpai. Tassuunakkut erserpoq Erik illersugassatut inissinneqartoq, akuttallu qummut isigisassanngortinneqartut. Eriup najaa Valborg identificererfissatut/maligassatut inissinneqarpoq, arnaq ilinniarluarsimasoq, tuluttut pikkorissoq, tillinniamullu malersuinermi ilaasoq. 
+Ilimasaarut/{anslag}∞{dan}: Oqaluttuap aallartinnerani ilimasaarutigineqareerpoq ilaqutariit atugarissaartut, ilinniarsimasullu malinnaaffigineqartut. Kiisalu Kalaallit Nunaanni inooriaaseq siuarsimasuusoq ersersinneqarpoq.
+Ilisarititsineq/{præsentation}∞{dan}: Hr Jensen Hr. Frederiksenilu, Hr. Hansen Fru Hansenilu, ilaqutariit atugarissaartuinnaat ilisaritinneqarput. Hr. Holbæk Hr. Hellebækilu suli atugariissaarnertut¢(typo,i,2-1|atugarissaarnertut) saqqummiunneqarput. 
+Itisiliineq/{uddybning}∞{dan}: Erik Hansen Jens Jensenilu akerleriittut saqqummiunneqarput, tassani Erik akutaq eqqarsaqqaartartutut inissinneqarpoq, Jensilu simaarnerulluni kalaalerpalunnerusup eqqarsarluaqqaarani nukini atorniartarpai. Tassuunakkut erserpoq Erik illersugassatut inissinneqartoq, akuttallu qummut isigisassanngortinneqartut. Eriup najaa Valborg identificererfissatut/maligassatut inissinneqarpoq, arnaq ilinniarluarsimasoq, tuluttut pikkorissoq, tillinniamullu malersuinermi ilaasoq. 
 Erik ilorlikkut oqaluttuarineqarpoq, ikilerneqarnikuulluni ikkarlummi ulorianartorsiornermini Katrine Hellebæk asannilerfigeqqasani eqqarsaatigingamiuk$(dial,ng-g|eqqarsaatigigamiuk). 
-Uteriarsinnaajunnaarneq/(Point of no return)∞(eng): Tillinnianik malersuitillutik Erik aallaatippoq ikilerluni. Silattorami paasilerpaa ikkarlummiilluni, tinittumi naajat mitsimaffigisartangaanni$(dial,ng-g|mitsimaffigisartagaanni), ulittumili morsuttartumi. Ikiortissaaruppoq, makeriaraluaramilu ikia annernaqaaq, uppipporlu ilisimajunnaarluni.
-Assortuunnerit annertusingaluttuinnarnerat$(dial,ng-g|annertusigaluttuinnarnerat)/(Konfliktoptrapning)∞(dan): Erik nanineqaraluartoq Jens suli nanineqanngimmat Valborgikkut Holbækilu ujaasiartorlutik aallarput, Jensi nanivaat tillinniarlu malersulerlugu. Malersuitillutik ikkarlipput, ulimmalli aallaqqillutik. 
-Pisut sakkortunerpaaffiat/(Klimaks)∞(dan): Anorersuartorsuanngorpoq ajunaarnersuaqarluni, Valborgikkullu pujortuleeraata aquutaat ajortippoq, tissukaannalerlutillu ajunaangajapput.
+Uteriarsinnaajunnaarneq/{Point of no return}∞{eng}: Tillinnianik malersuitillutik Erik aallaatippoq ikilerluni. Silattorami paasilerpaa ikkarlummiilluni, tinittumi naajat mitsimaffigisartangaanni$(dial,ng-g|mitsimaffigisartagaanni), ulittumili morsuttartumi. Ikiortissaaruppoq, makeriaraluaramilu ikia annernaqaaq, uppipporlu ilisimajunnaarluni.
+Assortuunnerit annertusingaluttuinnarnerat$(dial,ng-g|annertusigaluttuinnarnerat)/{Konfliktoptrapning}∞{dan}: Erik nanineqaraluartoq Jens suli nanineqanngimmat Valborgikkut Holbækilu ujaasiartorlutik aallarput, Jensi nanivaat tillinniarlu malersulerlugu. Malersuitillutik ikkarlipput, ulimmalli aallaqqillutik. 
+Pisut sakkortunerpaaffiat/{Klimaks}∞{dan}: Anorersuartorsuanngorpoq ajunaarnersuaqarluni, Valborgikkullu pujortuleeraata aquutaat ajortippoq, tissukaannalerlutillu ajunaangajapput.
 Erik arnaasaarluni Jach Stevens uupakaatiillugu$(phon,con,metathesis|uukapaatiillugu) tingusaraa$(dial,ng-g|tigusaraa).
-Naajartornera/(udtoning)∞(dan): Atuakkami inuttatut pingaarnerit nuannaaqatigiinnerat, Hansenikkunni nereqatigiipput. Hans Egedep tikinneranit ukiut 300-nngornerat nalliuttorsiutigaat, amtmandilu oqalugiarluni. Erik Katrinelu pissiariilerput, Valborgikkullu Holbækilu pissiariilerlutik.
+Naajartornera/{udtoning}∞{dan}: Atuakkami inuttatut pingaarnerit nuannaaqatigiinnerat, Hansenikkunni nereqatigiipput. Hans Egedep tikinneranit ukiut 300-nngornerat nalliuttorsiutigaat, amtmandilu oqalugiarluni. Erik Katrinelu pissiariilerput, Valborgikkullu Holbækilu pissiariilerlutik.
 Oqaluttuap ingerlarnga$(phon,rng-rn|ingerlarna) aamma hjem-ude-hjem’itut$(punct,apos-hyph|hjem-ude-hjem-itut) avinneqarsinnaavoq. Aallartinneranimi Grønlandshavnimi angerlarsimapput, tillinnianillu malersuinerminni angalapput, tillinniallu tingusarineqareermata$(dial,ng-g|tigusarineqareermata) tamarmik angerlarsimallutik nuannaaqatigiipput. 
 Tassani Erik assersuutigineqarsinnaavoq, aallartinnerani politiuvoq ((hjem))∞(dan), tillinnianillu malersuinini “ilinniutingaa$(dial,ng-g|ilinniutigaa)” (ude), tingusaringamiuk$(dial,ng-g;dial,ng-g|tigusarigamiuk) angerlarpoq ((hjem))∞(dan), atorfialu qaffatsinneqarluni, Jensilu marluullutik 5000 dollar avippaat tillinniaq tingusarineranut$(dial,ng-g|tigusarineranut) akissarsiatik, pinnersaatillu nassaarineranut akissarsitinneqarlutik (statusia allivoq).
 
@@ -101,7 +101,7 @@ Taamaakkaluartoq ajortuinnaasorinngilara akuttanik qummut inissiinera, kalaallim
 Pinerluttulersaarummik saqqummertoqarnera taaminikkut¢(typo,i-a|taamanikkut) 1931-mi nutaarsiassaallunilu tinguartinnarsimassaaq$(dial,ng-g|tiguartinnarsimassaaq), uagummi ullutsinni fjernsynikkut, dvd-tigut atuagarpassuartigullu takusareerpagut, atuarlugulu naliginnaasuulluni ullutsinni. Taamaattumik ilimarpoq$(typo,der,0-NA|ilimanarpoq) taamanikkut inuusuttunut soqutiginnilersitsisimassasoq, allanikkajaalaamik saqqummersitsisoqarnera. Ilimanarporlu inuusuttunut Erik tillinniamik tingusarinnittoq$(dial,ng-g|tigusarinnittoq), oqaluttuamilu sapiitsuliortuutinneqartoq assigerusunnarsimassasoq, taamanikkummi taamaattunik takussanatillu tusarneq ajorput.
 Augo Lyngep kalaallit uparuarpai bibelip$(loan|biibilip) oqaasii paatsoorsimanerarlugit, piitsuussusertik pilunnertillu usorsisimaarutiginerarlugit. Soorluli kamassaatigitiinnaraa, kalaallit siuarusulersikkumallugit. Qularnanngilarmi kamassaatitut uisitsisussatullu sakkugisimassangaa$(dial,ng-g|sakkugisimassagaa), kalaallit siuarusukkumalersinniarlugit. Kisiannili aamma kalaallit ilaanut Augo Lyngemut isumaqataannginnermik kinguneqalersitsisimanissaa qularnanngilaq, taamanikkummi taamannak uparuaanissaq paqumigineqartuuvoq.
 Sakialluummulli katsorsaaveqartitsinera kalaallinut neriuuteqalersitsisunut ilaasimassooq$(dial,ssa|ilaasimassaaq), 1930-kkunnimi TB takussaaleraluttuinnarpoq, toqqutigineqartarluni allaat.
-Augo Lyngelli oqariartuutigisai ilinniagaqalernissaq eqeersimaarnerlu pingaaruteqartut isumaqatiginarpoq, aammattaaq qaammaassaqarnerulernissaq nunarsuarmioqataalernissarlu kalaallinut angorusunnartuuvoq. Taamanikkummi kalaallit qallunaanit mattusimaneqarput, (tassami pisiassat aaliangersimasut kisiisa pisiniarfinni pisiassaasarput)£(acc-nom|tassami pisiassat aaliangersimasut kisimik pisiniarfinni pisiassaasarput), aattaalu¢(dial,tt-ts;typo,l,1-2|aatsaallu) sorsunnersuup aappaata nalaani kalaallit silarsuarmioqatiminnut ammaanneqarput, aattaallu¢(dial,tt-ts|aatsaallu) inooriaatsit allaanerusut paasiartulerpaat.
+Augo Lyngelli oqariartuutigisai ilinniagaqalernissaq eqeersimaarnerlu pingaaruteqartut isumaqatiginarpoq, aammattaaq qaammaassaqarnerulernissaq nunarsuarmioqataalernissarlu kalaallinut angorusunnartuuvoq. Taamanikkummi kalaallit qallunaanit mattusimaneqarput, {tassami pisiassat aaliangersimasut kisiisa pisiniarfinni pisiassaasarput}£{acc-nom|tassami pisiassat aaliangersimasut kisimik pisiniarfinni pisiassaasarput}, aattaalu¢(dial,tt-ts;typo,l,1-2|aatsaallu) sorsunnersuup aappaata nalaani kalaallit silarsuarmioqatiminnut ammaanneqarput, aattaallu¢(dial,tt-ts|aatsaallu) inooriaatsit allaanerusut paasiartulerpaat.
 Atuagaq tamaat ataatsimut isigalugu nalilissangukku$(dial,ng-g|nalilissagukku), isumaqarpunga taamanikkut inuusuttunut  alutornarlunilu eqeersaataasimassaasoq$(typo,a,2-1|eqeersaataasimassasoq), aammattaaq inooriaatsinik aallanik$(typo,a,2-1|allanik) qaammaasaqarnerulersitsillunilu neriuuteqalersitsisimassaaq. Ingattajaarpallaaraluarluni tamanna tinguartinnaqutaasunut$(dial,ng-g|tiguartinnaqutaasunut) ilaaginnarpoq, akuttalli qaffasinnermiitinneqarnerat uggornalaaraluarpoq. Atuagarli atuaruminartuunera pisoqarfiuneralu nuannerlunilu tinguartinnarpoq$(dial,ng-g|tiguartinnarpoq).  
 1930-mit 1970-kkunnut$(num,0-i|1970-ikkunnut) ikaarsaarneq
 1930-kkunni aalisarnikkut siuariartorneq pileruttorpoq, annertunerusumilli kalaallit nunatsinni siuariartortoqarani. 
@@ -154,13 +154,13 @@ Augo Lynge-p$(prop,hyph-0|Lyngep) atuakkiaani “Ukiut 300-nngornerat”-nni$(sa
 Tassani atuakkiortut marluk piffissani assigiinngitsuneersut pingaartitaat erserput, 1930-kkunni qallunaat maligassaatinneqarlutik, akerlianilli 1970-kkunni$(num,0-i|1970-ikkunni) siulivut nammineerlutik allanik ikiorneqaratik inuusut maligassanngortinneqarlutik. Piffissani taakkunani marlunni pingaartitat assigiinngissusaannut peqqutaavoq 1930-kkunni qallunaanut atalivinnissaq anguniarneqarmat, 1970-kkunnili$(num,0-i|1970-ikkunnili) qallunaaluarneq nammineerusulernerlu peruttulerput. Piitsukkut atugaanni “Nammineq pitsinnik”-mi qallunaaluarneq erserpoq, qallunaat atisaat atorsinnaannginnerarlugit namminneq kalaallit pitik atorusummatikkit. 
 Qularnanngilaq “Ukiut 300-nngornerat” 1930-kkunni kalaallinut siuariarusuttunut kajumissaataasimassasoq, neriuuteqalersitsitillunilu. Alutornarsimassaarlu inuusuttunut pinerluttulersaarutitalimmik, pikkorissunillu inuttaqartumik atuagassaqarluni, naak akuttat maligassatut inissinneqaraluartut, kalaallinut qallunaanut atalivikkusunnermik kinguneqartitseqataasimassooq$(dial,ssa|kinguneqartitseqataasimassaaq). “Qooqa” 1971-imi nammineerusulernerup nalaani saqqummeqqaarami, kalaallinut qallunaaluartunut siulivut pikkorissorsuit namminerlu allanik (qallunaanik) ikorteqaratik inuusut maligassatut isiginarsimassapput, ataqqinarlutillu. Kalaallillu imminnut tatigeqqilernerannut tulluusimaarutiginerannullu sunniuteqarsimassooq$(dial,ssa|sunniuteqarsimassaaq). 
 Piffissani nunasiaataanerup nalaani nunasiaatilinnut isiginnittariaatsip allangorarnera$(typo,ng-nng|allanngorarnera) Fanons fasenut pingasunut agguarneqarsinnaavoq. Frans Fanon algiemiu$(loan,0-ri|algierimiu) nakorsaq, psykiatritut naammassinikuusup nunasiaataanerup ingerlanera piffissanut pingasunut agguarsimavaa:  
-Siullertut (assimiliationsfasen/)∞(dan) nunasisut kulturiannut naleqqussarneq:
+Siullertut {assimiliationsfasen/}∞{dan} nunasisut kulturiannut naleqqussarneq:
 Kalaallinut assersuutigissagutsigut¢(dial,infl,t-0|assersuutigissagutsigu), kalaallit qallunaanut qummut isiginnilerput inooriaasaanillu issuaanninnialerlutik, ilanngutilivikkusullutillu. Soorlu 1930-kkunni Augo Lynge-p$(prop,hyph|Lyngep) anguniangaringaa$(dial,ng-g;dial,ng-g|anguniagarigaa) qallunaanut ilanngutivinnissaq, 5. Juni 1953-mi$(num,0-i|1953-imi) piviusunngortoq. Taamaalillutik kalaallit qallunaat kulturiannut naleqqussalerput, qallunaanngorsaaneq tassani assersuutigineqarsinnaavoq, ilinniartitaanermilu qallunaat oqaasiisa atugaaleraluttuinnarnerat.
-Aappaattut (abrogationsfasen)∞(dan)/avalassimanialerneq:
+Aappaattut {abrogationsfasen}∞{dan}/avalassimanialerneq:
 Uani kalaallit qallunaanut avalassimanialerput, siulitillu ataqqilerlugit, maligassatullu isigilerlugit. Soorlu 1970-kkunni$(num,0-i|1970-ikkunni) nammineerusulerneq siulitsinnillu qummut inissiisarneq ersertoq. Piitsukkut atuganni$(typo,a,1-2|atugaanni) “nammineq pitsinnik”-mi qallunaat atisaat narrugineqalerput, kalaallillu namminneq piminnik atorusupput. Ole Brandt-ip$(prop,hyph-0|Brandtip) atuakkiaani “Qooqa”-mi siulivut pavungarsuaq inornartutut pikkorissorsuartullu inissineqarput.
-Pingajuattut (appropriationsfasen)∞(dan)/akuereqatigiinneq:
+Pingajuattut {appropriationsfasen}∞{dan}/akuereqatigiinneq:
 Kalaallit qallunaanut qinngarinnikkunnaarput, ikioqatigiilerlutillu. Kalaallit kulturiat qallunaallu kulturiat ataatsimoortillugit atorneqalerput, qallunaat kalaallillu akornanni assigiinngissutit akuerineqarlutik. Soorlu ullutsinni qallunaallu naligiilernerunikuuvugut, kalaallillu namminersornerulernissaannut qallunaat ikiuupput. Qallunaat qummut isiginiarunnaarnikuuagut, qallunaaluarunnaarnikuullutalu. Qallunaat inooriaasaannut assigusumik$(dial,hypcorr,g-ng|assingusumik) inooriaaseqarpugut, kulturitoqarpulli suli pingalugu$(dial,ng-g|pigalugu).
-(Fanons faser)∞(dan) kalaallinuinnaq tunngatinneqanngilaq, nunasiaataasunulli tamanut atuuttarpoq. Soorlu Afrikami qernertormiut, qaamasunit amilinnit nunasiaataanerat aamma taamannak avinneqarsinnaasoq.
+{Fanons faser}∞{dan} kalaallinuinnaq tunngatinneqanngilaq, nunasiaataasunulli tamanut atuuttarpoq. Soorlu Afrikami qernertormiut, qaamasunit amilinnit nunasiaataanerat aamma taamannak avinneqarsinnaasoq.
 Naggasiut
 Uanga uani allaaserinninnermi paaserusussimasara, sooq 1930-kkunni kalaallit pingaartitaat 1970-kkunni$(num,0-i|1970-ikkunni) pingaartitanut sanilliullugit taama assigiinngitsigisut akissutissarsivara. 
 Siornatigut isumaqarsimangaluarpunga$(dial,ng-g|isumaqarsimagaluarpunga) ineriartupiloorneq, qallunaanngorsaaneq, imigassaq, nunaqarfinnillu matoorineq pingaarnertut pisuusut. Paasivarali aamma ineriartupiloornerup aaqqissuussaanera amerlasuutigut equngasimasoq, soorlu kalaallit teknikkikkut inooriaatsikkullu ineriartornerat ingiaqatigiittussatut takorloorneqarsimangaluartut$(dial,ng-g|takorloorneqarsimagaluartut).
@@ -235,7 +235,7 @@ Tigusiffiit nassuiaatillu
 11) “Ukiut 300-nngornerat” Augo Lynge, qupp. 49-53
 12) “Ukiut 300-nngornerat” Augo Lynge, qupp. 47-48.
 13)  “Ukiut 300-nngornerat” Augo Lynge, qupp. 45.
-14) (www.google.dk  www.notatwiki.dk)∞(url) 
+14) {www.google.dk  www.notatwiki.dk}∞{url} 
 15)  “Ukiut 300-nngornerat” Augo Lynge,  qupp. 48
 16) “Ukiu$(typo,0-t|Ukiut) 300-nngornerat” Augo Lynge, qupp. 18.
 17)  “Qaannat alannguanni” Tupaarnaq Rosing Olsen, qupp. 31
@@ -246,7 +246,7 @@ Tigusiffiit nassuiaatillu
 22)  Piitsukkut “Inuiaat naqisimaneqartugut kattutta!” nr.1
 23)  “Qooqa” Ole Brandt, qupp. 5
 24)  “Qooqa” OleBrandt$(prop,cmp,1-2|Ole Brandt), qupp. 70-85
-25) (Smiling eskimoes:)∞(eng) (et speciale af)∞(dan) Karen Ramsøe.
+25) {Smiling eskimoes:}∞{eng} {et speciale af}∞{dan} Karen Ramsøe.
 26) Piitsukkut Inuiaat naqisimaneqartugut kattutta! “Nammineq pitsinnik”
 27)  “Qooqa” Ole Brandt, qupp. 5.
 
@@ -258,23 +258,23 @@ Berthelsen, Christian
 Atuakkiorfik 1994.
 Brandt, Ole
 “Qooqa”
-Ilusaata aappaa, (naqitaq aappaat)£(sing-plur|naqitat aappaat)
+Ilusaata aappaa, {naqitaq aappaat}£{sing-plur|naqitat aappaat}
 Atuakkiorfik, Nuuk 1991.
 Lynge, Augo
 “Ukiut 300-nngornerat”
-(2. ændrede udgave
-Det grønlandske forlag)∞(dan) 1959.
+{2. ændrede udgave
+Det grønlandske forlag}∞{dan} 1959.
 Piitsukkut
 “Inuiaat naqisimaneqartugut kattutta!”
 SWEET SILENCE-mi Københavnimi immiussaq April 1980
 ULO – Box 184, DK-3911 Sisimiut, Greenland
 Ramsøe, Karen
-(“Smiling eksimoes”)∞(eng)
+{“Smiling eksimoes”}∞{eng}
 Ilisimatusarfik Nuuk, Februar 2009.
 Rosing Olsen, Tupaarnaq
 “Qaannat alannguanni” 
 Kalaallit Nunaanni naalakkersuinikkut oqaluttuarisaanermit 1939-79
-(Forlaget Atuagkat 2002.
-Berettermodellen)∞(dan)
+{Forlaget Atuagkat 2002.
+Berettermodellen}∞{dan}
 Assitaata tinguneqarfia$(dial,ng-g|tiguneqarfia):
- (www.google.dk   www.notatwiki.dk)∞(url) 
+ {www.google.dk   www.notatwiki.dk}∞{url} 

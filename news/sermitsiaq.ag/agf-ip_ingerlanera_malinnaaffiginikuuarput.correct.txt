@@ -8,14 +8,14 @@ Naalakkersuisut Arctic Green Foodimut malinnaanngippallaarsimasutut Atassutip is
 
 Piniarnermut Aalisarnermut Nunalerinermullu politikkikkut akisussaasoq IA-mit Ane Hansen oqarpoq.
 
-(Taama akissuteqarpoq ataasinngornermi Atassummit Ove Thomassenimit sakkortuumik Naalakkersuisunut isornartorsiuereerneratigut)£(x|Taama akissuteqarpoq ataasinngornermi Atassummit Ove Thomassenimit sakkortuumik Naalakkersuisunut isornartorsiuereernermigut).
+{Taama akissuteqarpoq ataasinngornermi Atassummit Ove Thomassenimit sakkortuumik Naalakkersuisunut isornartorsiuereerneratigut}£{x|Taama akissuteqarpoq ataasinngornermi Atassummit Ove Thomassenimit sakkortuumik Naalakkersuisunut isornartorsiuereernermigut}.
 
 Atassut tunuliaqutaralugu politikkeri isumaqarmat Naalakkersuisut Arctic Green Foodip inissisimaneranut malinnaanerusariaqarsimagaluartut.
 
 Malinnaaffigilluarneqarpoq
 Suliffeqarfilli februaarip 28-ani akiliisinnaajunnaarluni matusariaqalersoq malinnaarfigilluarneqartoq Ane Hansen nassuiaavoq.
 
-- Suliffeqarfimmut piumasarinikuuarput ukiumut marloriarlutik nalunaaruteqartassasut. Sullissinissamik isumaqatigiissummi arlaannik pissusissamisut ingerlasoqanngikkaangat suliffeqarfik nalunaarfigisarparput ajornartorsiut iluarseqqullugu. Assinganik suliffeqarfimmut taama isiorpugut, Ane Hansen (Sermtsiaq.AG-mut)∞(url) apersorneqarnermini oqarpoq.
+- Suliffeqarfimmut piumasarinikuuarput ukiumut marloriarlutik nalunaaruteqartassasut. Sullissinissamik isumaqatigiissummi arlaannik pissusissamisut ingerlasoqanngikkaangat suliffeqarfik nalunaarfigisarparput ajornartorsiut iluarseqqullugu. Assinganik suliffeqarfimmut taama isiorpugut, Ane Hansen {Sermtsiaq.AG-mut}∞{url} apersorneqarnermini oqarpoq.
 
 Politikkikkut akisussaaffimminiilluni suliffeqarfiup nunaqarfinni aaqqissussani$(typo,u,1-2;typo,a,1-2|aaqqissuussaani) siuariartortoqanngitsut takuaa.
 

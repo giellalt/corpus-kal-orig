@@ -6,7 +6,7 @@ Anslagit amerlassusaat:		64.544 inkl. Probl. Form.
 
 Ulloq:______________________________ Atsiorneq:_________________________________________
 Piareersaataasumik amerlisaanermik ilinniarneq
-(Bachelor opgave)∞(dan)
+{Bachelor opgave}∞{dan}
 
 
 Najoqqutat allattorsimaffiat
@@ -39,7 +39,7 @@ Najoqqutat allattorsimaffiat
 9 Naggasiineq	9
 10 Siumut eqqarsaatersorneq ((Perspektivering))∞(dan)	9
 Najoqqutat allattorsimaffiat	10
-(Bilag 1 –Start/Sluttest 	12
+{Bilag 1 –Start/Sluttest 	12
 Bilag 1.1 Starttest	12
 Bilag 1.2 Sluttest	12
 Bilag 2 –Starttest resultater i excel 	12
@@ -50,15 +50,15 @@ Bilag 5  -Spørgeskema til elever – svaret 	23
 Bilag 6 –Spørgeskema til lærer –svaret   	23
 Bilag 6.1 Lærer 1	23
 Bilag 6.2 Lærer 2	25
-Bilag 7 – Logbog)∞(dan) Atuarfik Hans Lynge (–Matematik 	27
-Bilag)∞(dan) 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 	27
+Bilag 7 – Logbog}∞{dan} Atuarfik Hans Lynge {–Matematik 	27
+Bilag}∞{dan} 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 	27
 Bilag 8.1 Ilikkagassatut anguniagassat	28
 Bilag 8.2 Atuartitsinermit pilersaarut 	29
-Bilag 9 (Powerpoint)∞(eng)	30
-Bilag 9 (Powerpoint)∞(eng)	31
+Bilag 9 {Powerpoint}∞{eng}	30
+Bilag 9 {Powerpoint}∞{eng}	31
 Bilag 10 Suleriaatsit nassuiaataat 	33
 Bilag 11 Atuartut suliassaat/ Suliaat 	34
-Bilag 12 (CREDE standards)∞(eng) (–Metode)∞(dan) –Periuseq 	34
+Bilag 12 {CREDE standards}∞{eng} {–Metode}∞{dan} –Periuseq 	34
 
 
 
@@ -124,14 +124,14 @@ Atuarfimmi sapaatip akunnerini sisamani misiliininni aalajangiunnikuuara katiter
 Immikkoortumi uani sullivilersornerup isumaa allaaserinninninni tikissavara, tassunga ilaatillugu sullivilersornerup atuartitsineq ilikkarluarfiusumut ((CREDE))∞(eng) qanoq atassuteqarnera aammalu  atuartitsininni qanoq atassusertarsimanerlugu eqqartussallugit. Tulliullugu eqqartugassara tassaavoq tigussaasut aallaavigalugit atuartitsineq, aammalu atuakkat aallaavigalugit atuartitsineq qanoq paasineqassanersut paasissutissiissutigilaassavakka, atuartitsininnilu teoriit suut ikorfartuinersut tikissallugit.  
 4.1 Sunaana sullivilersorluni atuartitsineq?
 
-Sullivilersorluni atuartitsineq tassaavoq aalajangersimasumik suliaqarnermi malitaqarluni atuartitsineq. Sullivinni periaatsit assigiinngitsut arlaqarsinnaapput, ilinniartitsisup ilaatigut atuartuutini peqatigalugit pilersaarusiai aallaavigalugit atuartitsissusiat malillugit sullivinni aqqusaarneqartut. (”Et hyppigt anvendt undervisnings- og arbejdsmønster kalder værkstedsundervisning eller værkstedsarbejde…Lærerne udarbejder alene, evt. efter samtaler med eleverne, en række værksteder. Et værksted har et navn og er en ramme om et sæt arbejdsopgaver eller aktiviteter.”)∞(dan)  Sillivilersorluni¢(typo,i-u|Sullivilersorluni) atuartitsinermi atuartut naleqquttunik suliaqarnissaminnut periarfissinneqartarput, sumilluuniit$(typo,n,1-2|sumilluunniit) naammassiinermik$(typo,i,2-1|naammassinermik) imaluunniit ilikkagaqarfiusunik inerneqarsinnaasunik. (”Eleverne udfører noget praktisk, der ender i et produkt af en eller anden art. Et værksted er et sted, hvor man virker og skaber et >>værk<<.”)∞(dan) 
+Sullivilersorluni atuartitsineq tassaavoq aalajangersimasumik suliaqarnermi malitaqarluni atuartitsineq. Sullivinni periaatsit assigiinngitsut arlaqarsinnaapput, ilinniartitsisup ilaatigut atuartuutini peqatigalugit pilersaarusiai aallaavigalugit atuartitsissusiat malillugit sullivinni aqqusaarneqartut. {”Et hyppigt anvendt undervisnings- og arbejdsmønster kalder værkstedsundervisning eller værkstedsarbejde…Lærerne udarbejder alene, evt. efter samtaler med eleverne, en række værksteder. Et værksted har et navn og er en ramme om et sæt arbejdsopgaver eller aktiviteter.”}∞{dan}  Sillivilersorluni¢(typo,i-u|Sullivilersorluni) atuartitsinermi atuartut naleqquttunik suliaqarnissaminnut periarfissinneqartarput, sumilluuniit$(typo,n,1-2|sumilluunniit) naammassiinermik$(typo,i,2-1|naammassinermik) imaluunniit ilikkagaqarfiusunik inerneqarsinnaasunik. {”Eleverne udfører noget praktisk, der ender i et produkt af en eller anden art. Et værksted er et sted, hvor man virker og skaber et >>værk<<.”}∞{dan} 
 Sullivilersorluni atuartitsineq uanga paasinninnera aallaavigalugu nassuiassagukku, tassaatippara atuartitseriaaseq, sulliviit assigiinngitsut atuartunit aqqusaarneqartussat aallaavigalugit ingerlanneqartussat. Atuartitsinermi siunertat ilikkagassatullu anguniakkat tunngavigalugit  ilinniartitsisumit pilersaarusiorfigineqartartut, atuartunilli sullivinni pilersaarusiat suliassartalersukkat malillugit suliarineqartussat. Sullivilersorneq qiviassagaanni atimini ersereerpoq, atuartitsinermi sulliviit assigiinngitsut aallaavigalugit atuartitsinerusoq. Tassa ima paasillugu atuartut ilinniarnerminni fagimi tunngaviusumik, imaluunniit fagit atuartitsissutissat assigiinngitsut atorlugit nerrivinni sulliviusuni aalajangersimasumik anguniagaqarluni ilinniarneq. Nerriviit sullivissatut inissitat, immikkuullarissunik anguniagalersorlugit inissinneqarsinnaapput, atuartitsinermi anguniakkat apeqqutaatillugit suliakkersorneqarsimasut. Sullivilersorluni atuartitsinermi ilinniartitsisup akisussaaffigaa atuartut suut suliarissaneraat, kisiannili periarfissaalluni aamma atuartut suliassaminnut aalajangeeqataasinnaanissaat. Sullivilersorluni atuartitsinermi atuartut eqimattanut aalajangersimasunut suleqatigiittussatut inissinneqartarput, atuartut amerlassusaat apeqqutaatillugit, eqimattat aammalu sulliviit aalajangerneqartarlutik. Assersuutigalugu atuartut 19-it eqimattanut sisamanut tallimanulluunniit agguaanneqarsinnaapput, ilaatigut piginnaasaat, suleqatiginnissinnaaneri suiaassuserlu aallaavigalugit agguaanneqarsinnaallutik. Atuartitsinerup ingerlanerani aalajangersimagaanni sulliviit atuartunit tamanit aqqusaarneqassasut, aamma pilersaarusiorfigineqartariaqarpoq sullivimmi ataatsimi eqimattat qanoq sivisutigisumik suliaqarnissaat, atuartut sulliviit tamaasa aqqusaarsinnaaniassappatigit. Assersuutigalugu 90 minutsit atuartitsineq ingerlanneqassappat, atuartut tamaasa peqataatillugit aallarniineq/nassuiaaneq ingerlanneqaqqaassaaq, taassumalu kingorna sullivinni sulineq ingerlanneqassalluni. Sullivinni sulineq 60 minutsinik sivisussuseqassappat eqimattallu sisamaallutik, taava sullivimmi ataatsimi atuartut 15 minutsit suliaqartarnissaat naatsorsuutigineqassaaaq$(typo,a,3-1|naatsorsuutigineqassaaq), taassumalu kingorna sulliviup aappaanut ingerlasoqartassalluni.  
 Sullivilersornermik oqaruma, sullivilersorlunilu atuartitsinermi atuartitsineq ilikkarluarfiusoq(CREDE)$(typo,cmp,1-2|ilikkarluarfiusoq (CREDE)) aqqusaarneqaruni, taamaappat sullivilersorluni atuartitsineq aamma atuartitsineq ilikkarluarfiusoq ataqatigiissinneqarsinnaasimassapput. Atuartitsineq ilikkarluarfiusup periusaa sullivilersorluni atuartitsinermut assinguvoq, tamarmik eqimattani sulisitsinermut, ikioqatigiinnermut suleqatigiinnermullu tunngaveqarmata. Atuartitsineq ilikkarluarfiusoq nassuialaassavara, qanorlu sullivilersornermut atassuteqarsinnaanera eqqartorlugu. 
-Atuartitsineq ilikkarluarfiusoq CREDE-mit tunngaveqarpoq, CREDE uannga naalisarneqarnikuuvoq; (”Center for Research on Education, Diversity and Excellence”,)∞(eng) USA-milu tunngavilerneqarluni. Atuartitsineq ilikkarluarfiusoq CREDE-mit tunngavilik, Kalaallit Nunatsinnut tulluarsarlugu atuartitsinerup pitsaassusaanik marlunnik tunngaviliisunik amerlineqarnikuuvoq, tallimaniit arfineq marlunnut tunngaveqalersillugu. CREDE-p ilisimatusaatiginerani inuiaat kulturikkut inissisimanerat sammineqarpoq eqqummaariffigineqarlunilu, kulturikkut oqaatsitigullu tunuliaquttat aamma inuttut qanoq inissisimaneq tassani aalajangeeqataasuullutik. CREDE-ip$(acro,i-0|CREDE-p) atuartitsinerup pitsaassusaanut tunngavii naatsumik nassuiaateqarfigilaassavakka, kisiannili atuarfimmi misiliininnut, misissuininnullu tunngatillugu sullivilersorluni atuartitsinermut ilanngussakka annertunerusunik nassuiaateqarfigissallugit. Taakkulu tassaapput: 
+Atuartitsineq ilikkarluarfiusoq CREDE-mit tunngaveqarpoq, CREDE uannga naalisarneqarnikuuvoq; {”Center for Research on Education, Diversity and Excellence”,}∞{eng} USA-milu tunngavilerneqarluni. Atuartitsineq ilikkarluarfiusoq CREDE-mit tunngavilik, Kalaallit Nunatsinnut tulluarsarlugu atuartitsinerup pitsaassusaanik marlunnik tunngaviliisunik amerlineqarnikuuvoq, tallimaniit arfineq marlunnut tunngaveqalersillugu. CREDE-p ilisimatusaatiginerani inuiaat kulturikkut inissisimanerat sammineqarpoq eqqummaariffigineqarlunilu, kulturikkut oqaatsitigullu tunuliaquttat aamma inuttut qanoq inissisimaneq tassani aalajangeeqataasuullutik. CREDE-ip$(acro,i-0|CREDE-p) atuartitsinerup pitsaassusaanut tunngavii naatsumik nassuiaateqarfigilaassavakka, kisiannili atuarfimmi misiliininnut, misissuininnullu tunngatillugu sullivilersorluni atuartitsinermut ilanngussakka annertunerusunik nassuiaateqarfigissallugit. Taakkulu tassaapput: 
 Pilersitseqatigiilluni sammisaqarneq: Ilinniartitsisup atuartullu pilersitseqatigiinnerat.
 Oqaatsinik, atuarnermik allannermillu ineriartortitsinerit: 
 Ataqatigiilersitsinerit: Isumaqassusermik pilersitsineq –atuartup$(typo,cmp,1-2|– atuartup) atuarfimmi inuunermilu ilisimasaasa ataqatigiilersinnerat. Atuartoq angerlarsimaffimmut angerlarsimaffiullu avataani inuuneranut atuarnerata atassusertarnissaa pingaaruteqarpoq. Atuartup nammineq misilittagai, piginnaasai ileqquilu ikikkarsarnermut$(typo,k-l|ilikkarsarnermut) sunneeqataasarmata. 
-Tamannalu Sullivilersorluni atuartitsinermi (sulliviit ilaani)£(poss,sing-plur|sulliviit ilaanni) atuartut aqqusaarpaat, 5.marts.13$(typo,cmp,1-3|5. marts. 13) Atuartut sullivilersorneranni sullivik 1 naatitanik (pappilissat assitallit) pisiassaqartillugu (Multi kopiark side 52-meersoq$(num,0-i|52-imeersoq))€(foreign|kopiigassat assigiinngitsut qupp. 52-imeersoq) atorlugu atuartut pisiniartitsisuusaarlutillu pisiniartuusaarmata. Tassani kisitsissut karsi ooriusaanik imalik atorneqarpoq, atuartut sullivimmi sulinerminni atuarfiup avataani amerlisaanerup sumut atorsinnaanera ilinniarpaat. 
+Tamannalu Sullivilersorluni atuartitsinermi {sulliviit ilaani}£{poss,sing-plur|sulliviit ilaanni} atuartut aqqusaarpaat, 5.marts.13$(typo,cmp,1-3|5. marts. 13) Atuartut sullivilersorneranni sullivik 1 naatitanik (pappilissat assitallit) pisiassaqartillugu (Multi kopiark side 52-meersoq$(num,0-i|52-imeersoq))€(foreign|kopiigassat assigiinngitsut qupp. 52-imeersoq) atorlugu atuartut pisiniartitsisuusaarlutillu pisiniartuusaarmata. Tassani kisitsissut karsi ooriusaanik imalik atorneqarpoq, atuartut sullivimmi sulinerminni atuarfiup avataani amerlisaanerup sumut atorsinnaanera ilinniarpaat. 
 Unamminartumik sammisaqarneq: Itisuumik tamatigoortumillu isumaliorsinnaassusermik ilinniartitsineq. 
 Oqaloqatigiinnikkut ilitsersuineq: 
 Atuarfimmi misiliininni pingaartippara atuartut ilinniartitsisoq peqatigalugu ilinniarnerminnut tunngasunik oqaloqatigiissinnaanissaat. Tamannalu tunngavigalugu sullivilersorluni atuartitsinermi ilaatissallugu tulluartippara læringsdialogcenter-itut$(loan,hyph-0|læringsdialogcenteritut) taallugu. Læringsdialogcenter-imi$(loan,hyph-0|Læringsdialogcenterimi) atuartut ilikkarsarnerminni ilinniartitsisuminniit ikorfartorneqarnissaat pingaartissimavara, atuartut piginnaasaannik qaffassaanissaq anguniarlugu. Atuartitsininni læringsdialogcenterimiinninni amerlisaanermut tunngasunik atuartut ilinniartippakka ilaatigut ass. 43 aamma 34-tut inissinneqarsinnaasoq nassuiaallunga, tassani anguniarpara atuartut piginnaasaat qaangilaarlugit atuartitsinissara, Soorlu Unamminartumik sammisaqarneq-tut taaneqarsinnaasunngorlugu. 
@@ -139,40 +139,40 @@ Maligassiuinikkut periutsinik takutitsineq: Isigisanik iluaquteqarluni ilinniarn
 Atuartup iliuusissatut anguniagai/pilersaarutai naapertorlugit sammisaqartitsineq: 
 
 4.2 Atortut tigussaasut atuakkallu aallaavigalugit atuartitsineq
-Atortut tigussaasut atorlugit atuartitsinerup siunertaraa, suliassanik timitaqanngitsunik ”kisitsisinik kisitassaannarnik imalinnik”, imaluunniit kisitsisinik tunngavilinnik tigussaasunnguinikkut suliassanik erseqqissaaneq. Imalu Pernille Pind-ip$(prop,hyph-0|Pindip) nittartakkamini naatsumik nassuiarsimavaa:”Konkrete$(cmp,1-2|nassuiarsimavaa: (”Konkrete)∞(dan)) (materialer har til hensigt at konkretisere begreber og sammenhænge, som ellers er abstrakte. Målet er at de konkrete repræsentationer på sigt erstattes af mentale repræsentationer…”)∞(dan) Tigussaasut atorlugit atuartitsineq ima paasineqassaaq, atuartitsivimmi atuartitsinerup siunertaa aallaavigalugu atuartitsissummut tulluartunik tigussaasunik atortoqarluni atuartitsineq. Atortut tigussaasut atuartunit atorneqassapput, taamaalillutik (eqqarsaatitik kisimik atornagit)£(x|eqqarsaatitik kisiisa atornagit), aammali timitik atortullu tigussaasut atorlugit ilikkarsarnermikkut oqilisaanneqarsinnaaniassagamik.  
+Atortut tigussaasut atorlugit atuartitsinerup siunertaraa, suliassanik timitaqanngitsunik ”kisitsisinik kisitassaannarnik imalinnik”, imaluunniit kisitsisinik tunngavilinnik tigussaasunnguinikkut suliassanik erseqqissaaneq. Imalu Pernille Pind-ip$(prop,hyph-0|Pindip) nittartakkamini naatsumik nassuiarsimavaa:”Konkrete$(cmp,1-2|nassuiarsimavaa: {”Konkrete}∞{dan}) {materialer har til hensigt at konkretisere begreber og sammenhænge, som ellers er abstrakte. Målet er at de konkrete repræsentationer på sigt erstattes af mentale repræsentationer…”}∞{dan} Tigussaasut atorlugit atuartitsineq ima paasineqassaaq, atuartitsivimmi atuartitsinerup siunertaa aallaavigalugu atuartitsissummut tulluartunik tigussaasunik atortoqarluni atuartitsineq. Atortut tigussaasut atuartunit atorneqassapput, taamaalillutik {eqqarsaatitik kisimik atornagit}£{x|eqqarsaatitik kisiisa atornagit}, aammali timitik atortullu tigussaasut atorlugit ilikkarsarnermikkut oqilisaanneqarsinnaaniassagamik.  
 Atortut tigussaasut kisitsinermi atorneqarsinnaasut tassaasinnaapput: Kuglerammit, kisitsisit makittakkat, tallinje, centicubesit, ruschebane, kisitsisit ikkussortakkat allarpassuillu atuartup kisitsinermi ilikkarsarnermini atorsinnaasai.
 Atortut tigussaanngitsutut taasinnaasagut tassaasinnaapput atuakkat suliassallu allat atuakkanut/pappilissanut naqinneqarsimasut. Assersuutigalugu atuakkani suliassat tassaasinnaapput amerlisaanermi suliassat  kisitsisiinnarnik imallit, eqqarsaatit atorlugit kisitassat ass. ”5∙4= _______.”  Atuartitsinermi suliakkiissutit ima isikkullit atuartup piginnaasani aallaavigalugit eqqarsaatiminik, imaluunniit atortunik tigussaasunik ikorfartuuteqarluni kisittarpai, nammineq pisariaqartitani malillugit kisitseriuseqartarluni. Atuartorlu ima ilikkarsimatigippat, allaat suliassat eqqarsaataannarminik kisissinnaallugit taamaappat atortunik tigussaasunik atuinissaq pisariaarussimassaaq, ilikkagassaalu taamaalillugit annertuninngorlugit qaffassaqqissinnaalerlugit. Tamannalu immikkoortup tulliani itinerusumik iserfigissavara.
 
 4.3 Jean Piaget aamma Lev Vygotsky
 Sullivilersorluni atuartitsinermi, atortut tigussaasut atuakkallu aallaavigalugit atuartitsinermi teoriit suut atuartitsininnut ikorfartuinersut uani immikkoortumi ilisaritissavakka. Teoriitiikerit$(loan|Teoretikerit) atuartitsininnut ikorfartuisut marluk tunngavilersuutigissallugit toqqarnikuuakka, siullertut Jean Piaget aappaattullu Lev Vygotsky misissuininnut tunngatillugu atuartitsininni teoriitiikerit$(loan|teoretikerit) ”ingiaqatigalugit” suleriaaseqarninnut erseqqissaatigissavakka. 
-Bachelorimi misissuininnut tunngatillugu 3. klasseni praktikkerninni anguniarnikuuara atuartut suleqatigiinnermikkut aammalu tigussaasut aallaavigalugit suliaqarnermikkut ilikkagaqarlutik angusaqarnissaat. Tamannalu aqqutigalugu atuartut suleriaaseq sorleq atoraangamikku ilikkagaqarnerusarnersut paasiniaaninni akissutigerusullugu sulissutigivara. Misissuininnut tunngatillugu atuartitsininni teoriitiikerit$(loan|teoretikerit) atuartitsininnut tulluarsorisakka eqqartulaassavakka. Tigussaasut aallaavigalugit atuartitsininnut tunngatillugu Jean Piaget (fase teori)∞(dan) allaaserissavara, sullivilersorlunilu atuartitsinermut, tassa eqimattani sulinermut aammalu atuartut piginnaasaat aallaavigalugit atuartitsinermut tunngatillugu Lev Vygotsky-p$(prop,hyph-0|Vygotskyp) teoriia (”sociokulturelle perspektiv på læring”)∞(dan), tassa aamma virksomhedsteorimik taaneqartartoq aallaavigalugu allaatiginnissallunga. 
-(Piagets faseteori:)∞(dan)
+Bachelorimi misissuininnut tunngatillugu 3. klasseni praktikkerninni anguniarnikuuara atuartut suleqatigiinnermikkut aammalu tigussaasut aallaavigalugit suliaqarnermikkut ilikkagaqarlutik angusaqarnissaat. Tamannalu aqqutigalugu atuartut suleriaaseq sorleq atoraangamikku ilikkagaqarnerusarnersut paasiniaaninni akissutigerusullugu sulissutigivara. Misissuininnut tunngatillugu atuartitsininni teoriitiikerit$(loan|teoretikerit) atuartitsininnut tulluarsorisakka eqqartulaassavakka. Tigussaasut aallaavigalugit atuartitsininnut tunngatillugu Jean Piaget {fase teori}∞{dan} allaaserissavara, sullivilersorlunilu atuartitsinermut, tassa eqimattani sulinermut aammalu atuartut piginnaasaat aallaavigalugit atuartitsinermut tunngatillugu Lev Vygotsky-p$(prop,hyph-0|Vygotskyp) teoriia {”sociokulturelle perspektiv på læring”}∞{dan}, tassa aamma virksomhedsteorimik taaneqartartoq aallaavigalugu allaatiginnissallunga. 
+{Piagets faseteori:}∞{dan}
 Jean Piaget 1896-mi$(num,0-i|1896-imi) Neuchatelimi inunngorpoq 1980-imilu toqulluni. Piaget Schweizimi psykologitut atorfeqarsimavoq, ilisimaneqaatigaalu meeqqat ineriartornerminni eqqarsartaasiannik ((tankeproces))∞(dan) suliaqarsimanini. Piaget faseteoeriimini sisamanik immikkuullarissunik killiffinnik allattugaateqarpoq.  Taakkualu killiffiit sisamat meeqqat ukiuinut immikkoortinneqarsimapput, ukiulli apeqqutaatinnerunagit, meeqqalli piginnaasaminik killiffigisinnaasai apeqqutaatinnerullugit nassuiaasiorfigineqarsimallutik. 
 (Piaget opererer med 4 faser i sin teori om børns kognitive udvikling:
 den sensomotoriske periode		(0-2 år)
 den præoperationelle periode		(2-7 år)
 den konkret operationelle periode		(7-11 år)
 den formelt operationelle periode		(fra ca. 11 år))∞(dan)
-Piaget faseteoriiani allassimasuni killiffiit pingajuat tassa (”den konkrete operationelle periode”)∞(dan) annerusumik iserfigissavara, taannaammat tigussaasut atorlugit atuartitsininnut ikorfartuisoq, atuarfimmilu misiliininni atuartut piginnaasaasa killiffiinik ilisarnarsinnaasunik takutitsisoq. Misissuininnut tunngatillugu, naatsorsuutigaara atuartut 3. klasseni atuartuusut, sammisamillu nutaamik aallartittut, Piaget faseteoriiani (”den konkret operationelle periode”)∞(dan) atorlugu ilikkarsarnerminni annertunerusumik pissarsiaqarsinnaasut. Piaget teoriiani allaqqagami: (”Dette er skolestarten og ud fra aldersangivelsen de første 4-5 skoleår. Her findes muligheden for både logisk og formel tænkning, men støttet til det nære, det konkrete. Ordning og klassificering af objekter er mulig. Barnet er altså i gang med at systematisere sin tænkning, men stadig med krav om, at det, som skal begribes, kan man gribe om i næsten fysisk betydning.)∞(dan)  Atuartitsininnut tunngatillugu ersarissumik atuartunik una killiffik inissisimaffigineqarpoq. Atuartut amerlasuut katiterinermiit amerlisaanermut ikaarsaarnermi kisitsinerminni atortut tigussaasut atorlugit kisitsinissartik suli pisariaqartimmassuk, eqqarsaatiminni kisitassatik piviusumik takoqqaarlugit kisinnissai ajornannginnerutikkamikku. Atuartut tigussaasunik atortoqarnissaq uani pisariaqartippaat, pissutigalugu amerlisaanermik kisitsineq atuartunut nutaajummat, taamaattumik sullivilersorluni atuartitsinermi tigussaasunik atortoqarluni atuartitsineq pingaartillugu ilannguppara, atuartut paasisaqarlutik suliaqarsinnaaniassammata. Atuartut aalajangersimasut kisimik taamaallaat eqqarsaatsiminnik kisitsisinnaapput, kisiannili suli sungiusartariaqarlugu. 
-(Vygotsky: Sproget som redskab & Den nærmeste udviklings zone:)∞(dan)
-Misissuininnut tunngatillugu atuartitsininni, sullivilersorluni atuartitsinermut tunngatillugu teorii atuartitsininnut ikorfartuisoq tassaavoq; Lev Vygotskyp teoriia (virksomhedsteori)∞(dan). Vygotsky russiuvoq 1896 Orsjami inunngorpoq 1934-milu Moskvami toqulluni. Vygotsky psykologiusimavoq, ullumikkullu ilisimaneqaatigaa pædagogikkimik aammalu ineriartornermut tunngasunik suliaqarsimanini.  Siullertut, Vygotskyp pingaartippaa inoqatinut attaveqarneq aqqutigalugu paaseqatigiissinnaanissaq. Inuiaqatigiinni piorsarsimassusermilu paaseqatigiissinnaaniassagutta oqaatsit sakkutut pingaarnertut teoriimini eqqaavaa, ima allassimasoqarami: (”…Vort vigtigste redskab i denne proces er sproget, først og fremmest talen.”)∞(dan)    
-Oqaatsivut sakkutut pingaarnertut taaneqareermata, atuartut piginnaasaat aallaavigalugit atuartitsineq, tassungalu ilaatillugu suleqatigiinnerup pitsaasumik kinguneqartarnera tikissavara. Vygotsky isumaqarpoq meeraq inersimasumit ikorfartorneqaqqaarluni aatsaat nammineerluni sulilluarsinnaasoq. Tassani pineqarpoq inersimasup meeqqamut ikorfartuinissaa, taamaalilluni inersimasoq meeqqap suliassaanut oqilisaaqataassaaq, (suliassat qanoq suliarineqarsinnaaneri maligassiuinikkut periutsinik meeqqamut takutitsinermigut)£(x|suliassat qanoq suliarineqarsinnaanerinik maligassiuinikkut periutsinik meeqqamut takutitsinermigut). (”Barnet gør først ting med hjælp fra voksne eller nogen som kan mere end det selv kan, derefter alene. På den måde bliver den voksne en slags medierende hjælper for barnet ved at bidrage til at vise eller forklare hvordan tingene skal gøres”)∞(dan)
+Piaget faseteoriiani allassimasuni killiffiit pingajuat tassa {”den konkrete operationelle periode”}∞{dan} annerusumik iserfigissavara, taannaammat tigussaasut atorlugit atuartitsininnut ikorfartuisoq, atuarfimmilu misiliininni atuartut piginnaasaasa killiffiinik ilisarnarsinnaasunik takutitsisoq. Misissuininnut tunngatillugu, naatsorsuutigaara atuartut 3. klasseni atuartuusut, sammisamillu nutaamik aallartittut, Piaget faseteoriiani {”den konkret operationelle periode”}∞{dan} atorlugu ilikkarsarnerminni annertunerusumik pissarsiaqarsinnaasut. Piaget teoriiani allaqqagami: {”Dette er skolestarten og ud fra aldersangivelsen de første 4-5 skoleår. Her findes muligheden for både logisk og formel tænkning, men støttet til det nære, det konkrete. Ordning og klassificering af objekter er mulig. Barnet er altså i gang med at systematisere sin tænkning, men stadig med krav om, at det, som skal begribes, kan man gribe om i næsten fysisk betydning.}∞{dan}  Atuartitsininnut tunngatillugu ersarissumik atuartunik una killiffik inissisimaffigineqarpoq. Atuartut amerlasuut katiterinermiit amerlisaanermut ikaarsaarnermi kisitsinerminni atortut tigussaasut atorlugit kisitsinissartik suli pisariaqartimmassuk, eqqarsaatiminni kisitassatik piviusumik takoqqaarlugit kisinnissai ajornannginnerutikkamikku. Atuartut tigussaasunik atortoqarnissaq uani pisariaqartippaat, pissutigalugu amerlisaanermik kisitsineq atuartunut nutaajummat, taamaattumik sullivilersorluni atuartitsinermi tigussaasunik atortoqarluni atuartitsineq pingaartillugu ilannguppara, atuartut paasisaqarlutik suliaqarsinnaaniassammata. Atuartut aalajangersimasut kisimik taamaallaat eqqarsaatsiminnik kisitsisinnaapput, kisiannili suli sungiusartariaqarlugu. 
+{Vygotsky: Sproget som redskab & Den nærmeste udviklings zone:}∞{dan}
+Misissuininnut tunngatillugu atuartitsininni, sullivilersorluni atuartitsinermut tunngatillugu teorii atuartitsininnut ikorfartuisoq tassaavoq; Lev Vygotskyp teoriia {virksomhedsteori}∞{dan}. Vygotsky russiuvoq 1896 Orsjami inunngorpoq 1934-milu Moskvami toqulluni. Vygotsky psykologiusimavoq, ullumikkullu ilisimaneqaatigaa pædagogikkimik aammalu ineriartornermut tunngasunik suliaqarsimanini.  Siullertut, Vygotskyp pingaartippaa inoqatinut attaveqarneq aqqutigalugu paaseqatigiissinnaanissaq. Inuiaqatigiinni piorsarsimassusermilu paaseqatigiissinnaaniassagutta oqaatsit sakkutut pingaarnertut teoriimini eqqaavaa, ima allassimasoqarami: {”…Vort vigtigste redskab i denne proces er sproget, først og fremmest talen.”}∞{dan}    
+Oqaatsivut sakkutut pingaarnertut taaneqareermata, atuartut piginnaasaat aallaavigalugit atuartitsineq, tassungalu ilaatillugu suleqatigiinnerup pitsaasumik kinguneqartarnera tikissavara. Vygotsky isumaqarpoq meeraq inersimasumit ikorfartorneqaqqaarluni aatsaat nammineerluni sulilluarsinnaasoq. Tassani pineqarpoq inersimasup meeqqamut ikorfartuinissaa, taamaalilluni inersimasoq meeqqap suliassaanut oqilisaaqataassaaq, {suliassat qanoq suliarineqarsinnaaneri maligassiuinikkut periutsinik meeqqamut takutitsinermigut}£{x|suliassat qanoq suliarineqarsinnaanerinik maligassiuinikkut periutsinik meeqqamut takutitsinermigut}. {”Barnet gør først ting med hjælp fra voksne eller nogen som kan mere end det selv kan, derefter alene. På den måde bliver den voksne en slags medierende hjælper for barnet ved at bidrage til at vise eller forklare hvordan tingene skal gøres”}∞{dan}
 
-(Figur 1: ZNU  Imsen, Gunn: Elevens Verden qupp. 225)∞(dan)
-Qulaani Figur 1 takusinnaasattut nassuiaasiorfigineqarsimavoq. Ammalortoq, qeqqani inissisimasoq takusinnaasat tassaavoq atuartoq, atuartoq qitiutillugu inissinneqarsimasutut paasineqarsinnaasoq. Tulliulluni ungalunneqarsimasoq qorsorpalungajattumik qalipaatilik tassaavoq atuartup ilisimasai pisinnaasaalu, taannalu paasineqassaaq atuartup ilisimariikkaminik pisinnaasaminillu nammineerluni ikorfartorneqarani suliaqarsinnaaneranik takutitsisoq. Silarlinngorluni ungaluneqarsimasoq tassaavoq taanna (”Den proximale)∞(dan) udviklingszone”13-mik$(cmp,1-2;num,0-i|udviklingszone” 13-imik) aammalu (Den nærmeste udviklings zone-mik)∞(dan) taaneqartartoq. Taanna isumaqarpoq atuartup peqateqarnermigut ilisimasanik nutaanik pissarsiaqarnermigut ilikkagaqarluni angusaqarsinnaanera, taassumalu siunertaraa meeqqap piginnaasaanik/ilisimasaanik suleqatigiinneq aqqutigalugu qaffassaasinnaaneq. Uangalu teori taanna atuartitsininni atussallugu tulluartippara, isumaqarama atuartoq suleqateqarnermigut ilikkagaqarnerusartoq. (”Den pædagogiske udfordring ligger i at udnytte udviklingszonen ved at stimulere barnet til at arbejde aktivt sammen med andre, og at hjælpe og støtte barnet på dets vaklende vej mod at klare opgaven på egen hånd”.)∞(dan) 
+{Figur 1: ZNU  Imsen, Gunn: Elevens Verden qupp. 225}∞{dan}
+Qulaani Figur 1 takusinnaasattut nassuiaasiorfigineqarsimavoq. Ammalortoq, qeqqani inissisimasoq takusinnaasat tassaavoq atuartoq, atuartoq qitiutillugu inissinneqarsimasutut paasineqarsinnaasoq. Tulliulluni ungalunneqarsimasoq qorsorpalungajattumik qalipaatilik tassaavoq atuartup ilisimasai pisinnaasaalu, taannalu paasineqassaaq atuartup ilisimariikkaminik pisinnaasaminillu nammineerluni ikorfartorneqarani suliaqarsinnaaneranik takutitsisoq. Silarlinngorluni ungaluneqarsimasoq tassaavoq taanna {”Den proximale}∞{dan} udviklingszone”13-mik$(cmp,1-2;num,0-i|udviklingszone” 13-imik) aammalu {Den nærmeste udviklings zone-mik}∞{dan} taaneqartartoq. Taanna isumaqarpoq atuartup peqateqarnermigut ilisimasanik nutaanik pissarsiaqarnermigut ilikkagaqarluni angusaqarsinnaanera, taassumalu siunertaraa meeqqap piginnaasaanik/ilisimasaanik suleqatigiinneq aqqutigalugu qaffassaasinnaaneq. Uangalu teori taanna atuartitsininni atussallugu tulluartippara, isumaqarama atuartoq suleqateqarnermigut ilikkagaqarnerusartoq. {”Den pædagogiske udfordring ligger i at udnytte udviklingszonen ved at stimulere barnet til at arbejde aktivt sammen med andre, og at hjælpe og støtte barnet på dets vaklende vej mod at klare opgaven på egen hånd”.}∞{dan} 
  5 Misissuinermi katersat 
 
 5.1 Atuartunik misissuineq
 
  Bachelor projektimik suliaqarninni misissorusullugu aalajangiunnikuuara, qanoq ililluni nukarlerni atuartuni 3.klasseni atortut tigussaasut atuakkallu aallaavigalugit suleriiaatsit$(typo,i,2-1|suleriaatsit) assigiinngitsut atornerini amerlisaanermik ilikkalertorfiusumik atuartitsisoqarsinnaanersoq. Atuartunut sammisaq nutaajummat, toqqaannartumik amerlisaanermik sammisaqartinnagit,  kisiannili katiterinermiit amerlisaanermut ikaarsaarnermik sammisaqartippakka, atuartut amerlisaanerup isumaa ilikkarniassammassuk. Taamaattumik uanga misissuininnut atatillugu periarfissaqarnikuuvunga Atuarfik Hans Lynge-mi$(prop,hyph-0|Lyngemi) 3. klassini atuartuni praktikkissallunga. Praktikkernerma ingerlanerani periarfissaraara atuartunik ataasiakkaanik aammali klasse tamaat isigalugu amerlisaanermik ilinniartitsinerma ingerlanerani, suleriaatsit assigiinngitsut atortut tigussaasut atuakkallu atorlugit atuartitsininni misissuissallunga.  Misissuininnut tunngatillugu akissutisigerusutakka$(typo,ge-0|akissutiserusutakka) katiterinermiit amerlisaanermut ikaarsaarnermi atuartitsininni atuartut misilitsinnerisigut, alapernaannerisigut, suliaatigut aammalu apersornerisigut paasiniarpakka. 
-Misissukkanni siullertut taasassara tassaavoq (”kvantitativ”)∞(dan) atorlugu misissuineq. Taannalu misissuinissannut pilersaarutitut ilaareerpoq, atuartut aallartinneranni naanerannilu kisitsinermi misilitsinnissaat, taamaalillunga atuartut ilinniarnerminni angusaat naatsorsuutiniit sanilliullugit qanoq inerneqarnersut paasisinnaaniassagakkit. Soorlu atuakkami taama isumalimmik allassimasoqartoq. (”…forskningsdata skal være kvantitative for at kunne sammenlignes på tværs af teorier.”)∞(dan)
+Misissukkanni siullertut taasassara tassaavoq {”kvantitativ”}∞{dan} atorlugu misissuineq. Taannalu misissuinissannut pilersaarutitut ilaareerpoq, atuartut aallartinneranni naanerannilu kisitsinermi misilitsinnissaat, taamaalillunga atuartut ilinniarnerminni angusaat naatsorsuutiniit sanilliullugit qanoq inerneqarnersut paasisinnaaniassagakkit. Soorlu atuakkami taama isumalimmik allassimasoqartoq. {”…forskningsdata skal være kvantitative for at kunne sammenlignes på tværs af teorier.”}∞{dan}
 
 
 
 
-(Initiativ 3. Klasse 
+{Initiativ 3. Klasse 
 Starttest ud fra 17. Opg.
-Sluttest ud fra 61. Opg.)∞(dan) 
+Sluttest ud fra 61. Opg.}∞{dan} 
 I                        (d)
 82,35 %
 90,15 %
@@ -197,7 +197,7 @@ R                      (d)
 
 
 Tabelimi uani takuneqarsinnaapput atuartut ilaasa aallartinnermi naammassinermilu misilitsinnerminni angusaasa %-inngorlugit inerneri. Bilag 1-milu$(num,0-i|1-imilu) atuartut misilitsissutaat takuneqarsinnaapput. Misilitsissutit uanga nammineerlunga sanavakka, ilaatigut atuartitsinermut sakkussat isumassarsiorfiginerisigut. Tabelimi siullermi ammukartumi inissisimasumi atuartut atiisa aallaqqaataat takuneqarsinnaapput, (p) niviarsiaqqamik isumaqartippara, (d)-lu nukappiaqqamik isumaqartillugu.
-Atuartut aallartinnermi misilitsittut tamakkerlutik angusaat Bilag 2-mi aamma Bilag 3-mi takuneqarsinnaapput. Atuartut aallartinnerminni misilitsikkamik piumasut atortut tigussaasut atorlugit kisitsinissaminnut periarfissinneqarput, suliassat 17-it minutsini 20-ni annerpaamik suliaqarsinnaallutik. Suliassat tamaasa eqqarsaatigalugit 72,27 %-ii ajunngitsumik akineqarsimapput, 27,73 %-iilu kukkusumik akineqarsimallutik imaluunniit kisinneqarsimanatik. Una misissuinera (probemformulering)∞(dan) akiniarnerani atussallugu pingaaruteqarpoq, atuartut atortut tigussaasut atuakkallu aallaavigalugit atuartinneqarnerannut aallartinnerannullu tunngammat. 
+Atuartut aallartinnermi misilitsittut tamakkerlutik angusaat Bilag 2-mi aamma Bilag 3-mi takuneqarsinnaapput. Atuartut aallartinnerminni misilitsikkamik piumasut atortut tigussaasut atorlugit kisitsinissaminnut periarfissinneqarput, suliassat 17-it minutsini 20-ni annerpaamik suliaqarsinnaallutik. Suliassat tamaasa eqqarsaatigalugit 72,27 %-ii ajunngitsumik akineqarsimapput, 27,73 %-iilu kukkusumik akineqarsimallutik imaluunniit kisinneqarsimanatik. Una misissuinera {probemformulering}∞{dan} akiniarnerani atussallugu pingaaruteqarpoq, atuartut atortut tigussaasut atuakkallu aallaavigalugit atuartinneqarnerannut aallartinnerannullu tunngammat. 
 Sapaatip akunneri sisamat ingerlanerini atuartut atortut tigussaasut atuakkallu aallaavigalugit atuartippakka, atuartullu suliaqarnerminni periarfissarisarpaat atortut tigussaasut atorlugit suliaqarnissartik, atuakkat atorlugit kisitsissagaangamik nammineerlutik aalajangertarpaat atortunik tigussaasunik atortoqassanerlutik. 
 Sapaatip akunneri sisamat ingerlareersut, atuarfimmi misiliillunga naggataarninni atuartut angusaat paaserusullugit misilitsiseqqippakka. Tamatumuunakkut atuartut atortut tigussaasut atornagit misilitsisillugit, atuartut misilitsinnerminni 30 minutsit periarfissaralugu suliaqarput. Suliassat tamaasa eqqarsaatigalugit suliassani 61-iusuni 90,30 %-ii ajunngitsumik akineqarput, 9,70 %-iilu kukkusumik akineqarsimassallutik imaluunniit kisinneqarsimanatik. Taamatut misissuinera pissuteqarpoq, atuartitseriutsit assigiinngitsut atoreerlugit atuartut qanoq angusaqarsinnaaneri takorusukkakkit, tunngavilersuilerumalu atorsinnaajumaarlugit. 
 5.2 Atuartunik apersuineq
@@ -246,7 +246,7 @@ Naamik, uatsinni suliaqarneq ajorpunga
 
 Qulaani atuartup apersorneqarnermigut akissutai pissarsiarerusussimavakka, atuartup ilikkarsarnermigut suleriutsimigullu nammineq isumai paaserusullugit, taamaalillunga nalilersuininnut atuartut namminneq isumaat uangalu misissuininni paasisakka sanillersuulluarsinnaaniassagakkit.
 5.3 Atuartunik atuartitsineq alapernaannerlu 
-Atuartitsinissamut pilersaarutiga malillugu atuartitsivunga, annikitsunik ingerlaninni allannguilaarsinnaasarlunga. Pilersaarutaasumik eqqaariikkattullu atuartut aallartinnermi naammassinermilu misilitsipput. Atuartitsinissamut pilersaarusiorninni aalajangernikuuvunga sapaatip akunneranut ataasiarlutik sullivilersorlutik sulisassasut, taannalu marlunngornerit tamaasa ingerlattarparput, sisamanngornermilu ”Atuaqatigiiaanik atuartitsineq” suleriaaseralugu ingerlatsisarlunga. Atuartitsineq siulleq atuartut misilitsilernerini atuartut tamaasa malinnaatillugit katiterinermiit amerlisaanermut ikaarsaarnermik aammalu amerlisaanermik allattarfik atorlugu saqqummiivigeqqaarpakka, misilitsinnissaannillu nassuiaallugit. Allattarfik atorlugu nassuiaaninni atuartut peqataatillugit katiterinermiit amerlisaanermut ikaarsaarnermik takutitsivunga.                                                                                 Ass. 2+2+2 amerlisagassanngortikkuni qanoq allaqqassanersoq atuartunut apeqqutigisarlugit. Taava ima isikkoqalerpoq  2+2+2 = 2  pingasoriarlugu, inernerlu  apeqqutigalugu tassa =6, pisariaqaraangat titartaganngorlugit takutittarlugit. Taamatut aallartinnermi saqqummiisarneq Bilag 9-mi aamma takuneqarsinnaavoq, powerpoint atorlugu sammisamut tunngasunik saqqummiilaarama. Malunnarpoq atuartut kisitsisinut mikisunut amerlisaanermik piginnaasaqalereersimasut, aperigaangamalu atuartut aalajangersimasut akipallattarput. Atuartut: I, A, R sukkasuumik akisarput, atuartulli allat aamma periarfissikkusullugit praktikkernerma ingerlanerani I killiliiffigilaarpara. I killiliiffigilaarakku misigaaq oqaqqusaajunnaarallarluni, kisiannili nassuiaakkakku paasinnippoq. Amerlisaanerup ilisarnaataa ammalortoq siullermik atorpara, atuartut ilaasa taanna kisiat amerlisaanermut ilisarnaataasoq ilisimammassuk. Praktikkernerma ingerlanerani (x) aamma amerlisaanermut ilisarnaataasoq ilinniartitsissutigivara Takuuk Bilag 7, 7 marts.13. Amerlisaanermut ilisarnaat (x) ilinniartinneranut pissutaavoq, suliakkiissutit ilaanni aamma atorneqarmat. 	-Atuartitsinermi$(cmp,1-2|- Atuartitsinermi) siullermi atuartut misilitsereermata sullivinni sisamani suliaqartippakka, atortut tigussaasut inerisaavimmi pissarsiarinikuusakka atorlugit atuartut suliaqarput, aallartimmatalu paasivara suliassaanni kisitsisit amerlisagassaat angivallaartut. Takuuk Bilag 7 -19.februar.13 tassani kisitsisit ilaatigut 76 annertunerusulluunniit kisitassaannut ilaangamik$(dial,ng-g|ilaagamik), taanna allannguuteqarfiginagu kisitsisit mikinerusut kiseqquinnarpakka.  Atuartitsineq akunnernik sisamanik ingerlareeriartoq paasivara misissueriusissara allanngortilaartariaqarlugu atuartut toqqakkama suleriusai, qanoq kisitsisarneri alapernaaffigisussaagaluarakkit iluatsippallaanngitsumilli. Aalajangerpunga sullivilersornerup iluani læringsdialog centerimiinninni atuartut ikorfartugassat ikiuutigalugit tassa (atuartitsineq ilikkarluarfiusoq atornerani)£(x|atuartitsinerup ilikkarluarfiusup atornerani), atuartut aqqusaartut misissuiffigissallugit, qanoq kisitsisarnersut aamma sooq taama kisitsisarnersut paasiniaaffigiutigalugit suleriaatsit qanoq ittut atoraangamikkit ilikkagaqarnerusarnersut paaserusukkakkit. Tamannalu Bilag 7 logbog-mi$(loan,hyph-0;loan,0-i|logbogimi) 5.marts.13-mi$(num,0-i|5.marts.13-imi) atuarneqarsinnaavoq. Assersuutigalugu:
+Atuartitsinissamut pilersaarutiga malillugu atuartitsivunga, annikitsunik ingerlaninni allannguilaarsinnaasarlunga. Pilersaarutaasumik eqqaariikkattullu atuartut aallartinnermi naammassinermilu misilitsipput. Atuartitsinissamut pilersaarusiorninni aalajangernikuuvunga sapaatip akunneranut ataasiarlutik sullivilersorlutik sulisassasut, taannalu marlunngornerit tamaasa ingerlattarparput, sisamanngornermilu ”Atuaqatigiiaanik atuartitsineq” suleriaaseralugu ingerlatsisarlunga. Atuartitsineq siulleq atuartut misilitsilernerini atuartut tamaasa malinnaatillugit katiterinermiit amerlisaanermut ikaarsaarnermik aammalu amerlisaanermik allattarfik atorlugu saqqummiivigeqqaarpakka, misilitsinnissaannillu nassuiaallugit. Allattarfik atorlugu nassuiaaninni atuartut peqataatillugit katiterinermiit amerlisaanermut ikaarsaarnermik takutitsivunga.                                                                                 Ass. 2+2+2 amerlisagassanngortikkuni qanoq allaqqassanersoq atuartunut apeqqutigisarlugit. Taava ima isikkoqalerpoq  2+2+2 = 2  pingasoriarlugu, inernerlu  apeqqutigalugu tassa =6, pisariaqaraangat titartaganngorlugit takutittarlugit. Taamatut aallartinnermi saqqummiisarneq Bilag 9-mi aamma takuneqarsinnaavoq, powerpoint atorlugu sammisamut tunngasunik saqqummiilaarama. Malunnarpoq atuartut kisitsisinut mikisunut amerlisaanermik piginnaasaqalereersimasut, aperigaangamalu atuartut aalajangersimasut akipallattarput. Atuartut: I, A, R sukkasuumik akisarput, atuartulli allat aamma periarfissikkusullugit praktikkernerma ingerlanerani I killiliiffigilaarpara. I killiliiffigilaarakku misigaaq oqaqqusaajunnaarallarluni, kisiannili nassuiaakkakku paasinnippoq. Amerlisaanerup ilisarnaataa ammalortoq siullermik atorpara, atuartut ilaasa taanna kisiat amerlisaanermut ilisarnaataasoq ilisimammassuk. Praktikkernerma ingerlanerani (x) aamma amerlisaanermut ilisarnaataasoq ilinniartitsissutigivara Takuuk Bilag 7, 7 marts.13. Amerlisaanermut ilisarnaat (x) ilinniartinneranut pissutaavoq, suliakkiissutit ilaanni aamma atorneqarmat. 	-Atuartitsinermi$(cmp,1-2|- Atuartitsinermi) siullermi atuartut misilitsereermata sullivinni sisamani suliaqartippakka, atortut tigussaasut inerisaavimmi pissarsiarinikuusakka atorlugit atuartut suliaqarput, aallartimmatalu paasivara suliassaanni kisitsisit amerlisagassaat angivallaartut. Takuuk Bilag 7 -19.februar.13 tassani kisitsisit ilaatigut 76 annertunerusulluunniit kisitassaannut ilaangamik$(dial,ng-g|ilaagamik), taanna allannguuteqarfiginagu kisitsisit mikinerusut kiseqquinnarpakka.  Atuartitsineq akunnernik sisamanik ingerlareeriartoq paasivara misissueriusissara allanngortilaartariaqarlugu atuartut toqqakkama suleriusai, qanoq kisitsisarneri alapernaaffigisussaagaluarakkit iluatsippallaanngitsumilli. Aalajangerpunga sullivilersornerup iluani læringsdialog centerimiinninni atuartut ikorfartugassat ikiuutigalugit tassa {atuartitsineq ilikkarluarfiusoq atornerani}£{x|atuartitsinerup ilikkarluarfiusup atornerani}, atuartut aqqusaartut misissuiffigissallugit, qanoq kisitsisarnersut aamma sooq taama kisitsisarnersut paasiniaaffigiutigalugit suleriaatsit qanoq ittut atoraangamikkit ilikkagaqarnerusarnersut paaserusukkakkit. Tamannalu Bilag 7 logbog-mi$(loan,hyph-0;loan,0-i|logbogimi) 5.marts.13-mi$(num,0-i|5.marts.13-imi) atuarneqarsinnaavoq. Assersuutigalugu:
 LM  LM aperiganni qanoq kisitsisarnersoq akivoq 
 ”Nalunanngitsut qamani” (niaqquni tikkuarlugu)
 ”Nalunalaartut inussannik”
@@ -255,26 +255,26 @@ LM-p$(abbr,0-i|LM-ip) akissutaa eqqarsalersitsivoq, paasinarluinnartumik akigami
 
 
 5.4 Ilinniartitsisunik apersuineq
-Misissueriaatsima aappaa, tassaavoq ilinniartitsisunut apeqqusiorneq aallaavigalugu misissugassamik katersineq. Apeqqusiama siunertaraa ilinniartitsisut atuartitsinermullu misilittagallit isumaannik, ilisimasaannik pikkorissusaannillu tusarnissaq. Taamaalillunga ilinniartitsisut akissutaat suliannut atassuserlugit isummersorfigisinnaaniassagakkit, sammisannullu ilaatigut immaqa isumaqatiginarsinnaasunik/isumaqatiginanngitsunik akippata tunngavilersorlugit pitsaassusilersinnaaniassagakkit. Unalu misissueriaaseq taasarpaat (”kvalitativinterview”)∞(dan). Tassa apeqqutit pitsaasumik isummersorneqarsinnaasunngorlugit akisassat. Atuakkamilu ima nassuiaasiorneqarsimavoq: (”I et kvalitativ forskningsinterview produceres viden socialt i samspil mellem interviewer og interviewperson…Kvaliteten af de producerede data i et kvalitativt interview afhænger af kvalititen af interviewerens færdigheder og viden om emnet.”)∞(dan)  Uangalu apersuinissannut pingaartippara apeqqutima ammasuunissaat, taamaalillutik apersorneqartut namminneq isumaat ilisimasaallu pissarsiarisinnaaniassagakkit. Atuakkamilu atuakkanni aamma taama isumaqartoqarpoq, allassimagami; (”Kinsey og hans medarbejdere, hvis forskning vi diskuterede i forrige kapitel, mente, at åbne spørgsmål gav de mest fuldstændige svar.”)∞(dan)
+Misissueriaatsima aappaa, tassaavoq ilinniartitsisunut apeqqusiorneq aallaavigalugu misissugassamik katersineq. Apeqqusiama siunertaraa ilinniartitsisut atuartitsinermullu misilittagallit isumaannik, ilisimasaannik pikkorissusaannillu tusarnissaq. Taamaalillunga ilinniartitsisut akissutaat suliannut atassuserlugit isummersorfigisinnaaniassagakkit, sammisannullu ilaatigut immaqa isumaqatiginarsinnaasunik/isumaqatiginanngitsunik akippata tunngavilersorlugit pitsaassusilersinnaaniassagakkit. Unalu misissueriaaseq taasarpaat {”kvalitativinterview”}∞{dan}. Tassa apeqqutit pitsaasumik isummersorneqarsinnaasunngorlugit akisassat. Atuakkamilu ima nassuiaasiorneqarsimavoq: {”I et kvalitativ forskningsinterview produceres viden socialt i samspil mellem interviewer og interviewperson…Kvaliteten af de producerede data i et kvalitativt interview afhænger af kvalititen af interviewerens færdigheder og viden om emnet.”}∞{dan}  Uangalu apersuinissannut pingaartippara apeqqutima ammasuunissaat, taamaalillutik apersorneqartut namminneq isumaat ilisimasaallu pissarsiarisinnaaniassagakkit. Atuakkamilu atuakkanni aamma taama isumaqartoqarpoq, allassimagami; {”Kinsey og hans medarbejdere, hvis forskning vi diskuterede i forrige kapitel, mente, at åbne spørgsmål gav de mest fuldstændige svar.”}∞{dan}
 
 5.5 Atortut tigussaasut aallaavigalugit ilikkarsarneq
-Atuartitsinermut pilersaarut qiviassagaanni, atuartullu atortut tigussaasut atorlugit atuartikkusukkaanni, atortunik tigussaasunik aammali atuakkanik assigiinngitsunik atorsinnaasanik periarfissaqaqaaq. Uangalu katiterinermiit amerlisaanermut ikaarsaarnermi aammali amerlisaanermi ilinniartitsininni periarfissat assigiinngitsut atorlugit atuartitsivunga. Tigussaasut atorlugit atuartitserusunninnut pissutaavoq, atuarnerma ingerlanerani paasinikuugakku nukarlerni atuartut kisitsisinut ilisimasaat pitsaanerusumik ineriartortissinnaanerusartut, atortut tigussaasut atorlugit atuartitsinermi. Atuakkamilu aamma taama isumalimmik allassimasoqarpoq. (”I dag ved alle, at de yngste elevers talbegreb udvikles bedst gennem beskæftigelse med konkrete materialer… Uanset hvilket matematiksystem der vælges, mener vi, at konkrete erfaringer hos eleverne bør danne grundlaget for matematikundervisningen. Derfor bør matematikundervisningen også foregå med støtte af konkrete materialer.”)∞(dan)  Matematikkimi atuartitsinermi ilikkagassatut anguniagassani allaqqavoq: ”piareersaataasumik amerlisaaneq ilisimassagaat”, atuartitsinissamullu siunnersuutigineqarpoq atuartut amerlisaanermik ilinniaqqaalernertik oqaluttuaaqqanik kisitassartalinnik aamma atortunik tigussaasunik atortoqarlutik, kiisalu allattuillutik ingerlassinnaagaat. Uangalu siunnersuut tamanna atorluarpara. Atuartut oqaluttuaaqqanik kisitassartalinnik annikittunnguanik$(dial,tt-ts|annikitsunnguanik) suliaqarput, uangalu assersuusiorninni tamanna atortarlugu. Atuartunut powerpoint atorlugu saqqummiininni tamanna atorpara, taannalu bilag 9-mi takuneqarsinnaavoq. ”Aina, Inuk aamma Lulu immikkut 5kr.-iuteqarput. 5kr.-iutaat katikkaanni qanoq amerlatigissappat?”  Atuartut saqqummiiviginerini peqataatillugit kisitsisippakka tamannalu ”Atuaqatigiiaanik atuartitsineq” aallaavigalugu ingerlallugu. Atuaqatigiiaanik atuartitsinerup nassuiarnera bilag 10-mi atuarneqarsinnaavoq. Oqaluttuaaqqamik kisitassartalimmik kisitsineq aamma atuartut misilitsinnerini kingullermi ((Sluttest))∞(dan) annikitsuaqqamik atorneqarpoq. Ima ittumik suliassaannut ilanngussigama: ”Poor`lu ataaseq 6kr. Poor`lut marluk ________kr.” Oqaluttuaaqqat kisitassartallit annikikkaluarput, atuartulli oqaluttuaaqqanik kisitassartalinnik aallartinneranni ilinniutaalluarsinnaallutik. Tamannalu aamma sullivilersornerup ilaani oqaluttariarsornikkut atuartullu ingerlapparput, sullivimmi ataatsimi kaageeqqat atorlugit atuartut kisitsinerini, oqaluttuaaraliuutigalutik kisitsisinnaanertik ilinniarmassuk, takuuk: bilag 7, uge€(foreign|sap. ak.) 11  12.marts.13. Atuartullu kisitsereeraangamik kaageeqqat nerisinnaasarpaat, taassuminngalu ingerlatsigama praktikkertitsisora peqataavoq. Siunnersuutip ilaa, tassa atortunik tigussaasunik atortoqarlutik, kiisalu allattuillutik ilinniarnertik ingerlatissagaat, atuarfimmi misissuininnut tunngatillugu sulininni tamanna suleriuseq assut atuartut peqatigalugit atorparput. Misissuininni siunertarigakku atuartut atortut tigussaasut atorlugit ilinniarnerminni ilikkagaqarsinnaanissaat, paasiniarlugulu atuartut suleriaaseq sorleq atoraangamikku ilikkagaqarnerusarnersut, taamaattumik suleriaaseq atortunik tigussaasunik atuineq aammalu allattuineq misissuininni atorluarpakka. Matematikkimi atuartitsinermi ilikkagassatut pilersaarutini allaqqavoq: ”Amerlisaanermik suliaqarneq kingusinnerpaamik 3. klassip qiteqqunnerani aallartinneqassaaq. Atuartullu nukarliit alloriarfiata naanerani 5 5 tikillugu ilikkareersimassavaat.” Atuartut Matikkut 4B-nik suliaqarneranni tamanna ilinniartitsissutigivara, malunnarporlu atuartut suliassaat Matikkut 4B-neersut taakkununngarpiaq attuumassuteqartut, tassa katiterinermiit amerlisaanermut ikaarsaarnermik, 5 5 tikillugu kisitassartallit suliakkiissutaammata. Matikkut 4.B suliassartai annertunngimmata qallunaat ilinniusiaannik atuartitsissuteqarlunga atuartitsineq aamma ingerlappara.  Atuartut atortut tigussaasut atorlugit atuartinnerini suliaqarnerup allanngorarnissaa anguniarlugu sullivilersorluni atuartitsineq atorlugu atuartitsivunga, taamaalillutik atuartut atortut tigussaasut assigiinngitsut atorlugit sullivinni ilikkarsarnissaminnut periarfissinneqarlutik. Atortunik tigussaasunik atortoqarluni sulineq atuagarsornikkut aamma atuagarsornikkuunngitsoq ingerlanneqarsinnaavoq, atuartitsininnilu tamaasa aqqusaarpakka, tassa atortut tigussaasut inerisaavimmiit atukkakka atuagartaqanngitsut atuartitsissutigigakkit, aammalu atuartut atuagarsorlutik atortunik tigussaasunik ikorfartuuteqarlutik ilikkarsarmata. 
+Atuartitsinermut pilersaarut qiviassagaanni, atuartullu atortut tigussaasut atorlugit atuartikkusukkaanni, atortunik tigussaasunik aammali atuakkanik assigiinngitsunik atorsinnaasanik periarfissaqaqaaq. Uangalu katiterinermiit amerlisaanermut ikaarsaarnermi aammali amerlisaanermi ilinniartitsininni periarfissat assigiinngitsut atorlugit atuartitsivunga. Tigussaasut atorlugit atuartitserusunninnut pissutaavoq, atuarnerma ingerlanerani paasinikuugakku nukarlerni atuartut kisitsisinut ilisimasaat pitsaanerusumik ineriartortissinnaanerusartut, atortut tigussaasut atorlugit atuartitsinermi. Atuakkamilu aamma taama isumalimmik allassimasoqarpoq. {”I dag ved alle, at de yngste elevers talbegreb udvikles bedst gennem beskæftigelse med konkrete materialer… Uanset hvilket matematiksystem der vælges, mener vi, at konkrete erfaringer hos eleverne bør danne grundlaget for matematikundervisningen. Derfor bør matematikundervisningen også foregå med støtte af konkrete materialer.”}∞{dan}  Matematikkimi atuartitsinermi ilikkagassatut anguniagassani allaqqavoq: ”piareersaataasumik amerlisaaneq ilisimassagaat”, atuartitsinissamullu siunnersuutigineqarpoq atuartut amerlisaanermik ilinniaqqaalernertik oqaluttuaaqqanik kisitassartalinnik aamma atortunik tigussaasunik atortoqarlutik, kiisalu allattuillutik ingerlassinnaagaat. Uangalu siunnersuut tamanna atorluarpara. Atuartut oqaluttuaaqqanik kisitassartalinnik annikittunnguanik$(dial,tt-ts|annikitsunnguanik) suliaqarput, uangalu assersuusiorninni tamanna atortarlugu. Atuartunut powerpoint atorlugu saqqummiininni tamanna atorpara, taannalu bilag 9-mi takuneqarsinnaavoq. ”Aina, Inuk aamma Lulu immikkut 5kr.-iuteqarput. 5kr.-iutaat katikkaanni qanoq amerlatigissappat?”  Atuartut saqqummiiviginerini peqataatillugit kisitsisippakka tamannalu ”Atuaqatigiiaanik atuartitsineq” aallaavigalugu ingerlallugu. Atuaqatigiiaanik atuartitsinerup nassuiarnera bilag 10-mi atuarneqarsinnaavoq. Oqaluttuaaqqamik kisitassartalimmik kisitsineq aamma atuartut misilitsinnerini kingullermi ((Sluttest))∞(dan) annikitsuaqqamik atorneqarpoq. Ima ittumik suliassaannut ilanngussigama: ”Poor`lu ataaseq 6kr. Poor`lut marluk ________kr.” Oqaluttuaaqqat kisitassartallit annikikkaluarput, atuartulli oqaluttuaaqqanik kisitassartalinnik aallartinneranni ilinniutaalluarsinnaallutik. Tamannalu aamma sullivilersornerup ilaani oqaluttariarsornikkut atuartullu ingerlapparput, sullivimmi ataatsimi kaageeqqat atorlugit atuartut kisitsinerini, oqaluttuaaraliuutigalutik kisitsisinnaanertik ilinniarmassuk, takuuk: bilag 7, uge€(foreign|sap. ak.) 11  12.marts.13. Atuartullu kisitsereeraangamik kaageeqqat nerisinnaasarpaat, taassuminngalu ingerlatsigama praktikkertitsisora peqataavoq. Siunnersuutip ilaa, tassa atortunik tigussaasunik atortoqarlutik, kiisalu allattuillutik ilinniarnertik ingerlatissagaat, atuarfimmi misissuininnut tunngatillugu sulininni tamanna suleriuseq assut atuartut peqatigalugit atorparput. Misissuininni siunertarigakku atuartut atortut tigussaasut atorlugit ilinniarnerminni ilikkagaqarsinnaanissaat, paasiniarlugulu atuartut suleriaaseq sorleq atoraangamikku ilikkagaqarnerusarnersut, taamaattumik suleriaaseq atortunik tigussaasunik atuineq aammalu allattuineq misissuininni atorluarpakka. Matematikkimi atuartitsinermi ilikkagassatut pilersaarutini allaqqavoq: ”Amerlisaanermik suliaqarneq kingusinnerpaamik 3. klassip qiteqqunnerani aallartinneqassaaq. Atuartullu nukarliit alloriarfiata naanerani 5 5 tikillugu ilikkareersimassavaat.” Atuartut Matikkut 4B-nik suliaqarneranni tamanna ilinniartitsissutigivara, malunnarporlu atuartut suliassaat Matikkut 4B-neersut taakkununngarpiaq attuumassuteqartut, tassa katiterinermiit amerlisaanermut ikaarsaarnermik, 5 5 tikillugu kisitassartallit suliakkiissutaammata. Matikkut 4.B suliassartai annertunngimmata qallunaat ilinniusiaannik atuartitsissuteqarlunga atuartitsineq aamma ingerlappara.  Atuartut atortut tigussaasut atorlugit atuartinnerini suliaqarnerup allanngorarnissaa anguniarlugu sullivilersorluni atuartitsineq atorlugu atuartitsivunga, taamaalillutik atuartut atortut tigussaasut assigiinngitsut atorlugit sullivinni ilikkarsarnissaminnut periarfissinneqarlutik. Atortunik tigussaasunik atortoqarluni sulineq atuagarsornikkut aamma atuagarsornikkuunngitsoq ingerlanneqarsinnaavoq, atuartitsininnilu tamaasa aqqusaarpakka, tassa atortut tigussaasut inerisaavimmiit atukkakka atuagartaqanngitsut atuartitsissutigigakkit, aammalu atuartut atuagarsorlutik atortunik tigussaasunik ikorfartuuteqarlutik ilikkarsarmata. 
 
 5.6 Suleriaatsit
 Atuartut atortut tigussaasut atuakkallu atorlugit ilikkarsarnerminni suleriaatsit assigiinngitsut atorlugit suliaqartarput. Qulaani eqqaariikkattut pilersaarutaavoq atuartut suleriaatsit assigiinngitsut atorlugit ilikkarsarnissaat, tassunga pissutaavoq atuartut assigiinngitsumik ilikkartariaaseqarnerat pissutigalugu assigiinngitsunik suleriaaseqartitserusunneq, taamaalillunga atuartut assigiinngitsumik suleriuseqarlutik ilikkagaqartartut tamaasa ajornannginnerusumik ilikkagaqarnissaannik periarfississinnaaniassagakkit. Suleriaaseq atuartitsinerma aallartinnerani pinngitsoorsinnaanngisara tassaavoq ”Atuaqatigiiaanik atuartitsineq” taannalu isumaqarpoq, atuartut tamaasa ataatsikkut assigiimmik paasissutissikkumallugit ilitsersorumallugillu atuartitsineq aallartikkaangat saqqummiivigisarneri. Periuseq taanna atuartitsinissamut tunngassuteqartunik, nammineerluni, marlukkaarluni imaluunniit eqimattakkaarluni sulilinnginnermi paasissutissiinissamut immikkorluinnaq tulluartuuvoq. Uangalu tamanna atortarpara atuartut suliassaannut tulluarsarlugu, assersuutigalugu Bilag 7, 28.februar.13-mi$(num,0-i|28.februar.13-imi) atuarneqarsinnaavoq. ”ataatsimut isaanermi sammisaqarpugut…Atuartut$(cmp,1-2|sammisaqarpugut… Atuartut) isaammata klassemi isumaqatigiissutaat eqqartoriarlugit iloqqasunngorpugut, arsamillu akortaalluta tabelinik 2-3-4-5-nik$(num,0-i|2-3-4-5-inik) kisitsilluta pinnguarluta… Kingorna atuartut Matikkut 4b qupp. 25 suliaraat pinnguaatitta asserluinnaanik kisitassat tassaasut 2-3-4-5 tabel.”                           
-”Atuaqatigiiaanik atuartitsineq” aallaavigalugu taamannak aallarniisarpunga, atuartut suliassaminnut ilisimaarinnillutik aallartinnissaat anguniarlugu. Marlunngornerit tamaasa atuartut sullivilersorlutik sulisarput, taamaattumik ”Eqimattakkaarluni sulineq” atuartitsininni suleriaaseritittarpara, atuartut sullivinni eqimattakkaarlutik sulisarmata. Taassuma siunertaraa atuartut eqimattakkaarlutik sulinerminni matematikki pillugu suleqatigiinni oqaloqatigiittarsinnaanissaat, aamma imminnut ikorfartoqatigiinnissaat, akisussaaqatigiinneq suleqatigiinnerlu pingaartillugu taama aaqqiisarlunga. ”Atuarfik pillugu inatsisarut$(typo,0-t|inatsisartut) inatsisaanni nr. 15, 3. December 2012 Kapitali 2 §2.”25-mi allaqqavoq ”5) atuartut akornanni aamma ilinniartitsisut atuartullu akornanni akisussaaqatigiinneq suleqatigiinnerlu nukitorsassallugit$(typo,t,1-2|nukittorsassallugit) kiisalu, 6) (atuartut immikkut pisariaqartitallit imminnut isiginiarneqassasut)€(x|atuartut immikkut pisariaqartitallit immikkut isiginiarneqassasut).”  Atuartut eqimattani sulilermata klassianni nerriveqatigiit suleqatigiitsiinnarpakka, klasselu atuartunut tulluarsarlugu aaqqissugaavoq, nerriviit arfinilinnut agguarneqarsimallutik. Praktikkernerma ingerlanerani nerriviit sullivigineqartartut praktikkertitsisora peqatigalugu tallimaannanngortippagut, atuartut suleqatigiilluarsinnaanerit nerriveqatigiisilerlugit, atuartullu atuarnerminnut akornutaatillugu allamut saasartartut ungasinninngortillugit. Sisamanngornerit tamaasa atuartut ”Atuaqatigiiaanik atuartitsineq” aallaavigalugu ingerlateriarlugit nammineq qanoq suleriuseqarusunnerat aallaavigalugit atuartilertarpakka, tassanilu nammineq aalajangertarpaat ”Nammineerluni sulineq” imaluunniit ”Marlukkaarluni sulineq” aammalu atortunik tigussaasunik atortoqarusunneq aallaavigalu¢(typo,0-gu|aallaavigalugu) sulissanerlutik. Atuartoqarpoq nammineerlutik sulerusuttartunik, aammalu atuartoqarluni ikioqatigiillutik sulerusuttartunik, taamaattumik atuartut aamma nammineq iluarisaat atorlugu ilikkarsarnissaannut periarfissittarpakka. Taamannak allanngorartumik misissuininni atuartitsisarpunga atuartut amerlanerit ilikkalertornissaannik periarfississinnaajumallugit. 
+”Atuaqatigiiaanik atuartitsineq” aallaavigalugu taamannak aallarniisarpunga, atuartut suliassaminnut ilisimaarinnillutik aallartinnissaat anguniarlugu. Marlunngornerit tamaasa atuartut sullivilersorlutik sulisarput, taamaattumik ”Eqimattakkaarluni sulineq” atuartitsininni suleriaaseritittarpara, atuartut sullivinni eqimattakkaarlutik sulisarmata. Taassuma siunertaraa atuartut eqimattakkaarlutik sulinerminni matematikki pillugu suleqatigiinni oqaloqatigiittarsinnaanissaat, aamma imminnut ikorfartoqatigiinnissaat, akisussaaqatigiinneq suleqatigiinnerlu pingaartillugu taama aaqqiisarlunga. ”Atuarfik pillugu inatsisarut$(typo,0-t|inatsisartut) inatsisaanni nr. 15, 3. December 2012 Kapitali 2 §2.”25-mi allaqqavoq ”5) atuartut akornanni aamma ilinniartitsisut atuartullu akornanni akisussaaqatigiinneq suleqatigiinnerlu nukitorsassallugit$(typo,t,1-2|nukittorsassallugit) kiisalu, 6) {atuartut immikkut pisariaqartitallit imminnut isiginiarneqassasut}€{x|atuartut immikkut pisariaqartitallit immikkut isiginiarneqassasut}.”  Atuartut eqimattani sulilermata klassianni nerriveqatigiit suleqatigiitsiinnarpakka, klasselu atuartunut tulluarsarlugu aaqqissugaavoq, nerriviit arfinilinnut agguarneqarsimallutik. Praktikkernerma ingerlanerani nerriviit sullivigineqartartut praktikkertitsisora peqatigalugu tallimaannanngortippagut, atuartut suleqatigiilluarsinnaanerit nerriveqatigiisilerlugit, atuartullu atuarnerminnut akornutaatillugu allamut saasartartut ungasinninngortillugit. Sisamanngornerit tamaasa atuartut ”Atuaqatigiiaanik atuartitsineq” aallaavigalugu ingerlateriarlugit nammineq qanoq suleriuseqarusunnerat aallaavigalugit atuartilertarpakka, tassanilu nammineq aalajangertarpaat ”Nammineerluni sulineq” imaluunniit ”Marlukkaarluni sulineq” aammalu atortunik tigussaasunik atortoqarusunneq aallaavigalu¢(typo,0-gu|aallaavigalugu) sulissanerlutik. Atuartoqarpoq nammineerlutik sulerusuttartunik, aammalu atuartoqarluni ikioqatigiillutik sulerusuttartunik, taamaattumik atuartut aamma nammineq iluarisaat atorlugu ilikkarsarnissaannut periarfissittarpakka. Taamannak allanngorartumik misissuininni atuartitsisarpunga atuartut amerlanerit ilikkalertornissaannik periarfississinnaajumallugit. 
 
 
 6 Misissugassat isaterlugit misissueqqissaarneq 
 Misissuininni paaserusullugu sammisara tassaavoq qanoq ililluni nukarlerni atuartuni 3.klasseni atortut tigussaasut atuakkallu aallaavigalugit auleriaatsit$(typo,a-s|suleriaatsit) assigiinngitsut atornerini amerlisaanermik ilikkalertorfiusumik atuartitsisoqarsinnaanersoq. Taamaalillunga immikkoortumi uani misissorusullugit toqqarnikuusakka praktikkerlunga misissuininni paasisakka apeqqutiliakka, teoriillu qulaani allaasereriikkakka aallaavigalugit misissuiffigissavakka. Misissuininni akissutiserusutakka tassaapput: Suleriaatsini assigiinngitsuni suliassat tigussaasut atuakkallu atorlugit atuartunit aqqusaarneqaraangamik suleriuseq sorleq ilikkalertornarnerunersoq akissutiserusuppara. Aappaattut misissussavara atuartut piginnaasakinnerit suleriaaseq sorleq ilikkalertorfiginerusarneraat, pingajuattullu misissussavara atuartut piginnaasaqarerit$(typo,0-n|piginnaasaqarnerit) suleriaatsit qanoq tiguneraat.
 6.1 Suleriaatsit assigiinngitsut atuartut ilikkalertornissaannut iluaqutaasinnaasut
-Suleriaatsini assigiinngitsuni suliassat tigussaasut atuakkallu atorlugit atuartunit aqqusaarneqaraangamik, atuartut suleriaaseq sorleq ilikkalertorfiginerusarneraat paasiniassagukkit atuartunik misissuinikka qivialaassavakka. Misissuininnut atatillugu qulaani allaaserisakka, tassaasut; sullivilersorluni atuartitsineq aamma atuartitsineq ilikkarluarfiusoq, tigussaasut atuakkallu aallaavigalugit atuartitsineq, teoriitiikerit$(loan|teoretikerit), atuarfimmi misissuininni paasisakka aammalu ”Atuarfik pillugu inatsisartut inatsisaat nr.15, 3. December 2012”-meersoq$(num,0-i|2012”-imeersoq) tunngavilersuutigalugit sukuiaassaanga. Ilikkagassatut anguniagassat, teoriitiikerit$(loan|teoretikerit) suleriaatsillu assigiinngitsut atorlugit atuartitsillunga misissuininni paasivara atuartut piginnaasaat ilikkartariaasaallu assigiinngitsut aallaavigalugit atuartitsinissaq pingaaruteqartoq. Tamannalu aamma ”Atuarfik pillugu inatsisartut inatsisaat nr. 15, 3. December 2012”-meersumi$(num,0-i|2012”-imeersumi) kap. 4 § 18-mi$(num,0-i|18-imi) ersarissumik pingaarutilittut allaqqavoq; ”Atuartitsineq allanngorartuussaaq, atuartut ataasiakkaat pisariaqartitaannut piginnaariigaannullu naapertuuttuussalluni.” Atuartunik misissuininnut atatillugu apersuininni paasivara atuartut assigiinngitsumik ilikkartariaaseqarnerat pissutigalugu atuartut suleriutsit ilikkalertorfigisinnaasaat assigiinngitsuusut. Atuartunik apersuininni niviarsiaraq ”LM” aperiganni qanoq suleriuseqaraangami ilikkagaqarnerusarnersoq, akivoq tamatta suleqatigiikkaagatta ilikkagaqarnarnerutikkini, aperitikkamilu ima nassuiaavoq: ”eehm…soorlu$(cmp,1-2|”eehm… soorlu) tamatta suligutta eqqissilluta, aamma nalulerutta aperipallussinnaagatta$(sub,u-i|aperipallassinnaagatta).” Niviarsiaqqap ”LM”-ip ”Atuaqatigiiaanik atuartitsineq” aammalu ”Eqimattakkaarluni sulineq” aallaavigalugit atuartinneqaraangami ilikkagaqarnarnerutippaa, tassani tunngavittut taasinnaasara tassaavoq Lev Vygotskyp teoriimini allassimasaa: (”Barnet gør først ting med hjælp fra voksne eller nogen som kan mere end det selv kan, derefter alene. På den måde bliver den voksne en slags medierende hjælper for barnet ved at bidrage til at vise eller forklare hvordan tingene skal gøres.”)∞(dan) Niviarsiararlu ”LM” katiterinermiit amerlisaanermut ikaarsarnermi ilikkarsarnermini killiffimmi tassani inissisimavoq, ikorfartorneqaqqaarluni suleqateqarluni sulinissani orniginerummagu. Misissuininni atuartut ”Atuaqatigiiaanik atuartitsineq”, ”Nammineerluni sulineq”, ”Marlukkaarluni sulineq”, ”Eqimattakkaarluni sulineq”, aammalu eqimattakkaarluni sulinermi ”Sullivilersorluni atuartitsineq” suleriaaseralugit misissuivunga. Suleriaatsinut tapiliullugit ”Atuartitsineq ilikkarluarfiusoq (–CREDE)∞(eng)”  suleriaatsinut assigiinngitsunut atuartitsinerup pitsaassusaanik tunngaviliisut ilai misissuininni atorpakka. Misissuininni paasivara atuartut sammisamik nutaamik aallartinnerat ilutigalugu ataatsimoorussamik ”Atuaqatigiiaanik atuartitsineq” atorlugu atuartinneqartariaqartut, Ilinniartitsisumik apersuininni ilinniartitsisoq apersungara$(dial,ng-g|apersugara) aamma taama isumaqarpoq. Katiterinermiit amerlisaanermut ikaarsaarnermi, atuartut amerlisaanermik ilinniartinnerini qanoq aallarniinissaq pitsaanerusorineraa aperiganni akivoq, atuartut iloqqasuutillugit katiterinermik amerlisaanerullu ilisarnaatai atuartunut nassuiaatigissallugit kisitseqatiginerini pitsaasuusoq.  Lev Vygotsky-lu$(prop,hyph-0|Vygotskylu) teoriimini atuartut ikorfartornisaannut$(typo,s,1-2|ikorfartornissaannut) tunngasumik aamma isumaqartoq misissuininni paasivara. Lev Vygotsky teoriimini tassa (”nærmeste udviklings zone”-mi)∞(dan) eqqaavaa atuartut ikorfartorneqaqqaarlutik ilikkagassaminnik ineriartortitsisinnaalersartut, uangalu atuartitsininni aamma tamanna atuarnerup aallartinnerani suleriaaseralugu aallarniisarpunga, atuartut tamaasa suleqatigalugit suliassaannut ikorfartorsinnaaniassagakkit, taamaalillutik atuartut suliassaminnut paasisaqarnerullutik suliaqarsinnaaniassappata, soorlu teoriini tamanna eqqaagiga. Misissuinerma takutippaa sammisamik nutaamik aallartinnermi atuartut ilikkalertornissaminnut killiffigikkajukkaat imminerminniit piginnaasaqarnermik ikorfartorneqarnissaq aammalu suleqateqarluni sulinissaq, taamaalilluni atuartut suleqatigiinnermikkut piginnaasaminnik avitseqatigiissinnaaniassagamik, niviarsiaqqallu ”LM”-ip suleriuseq tamanna suleriutsinit allaninngaanniit ilikkagaqarnarnerutikkaa apersornerani paasivara. ”Sullivilersorluni atuartitsineq”-mi ”Atuartitsineq ilikarluarfiusoq$(typo,k,1-2|ilikkarluarfiusoq) (–CREDE)∞(eng)” atornerani atuartunik ikorfartuiutigalunga misissuigama niviarsiaraq ”LM” aperiganni qanoq kisitsisarnersoq akivoq: ” Nalunanngitsut qamani” (niaqquni tikkuarlugu), ”Nalunalaartut inussannik” ,”Nalunartut kugleramminik.”, taamaattumik atuartut nutaamik sammisaqalersillugit nalilerusuppara atuartut matematikkimi atuarnerminni atortut tigussaasut atorlugit ilikkarsarnerminni annertunerusumik ilikkagaqarsinnaanerusartut, atuagarsornerinnarnerminngaanniit. Tamannalu aamma ilinniartitsisut atuagaanni allaqqavoq: (”I dag ved alle, at de yngste elevers talbegreb udvikles bedst gennem beskæftigelse med konkrete materialer… Uanset hvilket matematiksystem der vælges, mener vi, at konkrete erfaringer hos eleverne bør danne grundlaget for matematikundervisningen. Derfor bør matematikundervisningen også foregå med støtte af konkrete materialer.”)∞(dan)  Aamma tamanna atuartut misilitsinnerini marluusuni takussutissaqartoq uppernarsaatigisinnaavara. Atuartut aallartinnerminni misilitsikkamik, atortunik tigussaasunik atortoqarlutik misilitsissinnaatitaapput, tassani pissutigivara atuartut amerlisaanermik annikitsuinnarmik sammisaqarsimaneri. Atuartut aallartikkamik misilitsinnerminni akissutaat ajunngitsut tamakkerlutik 72,27 %-iupput, sapaatillu akunnerini sisamani katiterinermiit amerlisaanermut ikaarsaarnermik ilaatigut atortut tigussaasut atorlugit sammisaqangaatsiareerlutik, naggataarnitsinni misilitseqqikkamik atuartut akissutaat ajunngitsut tamakkerlutik 90,30 %-mut$(phon,0-i|%-imut) qaffariarsimapput, kisitsisillu takutippaat Sullivilersorluni atuartitsineq, Atuartitsineq ilikkarluarfiusumik ilalik suleriaaseralugit atortut tigussaasut aallaavigalugit atuartitsissutigissallugit pitsaasuusut. Tassanilu aamma takutippaa suleriaatsit assigiinngitsut suleriaaseralugit atuartitsineq atuartut ilikkalertornissaannut pingaaruteqartuusoq. 
+Suleriaatsini assigiinngitsuni suliassat tigussaasut atuakkallu atorlugit atuartunit aqqusaarneqaraangamik, atuartut suleriaaseq sorleq ilikkalertorfiginerusarneraat paasiniassagukkit atuartunik misissuinikka qivialaassavakka. Misissuininnut atatillugu qulaani allaaserisakka, tassaasut; sullivilersorluni atuartitsineq aamma atuartitsineq ilikkarluarfiusoq, tigussaasut atuakkallu aallaavigalugit atuartitsineq, teoriitiikerit$(loan|teoretikerit), atuarfimmi misissuininni paasisakka aammalu ”Atuarfik pillugu inatsisartut inatsisaat nr.15, 3. December 2012”-meersoq$(num,0-i|2012”-imeersoq) tunngavilersuutigalugit sukuiaassaanga. Ilikkagassatut anguniagassat, teoriitiikerit$(loan|teoretikerit) suleriaatsillu assigiinngitsut atorlugit atuartitsillunga misissuininni paasivara atuartut piginnaasaat ilikkartariaasaallu assigiinngitsut aallaavigalugit atuartitsinissaq pingaaruteqartoq. Tamannalu aamma ”Atuarfik pillugu inatsisartut inatsisaat nr. 15, 3. December 2012”-meersumi$(num,0-i|2012”-imeersumi) kap. 4 § 18-mi$(num,0-i|18-imi) ersarissumik pingaarutilittut allaqqavoq; ”Atuartitsineq allanngorartuussaaq, atuartut ataasiakkaat pisariaqartitaannut piginnaariigaannullu naapertuuttuussalluni.” Atuartunik misissuininnut atatillugu apersuininni paasivara atuartut assigiinngitsumik ilikkartariaaseqarnerat pissutigalugu atuartut suleriutsit ilikkalertorfigisinnaasaat assigiinngitsuusut. Atuartunik apersuininni niviarsiaraq ”LM” aperiganni qanoq suleriuseqaraangami ilikkagaqarnerusarnersoq, akivoq tamatta suleqatigiikkaagatta ilikkagaqarnarnerutikkini, aperitikkamilu ima nassuiaavoq: ”eehm…soorlu$(cmp,1-2|”eehm… soorlu) tamatta suligutta eqqissilluta, aamma nalulerutta aperipallussinnaagatta$(sub,u-i|aperipallassinnaagatta).” Niviarsiaqqap ”LM”-ip ”Atuaqatigiiaanik atuartitsineq” aammalu ”Eqimattakkaarluni sulineq” aallaavigalugit atuartinneqaraangami ilikkagaqarnarnerutippaa, tassani tunngavittut taasinnaasara tassaavoq Lev Vygotskyp teoriimini allassimasaa: {”Barnet gør først ting med hjælp fra voksne eller nogen som kan mere end det selv kan, derefter alene. På den måde bliver den voksne en slags medierende hjælper for barnet ved at bidrage til at vise eller forklare hvordan tingene skal gøres.”}∞{dan} Niviarsiararlu ”LM” katiterinermiit amerlisaanermut ikaarsarnermi ilikkarsarnermini killiffimmi tassani inissisimavoq, ikorfartorneqaqqaarluni suleqateqarluni sulinissani orniginerummagu. Misissuininni atuartut ”Atuaqatigiiaanik atuartitsineq”, ”Nammineerluni sulineq”, ”Marlukkaarluni sulineq”, ”Eqimattakkaarluni sulineq”, aammalu eqimattakkaarluni sulinermi ”Sullivilersorluni atuartitsineq” suleriaaseralugit misissuivunga. Suleriaatsinut tapiliullugit ”Atuartitsineq ilikkarluarfiusoq {–CREDE}∞{eng}”  suleriaatsinut assigiinngitsunut atuartitsinerup pitsaassusaanik tunngaviliisut ilai misissuininni atorpakka. Misissuininni paasivara atuartut sammisamik nutaamik aallartinnerat ilutigalugu ataatsimoorussamik ”Atuaqatigiiaanik atuartitsineq” atorlugu atuartinneqartariaqartut, Ilinniartitsisumik apersuininni ilinniartitsisoq apersungara$(dial,ng-g|apersugara) aamma taama isumaqarpoq. Katiterinermiit amerlisaanermut ikaarsaarnermi, atuartut amerlisaanermik ilinniartinnerini qanoq aallarniinissaq pitsaanerusorineraa aperiganni akivoq, atuartut iloqqasuutillugit katiterinermik amerlisaanerullu ilisarnaatai atuartunut nassuiaatigissallugit kisitseqatiginerini pitsaasuusoq.  Lev Vygotsky-lu$(prop,hyph-0|Vygotskylu) teoriimini atuartut ikorfartornisaannut$(typo,s,1-2|ikorfartornissaannut) tunngasumik aamma isumaqartoq misissuininni paasivara. Lev Vygotsky teoriimini tassa {”nærmeste udviklings zone”-mi}∞{dan} eqqaavaa atuartut ikorfartorneqaqqaarlutik ilikkagassaminnik ineriartortitsisinnaalersartut, uangalu atuartitsininni aamma tamanna atuarnerup aallartinnerani suleriaaseralugu aallarniisarpunga, atuartut tamaasa suleqatigalugit suliassaannut ikorfartorsinnaaniassagakkit, taamaalillutik atuartut suliassaminnut paasisaqarnerullutik suliaqarsinnaaniassappata, soorlu teoriini tamanna eqqaagiga. Misissuinerma takutippaa sammisamik nutaamik aallartinnermi atuartut ilikkalertornissaminnut killiffigikkajukkaat imminerminniit piginnaasaqarnermik ikorfartorneqarnissaq aammalu suleqateqarluni sulinissaq, taamaalilluni atuartut suleqatigiinnermikkut piginnaasaminnik avitseqatigiissinnaaniassagamik, niviarsiaqqallu ”LM”-ip suleriuseq tamanna suleriutsinit allaninngaanniit ilikkagaqarnarnerutikkaa apersornerani paasivara. ”Sullivilersorluni atuartitsineq”-mi ”Atuartitsineq ilikarluarfiusoq$(typo,k,1-2|ilikkarluarfiusoq) {–CREDE}∞{eng}” atornerani atuartunik ikorfartuiutigalunga misissuigama niviarsiaraq ”LM” aperiganni qanoq kisitsisarnersoq akivoq: ” Nalunanngitsut qamani” (niaqquni tikkuarlugu), ”Nalunalaartut inussannik” ,”Nalunartut kugleramminik.”, taamaattumik atuartut nutaamik sammisaqalersillugit nalilerusuppara atuartut matematikkimi atuarnerminni atortut tigussaasut atorlugit ilikkarsarnerminni annertunerusumik ilikkagaqarsinnaanerusartut, atuagarsornerinnarnerminngaanniit. Tamannalu aamma ilinniartitsisut atuagaanni allaqqavoq: {”I dag ved alle, at de yngste elevers talbegreb udvikles bedst gennem beskæftigelse med konkrete materialer… Uanset hvilket matematiksystem der vælges, mener vi, at konkrete erfaringer hos eleverne bør danne grundlaget for matematikundervisningen. Derfor bør matematikundervisningen også foregå med støtte af konkrete materialer.”}∞{dan}  Aamma tamanna atuartut misilitsinnerini marluusuni takussutissaqartoq uppernarsaatigisinnaavara. Atuartut aallartinnerminni misilitsikkamik, atortunik tigussaasunik atortoqarlutik misilitsissinnaatitaapput, tassani pissutigivara atuartut amerlisaanermik annikitsuinnarmik sammisaqarsimaneri. Atuartut aallartikkamik misilitsinnerminni akissutaat ajunngitsut tamakkerlutik 72,27 %-iupput, sapaatillu akunnerini sisamani katiterinermiit amerlisaanermut ikaarsaarnermik ilaatigut atortut tigussaasut atorlugit sammisaqangaatsiareerlutik, naggataarnitsinni misilitseqqikkamik atuartut akissutaat ajunngitsut tamakkerlutik 90,30 %-mut$(phon,0-i|%-imut) qaffariarsimapput, kisitsisillu takutippaat Sullivilersorluni atuartitsineq, Atuartitsineq ilikkarluarfiusumik ilalik suleriaaseralugit atortut tigussaasut aallaavigalugit atuartitsissutigissallugit pitsaasuusut. Tassanilu aamma takutippaa suleriaatsit assigiinngitsut suleriaaseralugit atuartitsineq atuartut ilikkalertornissaannut pingaaruteqartuusoq. 
 
 6.2 Atuartunut piginnaasakitsunut suleriaatsit ilikkalertornartut
-Atuartunut piginnaasakinnernut suleriaaseq sorleq ilikkalertornarnerunersoq paasiniassagukku atuartunik misissuinikka qivialaassavakka. Atuartunik misissuininnut atatillugu apersuininni niviarsiaraq ”N” qanoq suleriuseqaraagami$(dial,hypcorr,g-ng|suleriuseqaraangami) ilikkagaqarnerusarnersoq aperiganni akivoq, tamatta suleqatigiikkaangatta ilikkagaqarnerusarluni, tassanilu nassuiaatigaa taama suleriuseqarneq nuannarinerullugulu ilikkagaqarnarnerutikkini. Niviarsiaraq ”N”, misissuinikka aallaavigalugit matematikkimi piginnaasai qiviassagaanni ineriartorteqqitassaapput, atuaqatigiinni killiffik taanna appasinnerpaatut inissisimavoq, ineriartortinnissaanullu suleriaatsit assigiinngitsut atorlugit, soorlu suleqateqarnikkut aamma atortunik tigussaasunik atortoqarnikkut atuartup piginnaasai aallaavigalugit atuartitsinikkut ineriartortinneqarsinnaallutik. Misissuininni inernerit pissarsiakka aallaavigalugit atuartunillu alapernaannikka qiviassagaanni atuartullu misilitsinnerminni angusaat aallaavigalugit atuartut piginnaasakinnerit suleriuseq sorleq ilikkalertorfigisarneruneraat paasiniaqqissaassagukku, teoriitiikerit$(loan|teoretikerit) Jean Piaget-ip$(prop,hyph-0|Piagetip) faseteoriia, aamma Lev Vygotsky-p$(prop,hyph-0|Vygotskyp) teoriia (”nærmeste udviklings zone”)∞(dan) qiviarusuppakka. Piaget teoriiani killiffik ataaseq (”den konkret operationelle periode”)∞(dan) atuartunut matematikkimi piginnaasakittunut$(dial,tt-ts|piginnaasakitsunut) periutsitut ilikkalertornartutut taarusuppara, Niviarsiaqqap ”N”-ip apersorneqarnermigut nalilermagu inussani atorlugit kisitsigaangami ilikkagaqarnerusarluni, tassanilu takutippaa kisitassat eqqarsaatigiinnarlugit inernilersinnaanagit, tigussaasunnguinikkulli nammineerluni piginnaasani aallaavigalugit sulitilluni naammassinnissinnaalluni. Misissuininnut tunngatillugu Ilinniartitsisut atuagaanik misissuininni paasivara atuartut ilikkarsarnerminni ajornartorsiutillit atortunik tigussaasunik atortoqarlutik ilikkarsarnissartik pisariqartittaraat, taamaalilluni atuartup suliassaanut atortut tigussaasut ikorfartuutaasinnaaniassammata. Niviarsiaqqallu ”N”-ip pisariaqartitai piginnaariigaalu aallaavigalugit atuartitsissagaanni pisariaqarpoq atortunik tigussaasunik aammalu suleqateqarneratigut (piginnaasai qaffassarnissai)£(x|piginnaasaasa qaffassarnissai). (”Eleverne med indlæringsvanskeligheder har særlig grad behov for at få undervisningen konkretiseret, og konkrete materialer kan derfor foruden at støtte opbygningen af begreber også være en hjælp i forbindelse med undervisningsdifferentieringen i matematik.”)∞(dan)  Qulaani eqqaariikkattut niviarsiaqqap ”N”-ip suleqateqarnermigut ilikkagaqarnerusarnini taakkartormagu$(infl,plurtant|taakkartormagit) aamma Lev Vygotskyp teoriiani (”nærmeste udviklings zone”)∞(dan) atuartunut piginnaasakittunut iluaqutaalluarsinnaasumik atuartup ilikkalertornissaanut tikkuussisumik suleriaatsimik allassimasuuteqarpoq. (”Den pædagogiske udfordring ligger i at udnytte udviklingszonen ved at stimulere barnet til at arbejde aktivt sammen med andre, og at hjælpe og støtte barnet på dets vaklende vej mod at klare opgaven på egen hånd” 		                                                          ”Starttest”)∞(dan) eqqarsaatigissagaanni atuartut itinerusumik katiterinermiit amerlisaanermut ikaarsaarnermik sammisaqarnikuungatik$(dial,infl,nga-na|sammisaqarnikuunatik) aallartipput, niviarsiaqqallu ”N”-ip ”Starttest”-imi kisitai ajunngitsut %-inngorlugit 29,41%-ioriarlutik ”Sluttest”-imi 67,20%-mut qaffariarput. Tassani pissutaasinnaasut ilagaat atuartut misilitsinnermi suliassaasa assigiinngissusaat, aammali tassaasinnaalluni atuarfimmi ilikkarsarnerminni sullivilersorlutik aammalu suleqateqarlutik sulisarnerminni atortut tigussaasut ikorfartuutigalugit sapaatip akunnerini sisamani ingerlareernermi ilikkagaqarsimanerata takussutissaa. ”Sluttest”-ip takutippaa annertunersumik katiterinermiit amerlisaanermut ikaarsaarneq, kisitsisinik katiterisajaarnermigut amerlisaaneq ilikkarsimagaa, taamaalilluni 2-3-4-5-6 tabel ajornaannerusumik kisissinnaalersimallugit. Niviarsiaqqap ”N”-ip killiffia isiginiassagaanni suleriaatsit assigiinngitsut atorlugit atortunik tigussaasunik atortoqarnikkut ilikkarsarneq pitsaasumik ilikkalertornartutut taaneqarsinnaavoq, soorlu qulaani allakkiga atuakkamit taama nassuiaasiorfigineqarsimasoq. 
+Atuartunut piginnaasakinnernut suleriaaseq sorleq ilikkalertornarnerunersoq paasiniassagukku atuartunik misissuinikka qivialaassavakka. Atuartunik misissuininnut atatillugu apersuininni niviarsiaraq ”N” qanoq suleriuseqaraagami$(dial,hypcorr,g-ng|suleriuseqaraangami) ilikkagaqarnerusarnersoq aperiganni akivoq, tamatta suleqatigiikkaangatta ilikkagaqarnerusarluni, tassanilu nassuiaatigaa taama suleriuseqarneq nuannarinerullugulu ilikkagaqarnarnerutikkini. Niviarsiaraq ”N”, misissuinikka aallaavigalugit matematikkimi piginnaasai qiviassagaanni ineriartorteqqitassaapput, atuaqatigiinni killiffik taanna appasinnerpaatut inissisimavoq, ineriartortinnissaanullu suleriaatsit assigiinngitsut atorlugit, soorlu suleqateqarnikkut aamma atortunik tigussaasunik atortoqarnikkut atuartup piginnaasai aallaavigalugit atuartitsinikkut ineriartortinneqarsinnaallutik. Misissuininni inernerit pissarsiakka aallaavigalugit atuartunillu alapernaannikka qiviassagaanni atuartullu misilitsinnerminni angusaat aallaavigalugit atuartut piginnaasakinnerit suleriuseq sorleq ilikkalertorfigisarneruneraat paasiniaqqissaassagukku, teoriitiikerit$(loan|teoretikerit) Jean Piaget-ip$(prop,hyph-0|Piagetip) faseteoriia, aamma Lev Vygotsky-p$(prop,hyph-0|Vygotskyp) teoriia {”nærmeste udviklings zone”}∞{dan} qiviarusuppakka. Piaget teoriiani killiffik ataaseq {”den konkret operationelle periode”}∞{dan} atuartunut matematikkimi piginnaasakittunut$(dial,tt-ts|piginnaasakitsunut) periutsitut ilikkalertornartutut taarusuppara, Niviarsiaqqap ”N”-ip apersorneqarnermigut nalilermagu inussani atorlugit kisitsigaangami ilikkagaqarnerusarluni, tassanilu takutippaa kisitassat eqqarsaatigiinnarlugit inernilersinnaanagit, tigussaasunnguinikkulli nammineerluni piginnaasani aallaavigalugit sulitilluni naammassinnissinnaalluni. Misissuininnut tunngatillugu Ilinniartitsisut atuagaanik misissuininni paasivara atuartut ilikkarsarnerminni ajornartorsiutillit atortunik tigussaasunik atortoqarlutik ilikkarsarnissartik pisariqartittaraat, taamaalilluni atuartup suliassaanut atortut tigussaasut ikorfartuutaasinnaaniassammata. Niviarsiaqqallu ”N”-ip pisariaqartitai piginnaariigaalu aallaavigalugit atuartitsissagaanni pisariaqarpoq atortunik tigussaasunik aammalu suleqateqarneratigut {piginnaasai qaffassarnissai}£{x|piginnaasaasa qaffassarnissai}. {”Eleverne med indlæringsvanskeligheder har særlig grad behov for at få undervisningen konkretiseret, og konkrete materialer kan derfor foruden at støtte opbygningen af begreber også være en hjælp i forbindelse med undervisningsdifferentieringen i matematik.”}∞{dan}  Qulaani eqqaariikkattut niviarsiaqqap ”N”-ip suleqateqarnermigut ilikkagaqarnerusarnini taakkartormagu$(infl,plurtant|taakkartormagit) aamma Lev Vygotskyp teoriiani {”nærmeste udviklings zone”}∞{dan} atuartunut piginnaasakittunut iluaqutaalluarsinnaasumik atuartup ilikkalertornissaanut tikkuussisumik suleriaatsimik allassimasuuteqarpoq. {”Den pædagogiske udfordring ligger i at udnytte udviklingszonen ved at stimulere barnet til at arbejde aktivt sammen med andre, og at hjælpe og støtte barnet på dets vaklende vej mod at klare opgaven på egen hånd” 		                                                          ”Starttest”}∞{dan} eqqarsaatigissagaanni atuartut itinerusumik katiterinermiit amerlisaanermut ikaarsaarnermik sammisaqarnikuungatik$(dial,infl,nga-na|sammisaqarnikuunatik) aallartipput, niviarsiaqqallu ”N”-ip ”Starttest”-imi kisitai ajunngitsut %-inngorlugit 29,41%-ioriarlutik ”Sluttest”-imi 67,20%-mut qaffariarput. Tassani pissutaasinnaasut ilagaat atuartut misilitsinnermi suliassaasa assigiinngissusaat, aammali tassaasinnaalluni atuarfimmi ilikkarsarnerminni sullivilersorlutik aammalu suleqateqarlutik sulisarnerminni atortut tigussaasut ikorfartuutigalugit sapaatip akunnerini sisamani ingerlareernermi ilikkagaqarsimanerata takussutissaa. ”Sluttest”-ip takutippaa annertunersumik katiterinermiit amerlisaanermut ikaarsaarneq, kisitsisinik katiterisajaarnermigut amerlisaaneq ilikkarsimagaa, taamaalilluni 2-3-4-5-6 tabel ajornaannerusumik kisissinnaalersimallugit. Niviarsiaqqap ”N”-ip killiffia isiginiassagaanni suleriaatsit assigiinngitsut atorlugit atortunik tigussaasunik atortoqarnikkut ilikkarsarneq pitsaasumik ilikkalertornartutut taaneqarsinnaavoq, soorlu qulaani allakkiga atuakkamit taama nassuiaasiorfigineqarsimasoq. 
 
 6.3 Atuartut matematikkimi piginnaasaqarnerit 
-Atuartut piginnaasaqarnerit suleriaatsit qanoq tiguneraat misissuininni annertunerusumik  ukkatarinngitsoornikuugakkit atuartunik apersuinikka aallaavigalugit akiniassavara. Siullermik eqqaassavara atuartut piginnaasaqarnerit suleriaatsit assigiinngitsut atukkagut ajorisinnaasaminnik taakkartuiffiginngimmatigit. Nukappiaraq ”I” apersoranni qanoq suleriuseqaraangami ilikkagaqarnerusarnersoq, akivoq kisimiilluni sulilluni ilikkagaqarnarnerutikkini, imalu nassuiaalluni: ”Eqqarsallaqqinneruniassagama, soorl` ilaqaraangama ilikkagaqarpiarneq ajorama ikiortipallukkaangama$(sub,u-a|ikiortipallakkaangama)” –Nukappiaqqap$(cmp,1-2|– Nukappiaqqap) ”I”-p atuartut namminneq toqqassagaangamikku qanoq suleriuseqassanerlutik, malunginiartarpara$(dial,ng-g|maluginiartarpara) kisimiilluni sulerusunnerusartoq. Atuartut piginnaasaqarnerit atortut tigussaasut atussallugit pisariaqartinngilaat, aatsaallu kisitsisinik angisuunik amerlisaassagaangamik pisariaqartilertarlugit. Atuartut matematikkimi piginnaasaqarnerit eqqarsaatsiminnik imaluunniit inussatik atorlugit kisitsissallutik iluarinerusarpaat, nukappiaqqallu ”I”-p apersorneqarnermigut, inussani atorlugit kisitsisarnini eqqaallugu ima akivoq: ”Iluaqutaasaramik” (inussani ussersuutigalugit takutippaa), taamaalillutik atuartut piginnaasaqarnerit takutippaat namminneq suleriaasitik aallaavigalugit ilikkarsarnissartik pisariaqartittaraat. Nukappiaqqat marluk tassaasut ”A” aamma ”R” piginnaasaat pitsaasuupput sullivilersorlunilu atuartitsineq suleriaaseralugu atussanngikkaangatsigu atuartut taakkua marluullutik suleqatigiikkusunnerusarput. Nukappiaqqat eqqartukkakka atuartitsininni uani inissisimapput, annertunerusumik atortut tigussaasut atorlugit atuartinneqarnissartik pisariaqartinngilaat, kisiannili suleqatigiillutik piginnaasaminnik avitseqatigiinnissartik pisariaqartillugu. Uangalu isumaqarpunga atuartut Lev Vygotsky-p$(prop,hyph-0|Vygotskyp) teoriimini allassimasaani inissisimasut, tassa ima allassimagami: (”Den pædagogiske udfordring ligger i at udnytte udviklingszonen ved at stimulere barnet til at arbejde aktivt sammen med andre, og at hjælpe og støtte barnet på dets vaklende vej mod at klare opgaven på egen hånd”)∞(dan) 
+Atuartut piginnaasaqarnerit suleriaatsit qanoq tiguneraat misissuininni annertunerusumik  ukkatarinngitsoornikuugakkit atuartunik apersuinikka aallaavigalugit akiniassavara. Siullermik eqqaassavara atuartut piginnaasaqarnerit suleriaatsit assigiinngitsut atukkagut ajorisinnaasaminnik taakkartuiffiginngimmatigit. Nukappiaraq ”I” apersoranni qanoq suleriuseqaraangami ilikkagaqarnerusarnersoq, akivoq kisimiilluni sulilluni ilikkagaqarnarnerutikkini, imalu nassuiaalluni: ”Eqqarsallaqqinneruniassagama, soorl` ilaqaraangama ilikkagaqarpiarneq ajorama ikiortipallukkaangama$(sub,u-a|ikiortipallakkaangama)” –Nukappiaqqap$(cmp,1-2|– Nukappiaqqap) ”I”-p atuartut namminneq toqqassagaangamikku qanoq suleriuseqassanerlutik, malunginiartarpara$(dial,ng-g|maluginiartarpara) kisimiilluni sulerusunnerusartoq. Atuartut piginnaasaqarnerit atortut tigussaasut atussallugit pisariaqartinngilaat, aatsaallu kisitsisinik angisuunik amerlisaassagaangamik pisariaqartilertarlugit. Atuartut matematikkimi piginnaasaqarnerit eqqarsaatsiminnik imaluunniit inussatik atorlugit kisitsissallutik iluarinerusarpaat, nukappiaqqallu ”I”-p apersorneqarnermigut, inussani atorlugit kisitsisarnini eqqaallugu ima akivoq: ”Iluaqutaasaramik” (inussani ussersuutigalugit takutippaa), taamaalillutik atuartut piginnaasaqarnerit takutippaat namminneq suleriaasitik aallaavigalugit ilikkarsarnissartik pisariaqartittaraat. Nukappiaqqat marluk tassaasut ”A” aamma ”R” piginnaasaat pitsaasuupput sullivilersorlunilu atuartitsineq suleriaaseralugu atussanngikkaangatsigu atuartut taakkua marluullutik suleqatigiikkusunnerusarput. Nukappiaqqat eqqartukkakka atuartitsininni uani inissisimapput, annertunerusumik atortut tigussaasut atorlugit atuartinneqarnissartik pisariaqartinngilaat, kisiannili suleqatigiillutik piginnaasaminnik avitseqatigiinnissartik pisariaqartillugu. Uangalu isumaqarpunga atuartut Lev Vygotsky-p$(prop,hyph-0|Vygotskyp) teoriimini allassimasaani inissisimasut, tassa ima allassimagami: {”Den pædagogiske udfordring ligger i at udnytte udviklingszonen ved at stimulere barnet til at arbejde aktivt sammen med andre, og at hjælpe og støtte barnet på dets vaklende vej mod at klare opgaven på egen hånd”}∞{dan} 
 
 8 Oqallinneq kiisalu periutsinut isornartorsiuineq
 Misissuininnut atatillugu apeqqut akissutigerusutara, atuartut piginnaasaqarnerit suleriaatsit qanoq tiguneraat annertunerusumik akissutigisinnaasimanngilara atuartut piginnaasaqarnerit suleriaatsit qanoq tiguneraat annertunerusumik eqqumaffiginngitsoorsimagakkit. Tassanilu pissutaasinnaasoq tassaavoq atuartut piginnaasakinnerit annertunerusumik isiginiarnerusimaneri, aamma peqqutaasinnaasutut taasinnaavara atuartut sullivinni sulisillugit atuartitsineq ilikkarluarfiusup atornerani, læringsdialogcenterimiinninni atuartut sullivinni sulisut tamaasa alapernaasersorfiginissai ajornarsimammat, læringsdialogcenterimi atuartut ”aqqusaartut” annertunerusumik ikorfartorsinnaaniassagakkit, sullivinni allani sulisut eqqumaffiginiarneri killeqarsimavoq. Taamaattorli atuartut sullivimminni suliassaminnik nalulerlutik aperiartortarneri eqqumaffigaakka, tassanilu atuartut ilinniartillugit suleqatiminnut apereqqaarlutik ilinniartitsisuminnut aperiartortassasut, taamaalillutik iluminni akisussaaqatigiinneq, suleqatigiinnerullu pitsaasuunera paasissammassuk. Atuarfik pillugu inatsisartut inatsisaanni nr.15, 3. December 2012-mi$(num,0-i|2012-imi) allaqqavoq: ”Atuarfiup ulluinnarni ingerlatsinini sulininilu imatut sinaakkusersussavaa, atuartoq imminut naleqartinnerminik, imminut tatiginerminik, suleqateqarsinnaassuseqarnerminik, akisussaassuseqarnerminik inunnullu allanut ataqqinninnerminik ineriartortitsisinnaalersillugu.” 
@@ -284,7 +284,7 @@ Maluginiakkama aappaa tassaavoq, ”Atuaqatigiiaanik atuartitsineq” aallaaviga
 Qanoq ililluni nukarlerni atuartuni 3. klasseni atortut tigussaasut atuakkallu aallaavigalugit suleriaatsit assigiinngitsut atornerini amerlisaanermik ilikkalertorfiusumik atuartitsisoqarsinnaava? –Bachelorimik$(cmp,1-2|– Bachelorimik) suliaqarninni misissuininnut tunngatillugu akissutigerusutama misissornerani paasivara atuartut piginnaasaat assigiinngitsut pissutigalugit atuartitsinermi suleriaatsit assigiinngitsut atornerini atuartut Sullivilersorluni atuartitsineq aammalu Atuaqatigiiaanik atuartitsineq annerusumik suleriaaseralugit atortut tigussaasut atuakkallu aallaavigalugit amerlisaanermik ilikkalertorfiusumik atuartitsisoqarsinnaasoq. Sullivilersorluni atuartitsineq, atortut tigussaasut atuakkallu aallaavigalugit atuartitsineq aammalu teoriitiikerit$(loan|teoretikerit) misissornerini paasivara, atuartut eqimattani suleqateqarnermikkut katiterinermiit amerlisaanermut ikaarsaarnermik ilinniarnerminni ilisimasaminnik avitseqatigiinnermikkut ilikkalertorsinnaasut, taannalu pissuteqarpoq atuartut nutaamik sammisaqalersillugit atortunik tigussaasunik ikorfartuuteqarluni atuartoq ilikkagaqarsinnaanerusartoq misissuininni paasigakku. Atuartut ilikkalertornissaminnut periarfissinneqarnissartik pingaartippaat, tassanilu ilinniartitsisup pitsaasumik paasinartumillu sammisamut aallarniinermigut nassuiaasarnissaa atuartunit pisariaqartinneqarpoq, taamaalillutik atuartut suliassaminnut paasinnillutik suliaqarsinnaalissammata. Katiterinermiit amerlisaanermut ikaarsaarnermi atuartut ilikkalertornissaat anguniarlugit, atuartut ilisimariigaat aallaaviagalugit$(typo,a-0|aallaavigalugit) atuartinneqartariaqarput. Atuartut katiterineq suusoq paasereermassuk, atuartut amerlisaanermik ilinniartissagaanni katiterinermiit aallaaveqarnissaq pisariaqarpoq, kisitsisinik assigiiaanik katiterineq amerlisaanerup periusaa assigimmagu, atuartup ilikkalertornissaanut pingaaruteqarmat atuartup ilisimariigai aallaavigalugit atuartitsinissaq, tassanilu kisitsisinik assigiiaanik katiterineq ass. 2+2+2 amerlisagassanngortikkaanni 2 pingasoriarlugu (23)-jusoq$(orto,glides,j-0|(23)-usoq) paasitinneqartariaqarpoq ilaatigut atortut tigussaasut aallaavigalugit takutitsinikkut, taamaalilluni atuartut amerlisaanermik ilikkalertorfiusumik atuartinneqarsinnaallutik. 
 
 10 Siumut eqqarsaatersorneq ((Perspektivering))∞(dan)
-Siunissaq eqqarsaatigalungu$(dial,ng-g|eqqarsaatigalugu) isumaqarpunga, atuarfimmi annertunerusumik suleriaatsit assigiinngitsut atorlugit atuartitsisoqartariaqartoq, taamaalilluni atuartut piginnaasaat ilikkartariaasaallu assigiinngitsut aallaavigalugit atuartitsinermi atuartut amerlanerit ilikkalertornissaannut periarfissinneqarsinnaaniassammata. Soorlu suleriaatsit assigiinngitsut aallaavigalugit atortut tigussaasut atuakkallu atorlugit atuartitsininni misissuinerup takutikkaa angusaqarfiusumik atuartitsisimasunga. Siunissami sulilernissannut isiginiarnerusassara tassaavoq (atuartut piginnaasaqarnerit atuartunik piginnaasakinnertulli eqqumaffiginerulernissai)£(x|atuartut piginnaasaqarnerit atuartut piginnaasakinnertulli eqqumaffiginerulernissai). Tassani takutinneqarpoq ilinniartitsisutut sulissagaanni pingaaruteqartoq atuartunik amerlasuunik maluginninniarsinnaasariaqarneq, taamaalilluni atuartut piginnaasaat assiigiinngitsut tamaasa ingerlaqatigiinnerusumik qaffassaaffigineqarsinnaaneruniassammata.  Atuaqatigiit klassemi amerlassusaat eqqarsaatigissagaanni, atuaqatigiit annerpaamik 26-iusussaatitaaneri$(num,i-0|26-usussaatitaaneri) nukarlerni atuartuni (1-3. Klasse) annertunginarsinnaavoq$(dial,ng-g|annertuginarsinnaavoq), nunatsinni ima inissisimatilluta atuarfimmi aamma perorsaaniarneq annertuumik atuutsillugu, siunissami ilinniartitsisussaaleqineq sipaarniarnerlu qaangerneqarpata siunnersuutigerusunnarpoq atuartut klassemi suli 26-iusussaatitaappata$(num,i-0|26-usussaatitaappata) nukarlerni atuartuni 3.klasse tikillugu ilinniartitsisut klassemi marluusinnaanissaat, tamanna periarfissaanngippat ilinniartitsisoq (pædagog-erlu$(loan,hyph-0|pædagogerlu))€(x|perorsaasorlu) klassemi ataatsimiissinnaanissaat angutikkusunnarpoq, atuartut ilikkarsarnerannut fagiminnut suleriaatsinullu pingiliussitinnerunissaat$(dial,ng-g|pigiliussitinnerunissaat) pitsaasumik sunniuteqarsinnaappat. 
+Siunissaq eqqarsaatigalungu$(dial,ng-g|eqqarsaatigalugu) isumaqarpunga, atuarfimmi annertunerusumik suleriaatsit assigiinngitsut atorlugit atuartitsisoqartariaqartoq, taamaalilluni atuartut piginnaasaat ilikkartariaasaallu assigiinngitsut aallaavigalugit atuartitsinermi atuartut amerlanerit ilikkalertornissaannut periarfissinneqarsinnaaniassammata. Soorlu suleriaatsit assigiinngitsut aallaavigalugit atortut tigussaasut atuakkallu atorlugit atuartitsininni misissuinerup takutikkaa angusaqarfiusumik atuartitsisimasunga. Siunissami sulilernissannut isiginiarnerusassara tassaavoq {atuartut piginnaasaqarnerit atuartunik piginnaasakinnertulli eqqumaffiginerulernissai}£{x|atuartut piginnaasaqarnerit atuartut piginnaasakinnertulli eqqumaffiginerulernissai}. Tassani takutinneqarpoq ilinniartitsisutut sulissagaanni pingaaruteqartoq atuartunik amerlasuunik maluginninniarsinnaasariaqarneq, taamaalilluni atuartut piginnaasaat assiigiinngitsut tamaasa ingerlaqatigiinnerusumik qaffassaaffigineqarsinnaaneruniassammata.  Atuaqatigiit klassemi amerlassusaat eqqarsaatigissagaanni, atuaqatigiit annerpaamik 26-iusussaatitaaneri$(num,i-0|26-usussaatitaaneri) nukarlerni atuartuni (1-3. Klasse) annertunginarsinnaavoq$(dial,ng-g|annertuginarsinnaavoq), nunatsinni ima inissisimatilluta atuarfimmi aamma perorsaaniarneq annertuumik atuutsillugu, siunissami ilinniartitsisussaaleqineq sipaarniarnerlu qaangerneqarpata siunnersuutigerusunnarpoq atuartut klassemi suli 26-iusussaatitaappata$(num,i-0|26-usussaatitaappata) nukarlerni atuartuni 3.klasse tikillugu ilinniartitsisut klassemi marluusinnaanissaat, tamanna periarfissaanngippat ilinniartitsisoq (pædagog-erlu$(loan,hyph-0|pædagogerlu))€(x|perorsaasorlu) klassemi ataatsimiissinnaanissaat angutikkusunnarpoq, atuartut ilikkarsarnerannut fagiminnut suleriaatsinullu pingiliussitinnerunissaat$(dial,ng-g|pigiliussitinnerunissaat) pitsaasumik sunniuteqarsinnaappat. 
 
 
 
@@ -306,9 +306,9 @@ Najoqqutat allattorsimaffiat
 Atuakkiortoq aamma atuakkap naqiterneqarfia
 Atuakkap aqqa aamma ISBN nr.
 Bech, Hans Jørgen ; Hans Christian Hansen ; Anna Jørgensen ; Leif Ørsted Petersen & Peter Bollerslev
-© 2003 (by Gyldendalske boghandel, Nordisk Forlag A.S Copenhagen)∞(dan)
+© 2003 {by Gyldendalske boghandel, Nordisk Forlag A.S Copenhagen}∞{dan}
 
-(Matematik i læreruddannelsen –Teori og praksis –en fagdidaktik)∞(dan)
+{Matematik i læreruddannelsen –Teori og praksis –en fagdidaktik}∞{dan}
 
 ISBN 87-00-36206-9
 Fleischer, Ane ; Dorrit Hansen ; Merete Jørgensen ; Inge-Lise Lynge & Kirsten Mortensen
@@ -320,99 +320,99 @@ ISBN 87-7975-028-1
 Gregersen, Per ; Carsten Hedegaard ; Tomas Højgaard Jensen & Lone Kathrine Petersen
 2005
 
-(Matematrix 2B ”TRIX” Lærervejledning)∞(dan)
+{Matematrix 2B ”TRIX” Lærervejledning}∞{dan}
 
 ISBN 9788723017727
 Gregersen, Per ; Carsten Hedegaard ; Tomas Højgaard Jensen & Lone Kathrine Petersen
-(Matematrix 2B ”TRIX” Kopiark ”Transparenter”)∞(dan) 
+{Matematrix 2B ”TRIX” Kopiark ”Transparenter”}∞{dan} 
 
 Hansen, Dorrit ; Inge-Lise Hansen ; Ane Fleischer ; Merete Jørgensen & Kirsten Mortensen
-Ilinniusiorfik (Undervisningsmiddelforlag, Nuuk 2002
-1. udgave, 1. oplag)∞(dan)  
+Ilinniusiorfik {Undervisningsmiddelforlag, Nuuk 2002
+1. udgave, 1. oplag}∞{dan}  
 
-Matikkut 4 –ILINNIARTITSISUP ATUAGAA (LÆRERENS BOG)∞(dan)
+Matikkut 4 –ILINNIARTITSISUP ATUAGAA {LÆRERENS BOG}∞{dan}
 
 ISBN 87-7975-079-6
 Imsen, Gunn
-© 2006, (Gyldendalske Boghandel, Nordisk Forlag A/S, København 
-1. udgave, 2. oplag, 2008)∞(dan)
+© 2006, {Gyldendalske Boghandel, Nordisk Forlag A/S, København 
+1. udgave, 2. oplag, 2008}∞{dan}
 
-(Elevens Verden –Indføring i pædagogisk psykolog)∞(dan)
+{Elevens Verden –Indføring i pædagogisk psykolog}∞{dan}
 
 ISBN 978-87-02-03662-6
 Kristensen, Bo & Rikke Teglskov          
-2012 (Gyldendal A/S, københavn
-1. udgave, 1. oplag)∞(dan)
+2012 {Gyldendal A/S, københavn
+1. udgave, 1. oplag}∞{dan}
 
-(MULTI 2B lærervejledning)∞(dan)
+{MULTI 2B lærervejledning}∞{dan}
 
 ISBN 9788702106879
 Kristensen, Bo & Rikke Teglskov
-(Gyldendal A/S, københavn
+{Gyldendal A/S, københavn
 1. udgave, 1. oplag 2012
-MULTI 2B Kopimappe)∞(dan)  
+MULTI 2B Kopimappe}∞{dan}  
 
 ISBN 9788702106862
 
 Kristensen, Hans Jørgen
-© (Gyldendalske Boghandel, Nordisk Forlag A/S, København  
+© {Gyldendalske Boghandel, Nordisk Forlag A/S, København  
 1. udgave, 1. oplag 2007
-DIDAKTIK & PÆDAGOGIK –AT NAVIGERE I SKOLEN –TEORI I PRAKSIS)∞(dan)
+DIDAKTIK & PÆDAGOGIK –AT NAVIGERE I SKOLEN –TEORI I PRAKSIS}∞{dan}
 
 ISBN 978-87-02-02645-0
 
 Kristensen, Hans Jærgen & Per Fibæk Laursen 
-© 2012 (Gyldendal A/S, København
+© 2012 {Gyldendal A/S, København
 1. udgave, 1. oplag 2012
-GYLDENDALS METODE HÅNDBOG)∞(dan)  
+GYLDENDALS METODE HÅNDBOG}∞{dan}  
 
 ISBN 978-87-02-11602-1
 
 
 Kvale, Steiner
-©1994 (Steinar Kvale og Studentlitteratur og for den danske udgave  Hans Reitzels Forlag a/s, København 1997)∞(dan)
+©1994 {Steinar Kvale og Studentlitteratur og for den danske udgave  Hans Reitzels Forlag a/s, København 1997}∞{dan}
 
-(INTERVIEW –En introduktion til det kvalitative forskningsinterview)∞(dan)
+{INTERVIEW –En introduktion til det kvalitative forskningsinterview}∞{dan}
 
 ISBN 87-412-2816-2
 Kvale, Steiner & Svend Brinkmann 
-© 2008 (SAGE Publications, Inc. og for den danske udgave Hans Reitzels Forlag,  Købehavn 2009   
-2. udgave, 1. oplag 2008)∞(dan)
+© 2008 {SAGE Publications, Inc. og for den danske udgave Hans Reitzels Forlag,  Købehavn 2009   
+2. udgave, 1. oplag 2008}∞{dan}
 
-(INTERVIEW –Introduktion til et håndværk)∞(dan)
+{INTERVIEW –Introduktion til et håndværk}∞{dan}
 
 
 ISBN 978-87-412-5198-1
 Petersen, Silla Balzer ; Arne Morgensen ; Svend Hessing ; Lone Jensen & Karsten Enggaard 
-© forlag (Malling Beck A/S og forfatterne 2006   
+© forlag {Malling Beck A/S og forfatterne 2006   
 2. udgave, 2. oplag
-FAKTOR –LÆRERENS HÅNDBOG i fjerde)∞(dan)
+FAKTOR –LÆRERENS HÅNDBOG i fjerde}∞{dan}
 
 
 ISBN 87 7988 094 0 
 
 
-(http://www.inerisaavik.gl
-http://www.inerisaavik.gl/fileadmin/user_upload/Ineri saavik/Laereplaner_gr/Yngste_gr/Matematik_yng.pdf)∞(url) 
+{http://www.inerisaavik.gl
+http://www.inerisaavik.gl/fileadmin/user_upload/Ineri saavik/Laereplaner_gr/Yngste_gr/Matematik_yng.pdf}∞{url} 
 
-(http://www.inerisaavik.gl
-http://www.inerisaavik.gl/fag-og-projekter/effektive-undervisningsprincipper/info-om-crede-samt-artikler/)∞(url) 
+{http://www.inerisaavik.gl
+http://www.inerisaavik.gl/fag-og-projekter/effektive-undervisningsprincipper/info-om-crede-samt-artikler/}∞{url} 
 
-(http://www.pernillepind.dk)∞(url) 
+{http://www.pernillepind.dk}∞{url} 
 
-(http://pernillepind.dk/mambo/index.php?option =com_content&task=view&id=142&Itemid=156)∞(url) 
+{http://pernillepind.dk/mambo/index.php?option =com_content&task=view&id=142&Itemid=156}∞{url} 
 
-(Inatsisartutlov nr. 15 af 3. december 2012 om 
-folkeskolen)∞(dan)
+{Inatsisartutlov nr. 15 af 3. december 2012 om 
+folkeskolen}∞{dan}
 
 
 
 Anders Øgaard pappialaq tunniussaa forår 2012. Suminngaanneersinnaaneranik nanisaqarsinnaannginnama taama allappara bilag 12 takuneqarsinnaavoq.
 
   
-(CREDE standards–Metode)∞(dan)–Periuseq 
+{CREDE standards–Metode}∞{dan}–Periuseq 
 Saqqaani assitarisap suminngaanneernera:
-(www.uvm.dk)∞(url) 
+{www.uvm.dk}∞{url} 
 
 
 
@@ -420,12 +420,12 @@ Saqqaani assitarisap suminngaanneernera:
 
 
  
-(Bilag 1 –Start/Sluttest 
-Bilag 1.1 Starttest)∞(dan)
+{Bilag 1 –Start/Sluttest 
+Bilag 1.1 Starttest}∞{dan}
 
 
 
-(Bilag 1.2 Sluttest)∞(dan)
+{Bilag 1.2 Sluttest}∞{dan}
 
 
 
@@ -433,7 +433,7 @@ Bilag 1.1 Starttest)∞(dan)
 
 
 
-(Bilag 2 –Starttest resultater i excel 
+{Bilag 2 –Starttest resultater i excel 
 Starttest 17 opg
 I
 A
@@ -450,7 +450,7 @@ Kr
 J
 Ka
 Rigtigt svar 
-Forkert svar/ikke regnet)∞(dan)
+Forkert svar/ikke regnet}∞{dan}
 1
 0
 1
@@ -741,17 +741,17 @@ Forkert svar/ikke regnet)∞(dan)
 12
 
 2
- (Piger                     Drenge)∞(dan) 
+ {Piger                     Drenge}∞{dan} 
 
-Naqinnerit Tabelimi qullermi inissisimasut tassaapput atuartut atiisa aallaqaataat$(typo,q,1-2|aallaqqaataat). Kisitsisit saamerlerpaami inissisimasut tassaapput atuartut misilitsissutaat 1-miit$(num,0-i|1-imiit) 17-mut$(num,0-i|17-imut) amerlatigisut. (”Rigtigt svar”)∞(dan) nalaani allassimasarput atuaqatigiit qassit suliassat ajunngitsumik akisimaneraat, ass. Opgave 1 atuartunit arfineq amarlunnit$(typo,a-0|marlunnit) ajunngitsumik akineqarsimavoq.  Opgave 7 atuartunit 13-nit$(num,0-i|13-init) ajunngitsumik akineqarsimavoq. Uanilu atuartut 14-it misilitsinnermi peqataapput.
-
-
+Naqinnerit Tabelimi qullermi inissisimasut tassaapput atuartut atiisa aallaqaataat$(typo,q,1-2|aallaqqaataat). Kisitsisit saamerlerpaami inissisimasut tassaapput atuartut misilitsissutaat 1-miit$(num,0-i|1-imiit) 17-mut$(num,0-i|17-imut) amerlatigisut. {”Rigtigt svar”}∞{dan} nalaani allassimasarput atuaqatigiit qassit suliassat ajunngitsumik akisimaneraat, ass. Opgave 1 atuartunit arfineq amarlunnit$(typo,a-0|marlunnit) ajunngitsumik akineqarsimavoq.  Opgave 7 atuartunit 13-nit$(num,0-i|13-init) ajunngitsumik akineqarsimavoq. Uanilu atuartut 14-it misilitsinnermi peqataapput.
 
 
 
 
-(Bilag 2.1 - Starttest resultater i søjlediagram i %  
-Starttest`s resultater i søjlediagram – Rigtig svarer er blå og forkertsvar eller ikke regnet er rød)∞(dan)
+
+
+{Bilag 2.1 - Starttest resultater i søjlediagram i %  
+Starttest`s resultater i søjlediagram – Rigtig svarer er blå og forkertsvar eller ikke regnet er rød}∞{dan}
 
 (Rigtigt svar i % (blå) = 72,27%      Forkert svar/ikke regnet resultater i % (rød) = 27,73%
 Bilag 3  Sluttest i søjlediagram i %)∞(dan)
@@ -783,7 +783,7 @@ O                      (d)
 R                      (d)
 64,70 %
 100 %
-(Dette er rigtigt svar i % ud fra start og sluttest som nogle elever der har lavet, fra)∞(dan) Atuarfik Hans Lynge.
+{Dette er rigtigt svar i % ud fra start og sluttest som nogle elever der har lavet, fra}∞{dan} Atuarfik Hans Lynge.
 
 
 
@@ -808,14 +808,14 @@ R                      (d)
 
 
 
-(Bilag 5  -Spørgeskema til elever – svaret)∞(dan)
+{Bilag 5  -Spørgeskema til elever – svaret}∞{dan}
 
 
 
 
 
-(Bilag 6 –Spørgeskema til lærer –svaret   
-Bilag 6.1 Lærer 1)∞(dan)
+{Bilag 6 –Spørgeskema til lærer –svaret   
+Bilag 6.1 Lærer 1}∞{dan}
 1) Katiterinermiit amerlisaanermut ikaarsaarnermi, atuartut amerlisaanermik ilinniartinnerini qanoq aallarniinissaq pitsaanerusoraajuk?
 
 Ilinniartitsisutut sulileramali pingaartitarisarpara ilikkangassatut$(dial,ng-g|ilikkagassatut) anguniangassaq$(dial,ng-g|anguniagassaq) ersarissoq atuartunut apuutissallungu$(dial,ng-g|apuutissallugu). 
@@ -837,7 +837,7 @@ Isumaqarfingaara$(dial,ng-g|Isumaqarfigaara) qangatut atuartitsinerusoq ilikkart
 
 5) Isumaqarpit ”Matikkut” eqqarsaatigalugit nukarlerni atuartuni amerlisaanermik ilikkarsarneq annikippallaartoq? 
 
-Aappi. Taamaattumik saniatingut$(dial,ng-g|saniatigut) nammineq sanaartorlunga aammalu internet atorlungu$(dial,ng-g|atorlugu) pilersaarusiortarpunga. (www.gratisskolen.dk)∞(url) aammalu atuarfitsinni perput M+ aamma atortarpakka. 
+Aappi. Taamaattumik saniatingut$(dial,ng-g|saniatigut) nammineq sanaartorlunga aammalu internet atorlungu$(dial,ng-g|atorlugu) pilersaarusiortarpunga. {www.gratisskolen.dk}∞{url} aammalu atuarfitsinni perput M+ aamma atortarpakka. 
 
 6) Atuartut eqimattani suleqatigiittarneri eqqarsaatigalugit, suleqatigiinnissaannut suut isiginiarnerusarpigit? (Uani eqqarsaatigaakka, atuartut piginnaasaat, suiaassuseq il.il)
 
@@ -849,7 +849,7 @@ Atuartitakka aamma eqqissiviittut$(dial,tt-ts|eqqissiviitsut) arlaqarsimappata t
 
 Atuartitsineq ilikkarluarfiusoq atuarfitsialammi sakkussatut pingaarutilittut isingaara$(dial,ng-g|isigaara). Nammineerlunga Ilinniarfissuarmi soraarummeerninni sammisaraara, tassanilu paasivara atuarfitsialaap peqqussutaaniittoq. Atuarfimmi sulilerninni misilittangaqalerninni$(dial,ng-g|misilittagaqalerninni) timitaliisarninni paasivara soraarummeerutingisimasakka$(dial,ng-g|soraarummeerutigisimasakka) sakkungissallungit$(dial,ng-g;dial,ng-g|sakkugissallugit) pingaaruteqartuusut. Atuartitakka malungisarpakka$(dial,ng-g|malugisarpakka) periuseq taanna atoraangakku$(dial,ng-g|atoraagakku) ukkassilluartartut taamaattumillu allamut saaqattaarneq ajortut. Aamma malungisarpara$(dial,ng-g|malugisarpara) ilikkarsarnerat annertusartoq. Tassami fase 5 tikissimangaangatsingu$(dial,ng-g;dial,ng-g|tikissimagaangatsigu) ilinniartitsisup tassalu uanga tikilluarsinnaalersarakkit atuartut ataasiakkaat. Ataatsimut klassi tamaat ataatsikkut atuartinniassangaluarukku$(dial,ng-g|atuartinniassagaluarukku) ilai immaqa allamut saaqattaassapput taamaattumillu paasisaqarnissaat killeqalerluni. Uani atuartut immaqa sisamaannannguit atuartissuakka$(dial,ssa|atuartissavakka) apeqqutit ammasut atorlungit$(dial,ng-g|atorlugit) aammalu nassuiaassinnaallungit$(dial,ng-g|nassuiaassinnaallugit) tamaasa isikkut isingalungit$(dial,ng-g;dial,ng-g|isigalugit) allamut saalaarpata qiviaqullungit$(dial,ng-g;der,q,1-2|qiviaqqullugit). Allaat misileraasissuakka$(dial,ssa|misileraasissavakka) aamma allaat imminnut oqaloqatingiinnitsinni$(dial,ng-g|oqaloqatigiinnitsinni) tunioraassapput ;) 
 Fase 5 tikissimangutsingu$(dial,ng-g;dial,ng-g|tikissimagutsigu) nangitsivimmi uanni paasisimasatik sammissavaat, tassanilu qulakkiissuara$(dial,ssa|qulakkiissavara) atuartup kia sammisaq paasisimaneraa kialu suli nukittorsangassarineraa$(dial,ng-g|nukittorsagassarineraa), kisianni aamma atuartut ikioqatingiissapput$(dial,ng-g|ikioqatigiissapput) una sammisaq ataatsimut sammisassaq imaluunniit ataasiakkaarluni suliassaangaluartoq$(dial,ng-g|suliassaagaluartoq) ataatsimut ikioqatingiillutik$(dial,ng-g|ikioqatigiillutik) suliaralungu$(dial,ng-g|suliaralugu). Arlaat nalulerpat arlaata ikiussuaa$(dial,ssa|ikiussavaa) imal. nalulertup nerriveqatini aperissuaa$(dial,ssa|aperissavaa) aperitittullu ikiussuaa$(dial,ssa|ikiussavaa) ;)
-Nerrivimmi allami (”pause”)∞(dan). Pinnguaaterluni, soorlu qulaani eqqaareeringa$(dial,ng-g|eqqaareeriga) bingo atorlungu$(dial,ng-g|atorlugu) ilikkarsarneq. Isumaqassapput atuartut pinnguarlutik nalusaminnilli ilikkarsassapput ;)
+Nerrivimmi allami {”pause”}∞{dan}. Pinnguaaterluni, soorlu qulaani eqqaareeringa$(dial,ng-g|eqqaareeriga) bingo atorlungu$(dial,ng-g|atorlugu) ilikkarsarneq. Isumaqassapput atuartut pinnguarlutik nalusaminnilli ilikkarsassapput ;)
 Nerrivik alla amerlisaasimangunik$(dial,ng-g|amerlisaasimagunik) soorlu qalipatassanik tunineqassapput 5x5 kipparissunut qalipatassanut qalipallungu$(dial,ng-g|qalipallugu) il. Il.
 Taamaaliornikkut atuartut ukkassinerat immaqa 15-20 minutsikkaartoq iluatsittarpoq ukkassititsilluarluni ilikkarsartitsilluarlunilu ;)
 
@@ -863,7 +863,7 @@ Kalaallisoortitsininni aammalu kisitsisitsininni atornerpaajusarpara, ukioq naap
 
 Misilittangaqarfingaara$(dial,ng-g;dial,ng-g|Misilittagaqarfigaara) aap tulluartuuvoq ;) nr. 7-imi akissutima takutippaa misilittangaqarfinginginga$(dial,ng-g;dial,ng-g;dial,ng-g;dial,ng-g|misilittagaqarfigigiga).
 
-(Bilag 6.2 Lærer 2)∞(dan)
+{Bilag 6.2 Lærer 2}∞{dan}
 1) Katiterinermiit amerlisaanermut ikaarsaarnermi, atuartut amerlisaanermik ilinniartinnerini qanoq aallarniinissaq pitsaanerusoraajuk?
 
 Akissut: Atortut tigussaasut atorlugit nassuiaajutigaluni takutitsineq. 
@@ -892,7 +892,7 @@ Akissut: Atuartut suleqatigiittussat pisinnaasamikkut naligiikannertut suleqatig
 
 7) Atuartitsineq ilikkarluarfiusoq qanoq isumaqarfigaajuk?
 
-Akissut: Atuartitsineq ilikkarluarfiusoq atorlugu assut iluartarpoq tassani periarfissaqartarmat (læringsdialogcenter)∞(dan) atorlugu atuartut qanoq ilikkagaqartigisimanersut 
+Akissut: Atuartitsineq ilikkarluarfiusoq atorlugu assut iluartarpoq tassani periarfissaqartarmat {læringsdialogcenter}∞{dan} atorlugu atuartut qanoq ilikkagaqartigisimanersut 
 takuneqarsinnaasarmat. 
    Taanna atussagaanni atuartut ilitsersuuttariaqarput piffissap soorlu 15.min.$(cmp,1-2|15. min.) iluani uninngaannaratik sulissasut sulinngikkunik ilikkarluarfiunngitso$(typo,0-q|ilikkarluarfiunngitsoq). 
 
@@ -903,20 +903,20 @@ Akissut: Periode-kaarlugu$(loan,hyph-0;k,1-2|Periodekkaarlugu) atornerusarpara a
 9) Katiterinermiit amerlisaanermut ikaarsaarnermi, atuartitsineq ilikkarluarfiusoq (sullivini sulineq) atussallugu tulluartuusoraajuk?
 
 Akissut: Suu, assut. 
-(Bilag 7 – Logbog)∞(dan) Atuarfik Hans Lynge (–Matematik)∞(dan) 
+{Bilag 7 – Logbog}∞{dan} Atuarfik Hans Lynge {–Matematik}∞{dan} 
 
 19.02.13
-Ulloq siulleq matematikkerfik. Aallartinnermi atuartut qanoq piginnaasaqartigineri paasiniarlugit Starttest-imik$(loan,hyph-0|Starttestimik) suliaqartippakka plus/gange-nut$(loan,hyph-0|plus/gangenut)€(x|katiterinermut/amerlisaanermut) tunngasunik. Atuartullu 20-minutsit$(cmp,1-2,hyph-0|20 minutsit) suliaqareerlutik naammassimmata sullivinni sulisillugit. Misilitsinnermi atuartut ilai 5minutsit$(cmp,1-2|5 minutsit) atorlugit suliassat naammassivaat, ilaasali 20minutsit$(cmp,1-2|20 minutsit) atorlugit suliassat naammassillugit. Naammassiaartut suliassaannik allanik tunivakka, ilaasalu naammassinissaannut utaqqisillugit.
+Ulloq siulleq matematikkerfik. Aallartinnermi atuartut qanoq piginnaasaqartigineri paasiniarlugit Starttest-imik$(loan,hyph-0|Starttestimik) suliaqartippakka plus/gange-nut${loan,hyph-0|plus/gangenut}€{x|katiterinermut/amerlisaanermut} tunngasunik. Atuartullu 20-minutsit$(cmp,1-2,hyph-0|20 minutsit) suliaqareerlutik naammassimmata sullivinni sulisillugit. Misilitsinnermi atuartut ilai 5minutsit$(cmp,1-2|5 minutsit) atorlugit suliassat naammassivaat, ilaasali 20minutsit$(cmp,1-2|20 minutsit) atorlugit suliassat naammassillugit. Naammassiaartut suliassaannik allanik tunivakka, ilaasalu naammassinissaannut utaqqisillugit.
 
 Atuartut misilitsinnerminni kuglerammet atorlugit ilai kisitsipput, ilaallu assatik, inussatik atorlugit kisitsillutik. Ilaqarput pikkorittorujunnik gangenut ilisimasaqalereernikut, annikittunnguillu$(dial,tt-ts|annikitsunnguillu) ganget puigulaarsimavaat.
 
 Sullivilersorneq:  Takuuk uv-plan 
 Atuartut sullivinni suliassaat tunniukkakkit paasivara ilitsersuunnerusariaqarsimallugit, aallartereermatalu sullivinnut pigaagata$(dial,hypcorr,g-ng|pigaangata) ajoqersuuteqqittariaqartarlugit. Makittakkat atuartunut tulluunnerpaanngillat, makittakkat ilaat kisitsisitai angivallaaramik, kisiannili kuglerammenik tuningakkit$(dial,ng-g|tunigakkit) ajornannginnerusumik kisitsisinnaanngorlutik katiterineq iluaqutsiullugu. Suliassat Multiminngaanneersut aamma ajornannginnerusumik kisissinnaavaat, katiterineq iluaqutsiullugu amerlisaanermik suliaqaramik. Sullivik siulleq pinnguaat makittakkatuulli ajornalaarpoq, kisitsisit aamma angivallaat pinnguaammi allaqqagamik. 
 21.02.13
-Ullumikkut atuartut sullivinni sulisinnagit Matikkut 4B qupp.24$(cmp,1-2|qupp. 24) suliaritippara. Siullermik time aallartimmat atuartut tamaasa peqataatillugit allattarfimmi plussinik€(foreign|katiterinernik) gange-nillu$(loan,hyph-0|gangenillu)€(x|amerlisaanernillu) aallarniivugut. Plus allariarlugit qanoq gangetut allassanerlugit taatittarlugit. Aappaattut Atuartut tamarmik peqatigalugit ningalinngorluta$(dial,ng-g|nigalinngorluta) tabelilereqqaarpugut, aammalu siuleriiseriarlugit tabelinik taajuisillugit$(dial,j-g|taaguisillugit). Taamaalioreeriaratta atuartut nerrivimminni Matikkut 4B qupp. 24 suliaraat. Plus-inik$(loan,hyph-0|Plusinik)€(foreign|Katitigassanik) gange-nillu$(loan,hyph-0|gangenillu)€(x|amerlisagassanillu) imaqarput immersugassanik. Atuartut sanngiinnerit kuglerammit iluaqutsiullugit kisitsipput. (I) assut pikkorippoq (kugleramminillu atuinani suliassat tamarmik eqqortumik suliaralugit)£(nom-acc|kugleramminillu atuinani suliassat tamaasa eqqortumik suliaralugit). (In) isaagatta matematikkerniarluni paasillugu nikalluallappoq, aasiinngooq ilinniagassaqassagami. (In-p) suliassat arriittunnguamik$(dial,tt-ts|arriitsunnguamik) suliarai nalorsarluni, kisiannili kugleramminik ikiorteqarluni aperillattaallunilu periarami suliaralugit. Atuartut amerlanerit gange-nik$(loan,hyph-0|gangenik)€(foreign|amerlisagassanik) (kisitsisariaaseq plussertaarinerminnik€(x|katiterisaarinerminnik) ilikkarsimavaat)£(instr-abl|kisitsisariaaseq plussertaarinerminnit ilikkarsimavaat): 
+Ullumikkut atuartut sullivinni sulisinnagit Matikkut 4B qupp.24$(cmp,1-2|qupp. 24) suliaritippara. Siullermik time aallartimmat atuartut tamaasa peqataatillugit allattarfimmi plussinik€(foreign|katiterinernik) gange-nillu${loan,hyph-0|gangenillu}€{x|amerlisaanernillu} aallarniivugut. Plus allariarlugit qanoq gangetut allassanerlugit taatittarlugit. Aappaattut Atuartut tamarmik peqatigalugit ningalinngorluta$(dial,ng-g|nigalinngorluta) tabelilereqqaarpugut, aammalu siuleriiseriarlugit tabelinik taajuisillugit$(dial,j-g|taaguisillugit). Taamaalioreeriaratta atuartut nerrivimminni Matikkut 4B qupp. 24 suliaraat. Plus-inik${loan,hyph-0|Plusinik}€{foreign|Katitigassanik} gange-nillu${loan,hyph-0|gangenillu}€{x|amerlisagassanillu} imaqarput immersugassanik. Atuartut sanngiinnerit kuglerammit iluaqutsiullugit kisitsipput. (I) assut pikkorippoq {kugleramminillu atuinani suliassat tamarmik eqqortumik suliaralugit}£{nom-acc|kugleramminillu atuinani suliassat tamaasa eqqortumik suliaralugit}. (In) isaagatta matematikkerniarluni paasillugu nikalluallappoq, aasiinngooq ilinniagassaqassagami. (In-p) suliassat arriittunnguamik$(dial,tt-ts|arriitsunnguamik) suliarai nalorsarluni, kisiannili kugleramminik ikiorteqarluni aperillattaallunilu periarami suliaralugit. Atuartut amerlanerit gange-nik${loan,hyph-0|gangenik}€{foreign|amerlisagassanik} (kisitsisariaaseq plussertaarinerminnik€(x|katiterisaarinerminnik) ilikkarsimavaat)£(instr-abl|kisitsisariaaseq plussertaarinerminnit ilikkarsimavaat): 
 
 Assersuutigalugu  kuglerammini atuinermi, 3*4  3 sisamariaruni qassiussua$(dial,ssa|qassiussava)? Kuglerammini qulertakkaani atileriinni 3 atileriinni sisamani inissikkunikkit immikkoortitatik ataasiakkaarlugit kisikkunikkit inernera nanisarpaat. 
-Naammassisut kisitaat misissortarpakka, aaqqitassaqarpatalu aaqqitsittarlugit. Time-p$(loan,hyph-0|Timep) ingerlanerani naammassisut tamarmi ekstra opgavenik tamaasa tunivakka (K1-23 mik)¢(cmp,2-1,0-hyph|K1-23-mik) atillit. K1-23 qupp. 2 aamma 3 suliaraat piariinngitsullu opg 2 aamma 3 angerlarlutik naammassissallugit.
+Naammassisut kisitaat misissortarpakka, aaqqitassaqarpatalu aaqqitsittarlugit. Time-p$(loan,hyph-0|Timep) ingerlanerani naammassisut tamarmi ekstra opgavenik tamaasa tunivakka {K1-23 mik}¢{cmp,2-1,0-hyph|K1-23-mik} atillit. K1-23 qupp. 2 aamma 3 suliaraat piariinngitsullu opg 2 aamma 3 angerlarlutik naammassissallugit.
 
 
 26.februar.13
@@ -924,11 +924,11 @@ Sullivilersorluni atuartitsineq:
 
 Atuartut isaammata nassuiaaqqissaarpakka$(der,sub,0-te|nassuiaateqqissaarpakka) sullivinni qanoq iliussanersut. Kingullermi sullivilersortitsigama ikiuivallaarnikuugama, taanna pinngitsoortikkumallugu nassuiaalluaqqissaarpakka iluatsittumillu. 
 
-Atuartut tallimanik sulliveqarput, Uangalu sullivimmi ataatsimi (lærings dialog)∞(dan) centerimik taallugu atuartut gangenik kisitseqatigalugit. 
+Atuartut tallimanik sulliveqarput, Uangalu sullivimmi ataatsimi {lærings dialog}∞{dan} centerimik taallugu atuartut gangenik kisitseqatigalugit. 
 
  
 28.februar.13
-(”Klasse undervisning”)∞(dan)  ataatsimut isaanermi sammisaqarpugut. 
+{”Klasse undervisning”}∞{dan}  ataatsimut isaanermi sammisaqarpugut. 
 UV-plan allanngortilaarpara pississaarfimmik natermi titartaasinnaannginneq pissutigalugu. Atuartut isaammata klassemi isumaqatigiissutaat eqqartoriarlugit iloqqasunngorpugut, arsamillu akortaalluta tabelinik 2-3-4-5-nik kisitsilluta pinnguarluta. 
 
 Kingorna atuartut matikkut 4b qupp. 25 suliaraat pinnguaatitta asserluinnaanik kisitassat tassaasut 2-3-4-5 tabel.  Naammassisut ekstra opgavenik suliaqarput.
@@ -941,8 +941,8 @@ Sullivilersorlujni$(typo,j-0|Sullivilersorluni) atuartitsineq:
 Sulliviit tallimat:
 1. ”Pisiniarfik” amerlisaaneq, pisiassat, karsi, oorit aamma ”Multi” qupp. 52
 2. Kisitsisit ikkussortakkat
-3. (”Matematrix”)∞(dan) qupp. 41
-4. (læringsdialogcenter  ”Matematrix”)∞(dan) qupp. 47
+3. {”Matematrix”}∞{dan} qupp. 41
+4. {læringsdialogcenter  ”Matematrix”}∞{dan} qupp. 47
 5. Matikkut-nik inaarsaaneq
 
 Atuartut sulliviit 12minutsikkaartumik$(cmp,1-2|12 minutsikkaartumik) suliaqarfigisarpaat, 12-minutsilu$(cmp,1-2,hyph-0|12 minutsilu) qaangiukkaagat$(dial,hypcorr,g-ng|qaangiukkaangat) sulliviup tullianut nuuttarlutik. Atuartut sullivinni 1,2,3,5-mi$(num,0-i|1,2,3,5-imi) nammineerlutik suliaqarput. Suliaqalinnginnermilu atuartut nassuiaaqqaarneqarput$(der,sub,0-ti|nassuiaateqqaarneqarput) qanoq isiornissaannik$(dial,s-l|iliornissaannik).
@@ -958,7 +958,7 @@ In  Kuglerammit atorlugit kisitsivoq, ass. 2*3  2 pingasoriaruni = 6
 Atuartinnerini malunginiarpara$(dial,ng-g|maluginiarpara) matematikkimi piginnaanikinnerni inissisimasoq. Namminerli piginnaasani aallaavigalugit suliaqarluni ingerlatsisarluni.
 Id  Inussani atorlugit kisitsivoq. Ass. 6*4  ”4-mut kisitsisajaarluni, 4-mut kisitseriarluni 4-nik ilasarlugu  1,2,3,4+5,6,7,8…
 N Tigussaasunik atortoqarani, qarasaminik$(infl|qaratsaminik) kisitsisarpoq  nammineq oqarneratut eqqarsaatimininngooq kisippai. Ass. 5*4 5,10,15,20
-O  Inussani atorlugit I-tut kisitsivoq. 9 tabel nalunngilluaramigit 9*3 ingerlaannaq 27-iusoq$(num,i-0|27-usoq) allappaa. Aamma siornatigut tabelilerigatta (læringsdialog)∞(dan) centerimi (9tabel$(cmp,1-2|9 tabel) kisereermatigut)£(x|9 tabel kisereermatigit) maluginiaqqugakku ass. 9,18,27,36,45,54 … kisitsisit saamerliit aliartortut¢(typo,l,1-2|alliartortut) kisitsisit talerperliit milliartortut.  
+O  Inussani atorlugit I-tut kisitsivoq. 9 tabel nalunngilluaramigit 9*3 ingerlaannaq 27-iusoq$(num,i-0|27-usoq) allappaa. Aamma siornatigut tabelilerigatta {læringsdialog}∞{dan} centerimi (9tabel$(cmp,1-2|9 tabel) kisereermatigut)£(x|9 tabel kisereermatigit) maluginiaqqugakku ass. 9,18,27,36,45,54 … kisitsisit saamerliit aliartortut¢(typo,l,1-2|alliartortut) kisitsisit talerperliit milliartortut.  
 Ju  Kugletammit$(typo,t-r|Kuglerammit) atoirlugit$(typo,i-0|atorlugit) kisitsivoq, ajornannginnerillu inussani atorlugit kisippai. 
 Kr Inussani atornagit ”atortoqarani” kisitsivoq, eqqarsaatiminik kisitseriarluni nalunarnernut pigaangata inussani atulaartarpai. 5 tabel ajornanngitsumik kisittarpaat. 
 M  Kisitsisit ajornannginnerit assamminik kisippai ass. 6*3=18
@@ -974,17 +974,17 @@ LM  LM aperiganni qanoq kisitsisarnersoq akivoq
 LM-p$(abbr,0-i|LM-ip) akissutaa eqqarsalersitsivoq, paasinarluinnartumik akingami$(dial,ng-g|akigami). 
 R Kisitsisit ajornannerit$(typo,a,1-2|ajornaannerit) qaratsaminik kisippai, ajornarnerit kuglerammilerluni.
 D  Saamiugami kisitsisit suli killormut allattarpai ass. 6  d-ngasutut. Kisitsisit ajornaannerit qaratsaminik kisippai ass. 5*3 aamma 2*3
-S  Nalunnginnerusani qaratsaminik kisippai, gange-nut$(loan,hyph-0|gangenut)€(foreign|amerlisaanermut) pikkorippoq. Gange-lerinermi$(loan,hyph-0|Gangelerinermi)€(foreign|Amerlisaanermi) 24-mik inerneqartussat ”ujaramigit” pikkoriffigai  ass. 12*2=24 , 6*4= 24, 8*3=24 
+S  Nalunnginnerusani qaratsaminik kisippai, gange-nut${loan,hyph-0|gangenut}€{foreign|amerlisaanermut} pikkorippoq. Gange-lerinermi${loan,hyph-0|Gangelerinermi}€{foreign|Amerlisaanermi} 24-mik inerneqartussat ”ujaramigit” pikkoriffigai  ass. 12*2=24 , 6*4= 24, 8*3=24 
 
 
 Maluginiakkat 08.marts.12
 Atuartut klasseanni nerriveqatigiit tallimaapput. Nerriveqatigiit aallaavigalugit suliaqartitsisarpunga, nerriveqatigiit sullivimmi suleqatigiittussatut inissisimatillugit. Praktikkileqqaarama nerriviit arfiniliungaluarput$(dial,ng-g|arfiniliugaluarput), ”ikiortimilli” napparsimasoqarnera pissutigalugu nerriviit allanngortillugit misilipparput. Klassemit anillutik sulisartut isersimaannartalermata. Nerriviit allanngortinnerannut pissutaavoq aamma nukappiaqqat imminnut qanippallaarlutik allamut saasartarneri. Nerriviillu allanngormata ajornannginnerusumik suliaqarsinnaalersutut inissipput. Nerriviit allanngormata atuartut inissisimaffii ilinniartitsisuat peqatigalugu allanngorpagut, suleqatigiissinnaasut isiginiarlugit, imminnullu ”sammivallaartut” suliatik alarlugit pisartut ungasinnerutilerlugit. 
-Sullivinni suliaqartillugit naluleraangata ajornanngitsumik nerriveqatai apereqqusarpakka, uanga (læringsdialog)∞(dan) centerimi inissisimatillunga. 
+Sullivinni suliaqartillugit naluleraangata ajornanngitsumik nerriveqatai apereqqusarpakka, uanga {læringsdialog}∞{dan} centerimi inissisimatillunga. 
 Suleqatigiit tamarmik suliassaminnik nalorningaangata$(dial,ng-g|nalornigaangata) uannut aperisarput. Sullivilersortitsinerli siulleq kisiat eqqarsaatigalugu ajornarnerusumik ingerlatsivunga,  aallartnnermi$(typo,0-i|aallartinnermi) aminartumik$(typo,0-g;dial,ng-g|amigartumik) nassuiaasimanera pissutigalugu. Paasingakkuli$(dial,ng-g|Paasigakkuli) ”ikiuivallaarlunga” sullivilersoqqinnerup tulliani aaqqiivigaara. 
 
 Atuartitsisarninni maluginiakkama ilaat, tassaasoq anitsialernermi mappet, atuakkat, issiaviit aaqqeqqaarnagit qimanneqartartut aaqqiivigerusullugu, isaanermi oqaluuppakka, anitsialernerminni atortutik iluamik inisseqqaarlugit anisaqqullugit, isaanermi piffissaajaatiginnginniassammatigit.  Taanna suli atuartut ilaasa puigortarpaat. 
 
-Ullaakkut arfineq pingasuneersimatillutik 8:15 isaasarput 9:45-lu anitsiartarlutik. Atuartut ileqquliussimavaat (qulip qeqqa)£(sing-plur|qulit qeqqa) taqussaminnik tamussilaarnissaq, taanalu$(typo,n,1-2|taannalu) attatiinnarlugu ingerlappakka, sullivilersorsimatillutali anitsialivinnermi aattaat¢(dial,tt-ts|aatsaat) tamussilaartittarlugit. 
+Ullaakkut arfineq pingasuneersimatillutik 8:15 isaasarput 9:45-lu anitsiartarlutik. Atuartut ileqquliussimavaat {qulip qeqqa}£{sing-plur|qulit qeqqa} taqussaminnik tamussilaarnissaq, taanalu$(typo,n,1-2|taannalu) attatiinnarlugu ingerlappakka, sullivilersorsimatillutali anitsialivinnermi aattaat¢(dial,tt-ts|aatsaat) tamussilaartittarlugit. 
 
 Ullup qeqqanut nerisarneq ima inissisimavoq. Qulinut isaanermi 10:15 isaasarput, 11:20 kantine-mut$(loan,hyph-0|kantinemut) neriartortarput, nerereeraangamillu suliatik klasseminnut nangikkiartortarlugit. 
 
@@ -998,15 +998,15 @@ Saqqummeereerama atuartut suliassaannik tunivakka, sullivilersorluni sulinerunng
  
 12.marts.13
 Sullivilersorluni sulineq:
-1. (Læringsdialogcenter)∞(dan) tabelinik planchemut allattuineq. 
+1. {Læringsdialogcenter}∞{dan} tabelinik planchemut allattuineq. 
 Atuartut suleqatigiikkaat immikkut planchenut allattuisippakka, allattuinerannilu paasitinniarlugu gangeni kisitsisit inissisimaffii paarlaakkaluaraangata assigiittartut.  Allattukkatillu kisippaat.
-2. (Rutcherbane)∞(dan)  atuartut suleqatigiit gangenik kisitsipput. 
-3. (Kopipapir)∞(dan) I  gangenik kisitsineq
-4. (Konkrete matematik)∞(dan). Atuartut kaageeqqat atorlugit gangenik kisitsipput. 
+2. {Rutcherbane}∞{dan}  atuartut suleqatigiit gangenik kisitsipput. 
+3. {Kopipapir}∞{dan} I  gangenik kisitsineq
+4. {Konkrete matematik}∞{dan}. Atuartut kaageeqqat atorlugit gangenik kisitsipput. 
 Atuartut sullivinni sulineq sungiutiivippaat$(phon,i,2-1|sungiutivippaat). Sianeq nooqqusissut sianeraagat$(dial,hypcorr,g-ng|sianeraangat) namminneq nuuttarput. 
 14.marts.13
 Atuartut isaammata, misilitsinnissaannik nassuiaateriarlugit misilitsissutissaat agguaappakka. 
-(Slut-test max 30min.)∞(dan)
+{Slut-test max 30min.}∞{dan}
 Atuartunik aalajangersimasunik oqaloqateqarluni naliliinermi, atuartut tamarmik mappe-niittunik$(loan,hyph-0|mappeniittunik) gange-nut$(loan,hyph-0|gangenut) tunngasunik suliaqarput. Suliaqarnerinilu oqaloqatigerusutakka aggeqqusarlugit apersorpakka. 
 Naliliineq 
 
@@ -1019,16 +1019,16 @@ Atuartitsinera tamaat isigalugu, atuartut katiterinermiit amerlisaanermut ikaars
 
 
 
-(Bilag)∞(dan) 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 
+{Bilag}∞{dan} 8 – Atuartitsinissamut pilersaarut –Atuarfik Hans Lynge 
 Atuartitsinermut pilersaarut 3.a Hans Lyngep Atuarfia
 
 Praktikkertoq: Nivikkannguaq Mørch Reimer
-Fagi: (Matematik)∞(dan)
+Fagi: {Matematik}∞{dan}
 Atuartut: 17-it
 Lektionit amerlassusaat: 16
 Sammisaq: Katiterinermiit amerlisaanermut ikaarsaarneq, aamma amerlisaaneq.
 
-(Bilag)∞(dan) 8.1 Ilikkagassatut anguniagassat
+{Bilag}∞{dan} 8.1 Ilikkagassatut anguniagassat
 
 Ilisimasassatigut angujumasat
 Kisitsisinik taalluartaagassiat kisitsisillu tulleriinneri ilisimassagaat
@@ -1053,71 +1053,71 @@ Atuarfiup avataani kisitserusussuseqalersinnissaat
 
 Atuartitsissutissaq: Matikkut 4B
 Qupperneq 24-25
-(Tabeltræning
-Kasse)∞(dan) (Inerisaavimmit)
+{Tabeltræning
+Kasse}∞{dan} (Inerisaavimmit)
 Saniatigut atuartitsinermi atortussat
-(Gratisskole.dk)∞(url) – Atortut tigussaasut.
+{Gratisskole.dk}∞{url} – Atortut tigussaasut.
 (Matematrix 2B)
 
-(Multi kopimappe)∞(dan) 2B
+{Multi kopimappe}∞{dan} 2B
 
 
-(Bilag)∞(dan) 8.2 Atuartitsinermit¢(typo,i-u|Atuartitsinermut) pilersaarut 
+{Bilag}∞{dan} 8.2 Atuartitsinermit¢(typo,i-u|Atuartitsinermut) pilersaarut 
 
-(Skema)∞(dan)
-Marlunngorneq/ (Torsdag 08.15-09.45    Hold)∞(dan)
-Sisamanngorneq/ (Torsdag 10.15-11.45  Hold
-Uge)∞(dan) 8
-Marlungorneq/ (Tirsdag 19.februar 2013)∞(dan)
-Misilitsinneq/(Test  starttest)∞(dan)
+{Skema}∞{dan}
+Marlunngorneq/ {Torsdag 08.15-09.45    Hold}∞{dan}
+Sisamanngorneq/ {Torsdag 10.15-11.45  Hold
+Uge}∞{dan} 8
+Marlungorneq/ {Tirsdag 19.februar 2013}∞{dan}
+Misilitsinneq/{Test  starttest}∞{dan}
 
-Sullivinni sulineq / (Arbejde i aktiviteter hvert 15minutter. 
+Sullivinni sulineq / {Arbejde i aktiviteter hvert 15minutter. 
 1. Tabeltræning  Spil 
 2. Centicubes  ”Multi” kopiark side 50
 3. ”Multi” kopiark side 49 
-4. Tabeltræning  makittakkat/puslespil)∞(dan) 
+4. Tabeltræning  makittakkat/puslespil}∞{dan} 
 
 
-Sisamanngorneq/ (Torsdag)∞(dan) 21.februar 2012
-Nigalinngorluni tabelilerineq/ (Tabel leg i rundkreds)∞(dan)
-Siuleriilluni tabelilerineq / (Tabel leg i elevrække)∞(dan) 
-”Matikkut 4B” qupp/(side 24
-Ekstra opgave  kopiside 23)∞(dan)
+Sisamanngorneq/ {Torsdag}∞{dan} 21.februar 2012
+Nigalinngorluni tabelilerineq/ {Tabel leg i rundkreds}∞{dan}
+Siuleriilluni tabelilerineq / {Tabel leg i elevrække}∞{dan} 
+”Matikkut 4B” qupp/{side 24
+Ekstra opgave  kopiside 23}∞{dan}
 
-(Uge)∞(dan) 9
-Marlungorneq/ (Tirsdag)∞(dan) 26.februar 2013
-Sullivinni sulineq / (Arbejde i aktiviteter)∞(dan)
-1. Tabelit qalipallugit / (Male tabelark 
+{Uge}∞{dan} 9
+Marlungorneq/ {Tirsdag}∞{dan} 26.februar 2013
+Sullivinni sulineq / {Arbejde i aktiviteter}∞{dan}
+1. Tabelit qalipallugit / {Male tabelark 
 2. ”Multi” kopiark side 56
 3. Centicubes  ”Multi” kopiark side 55
-4. Dialog matematrix side.46)∞(dan) 
-Sisamanngorneq/ (Torsdag)∞(dan) 28.februar.2013
-Pississaarluni tabelilerineq / (tabel leg i hinkerude)∞(dan)
-Matikkut 4B Qupp/(side)∞(dan) 24 (piareersimanngitsunut)
-Piareersimasunut qupp/(side 25
+4. Dialog matematrix side.46}∞{dan} 
+Sisamanngorneq/ {Torsdag}∞{dan} 28.februar.2013
+Pississaarluni tabelilerineq / {tabel leg i hinkerude}∞{dan}
+Matikkut 4B Qupp/{side}∞{dan} 24 (piareersimanngitsunut)
+Piareersimasunut qupp/{side 25
 Ekstra opgave kopiside 24
-Uge)∞(dan) 10
-Marlungorneq/ (Tirsdag)∞(dan) 5.marts 2013
-Sullivilersoræuni$(typo,æ-l|Sullivilersorluni) sulineq / (Arbejde i aktiviteter 
-1. ”Multi” kopiark side)∞(dan) 52  Pisiniarfik  kisitsissuteeraq, oorit & pisiassat
+Uge}∞{dan} 10
+Marlungorneq/ {Tirsdag}∞{dan} 5.marts 2013
+Sullivilersoræuni$(typo,æ-l|Sullivilersorluni) sulineq / {Arbejde i aktiviteter 
+1. ”Multi” kopiark side}∞{dan} 52  Pisiniarfik  kisitsissuteeraq, oorit & pisiassat
 2. Kisitsisit ikkussortakkat
-3. (Matematrix)∞(dan) qupp.41
-4. (Læringsdialogcenter)∞(dan)  Matematrix qupp.47
+3. {Matematrix}∞{dan} qupp.41
+4. {Læringsdialogcenter}∞{dan}  Matematrix qupp.47
 5. Matikkut-nik inaarsaaneq
 
 12min.$(cmp,1-2|12 min.) Sullivimmi ataatsimi.
 
-Sisamanngorneq/ (Torsdag)∞(dan) 7.marts 2013
-Ilinniartitsisoq powerpoint atorlugu atuartuut¢(typo,0-n|atuartunut) saqqummiissaaq.  4 (regningsarter dividere)∞(dan) minillugu saqqummiissaaq, plus, minus aamma gange ilisarnaatai saqqummiutissuai$(dial,ssa|saqqummiutissavai), gange marlunnik ilisarnaateqartoq paasitissuaa$(dial,ssa|paasitissavaa). Kisitassanillu saqqummiissalluni atuartut peqatigalugit kisitassat.  2+2+2+2+2 assigiinnaraa 2*5  5*2  2 tallimariarlugu.
-(Matematrix kopiark.
-Uge)∞(dan) 11
-Marlungorneq/ (Tirsdag)∞(dan) 12.marts 2013
-(Læringsdialogcenter)∞(dan) tabelinik planchemut allattuineq
-(Rutcherbane
+Sisamanngorneq/ {Torsdag}∞{dan} 7.marts 2013
+Ilinniartitsisoq powerpoint atorlugu atuartuut¢(typo,0-n|atuartunut) saqqummiissaaq.  4 {regningsarter dividere}∞{dan} minillugu saqqummiissaaq, plus, minus aamma gange ilisarnaatai saqqummiutissuai$(dial,ssa|saqqummiutissavai), gange marlunnik ilisarnaateqartoq paasitissuaa$(dial,ssa|paasitissavaa). Kisitassanillu saqqummiissalluni atuartut peqatigalugit kisitassat.  2+2+2+2+2 assigiinnaraa 2*5  5*2  2 tallimariarlugu.
+{Matematrix kopiark.
+Uge}∞{dan} 11
+Marlungorneq/ {Tirsdag}∞{dan} 12.marts 2013
+{Læringsdialogcenter}∞{dan} tabelinik planchemut allattuineq
+{Rutcherbane
 Kopipapir I  gange
-Konkrete matematik.)∞(dan) Kaageeqqat atorlugit kisitsineq. 
-Sisamanngorneq/ (Torsdag)∞(dan) 14.marts2013’
-Misilitsinneq/(Test  afslutningstest  max.30min)∞(dan)
+Konkrete matematik.}∞{dan} Kaageeqqat atorlugit kisitsineq. 
+Sisamanngorneq/ {Torsdag}∞{dan} 14.marts2013’
+Misilitsinneq/{Test  afslutningstest  max.30min}∞{dan}
 Atuartunik aalajangersimasunik oqaloqateqarneq
 Atuartut mappeminniittut suliarissavaat.
 Naliliineq.
@@ -1142,20 +1142,20 @@ Naliliineq.
 
 
 
-(Bilag)∞(dan) 9 Powerpoint
+{Bilag}∞{dan} 9 Powerpoint
 Atuartitsineq aallartimmat saqqummiussaq 7.marts.13 
-Kisitsineq / (Matematik)∞(dan)
+Kisitsineq / {Matematik}∞{dan}
 3.A Atuarfik Hans Lynge 
 
 
-Kisitseriaatsit pingasut ilisarnaataat / (3 regningsarter)∞(dan)
-(Plus)∞(dan) 	   +
-(Minus)∞(dan)	   -
-(Gange)∞(dan)	     x
+Kisitseriaatsit pingasut ilisarnaataat / {3 regningsarter}∞{dan}
+{Plus}∞{dan} 	   +
+{Minus}∞{dan}	   -
+{Gange}∞{dan}	     x
 
 
-Katiterineq / (Plus)∞(dan)
-Amerlisaaneq / (Gange)∞(dan)
+Katiterineq / {Plus}∞{dan}
+Amerlisaaneq / {Gange}∞{dan}
 
 1 2+2+2+2+2=
 2 3+3+3+3=
@@ -1170,15 +1170,15 @@ Amerlisaaneq / (Gange)∞(dan)
 5 11 x 2 = 2 x 11= 
 
 
-(Gangehistorie)∞(dan)
+{Gangehistorie}∞{dan}
 Aina, Inuk aamma Lulu immikkut 5kr.-iuteqarput. 5kr.-iutaat katikkaanni qanoq amerlatigissappat?
 
-(Aina, Inuk og Lulu har 5kr. hver. Hvor meget har de tilsammen?)∞(dan) 
+{Aina, Inuk og Lulu har 5kr. hver. Hvor meget har de tilsammen?}∞{dan} 
 
 
-(Bilag)∞(dan) 9 Powerpoint
+{Bilag}∞{dan} 9 Powerpoint
 
-Amerlisaaneq / (Gange)∞(dan)
+Amerlisaaneq / {Gange}∞{dan}
 =
 
 
@@ -1203,13 +1203,13 @@ Amerlisaaneq / (Gange)∞(dan)
 
 
 Bilag 10 Suleriaatsit nassuiaataat 
-Matematikkimi atuartitsinermi ilikkagassatut pilersaarutit –”Suleriaatsit” (http://www.inerisaavik.gl/fileadmin/user_upload/Inerisaavik/Laereplaner_gr/Yngste_gr/Matematik_yng.pdf)∞(url)  
+Matematikkimi atuartitsinermi ilikkagassatut pilersaarutit –”Suleriaatsit” {http://www.inerisaavik.gl/fileadmin/user_upload/Inerisaavik/Laereplaner_gr/Yngste_gr/Matematik_yng.pdf}∞{url}  
 Suleriaatsit
 Ilikkagaqarniarnermi isiginnittaatsit suleriaatsillu ataqatigiilluinnarput taakkualu nammineerlutik atuartitsinerup tigussaasunngortinneqarnissaanut kaammattuisuupput.
 Suleriaatsit toqqarneqartut, atuartitsissutissallu imarisai, atuartut piginnaassusereriigaannut atuartitsinermillu ingerlatsinermut ataqatigiissinneqassapput, taamaaliornermi angusassat pitsaanerpaat anguneqarsinnaassammata. Tamakkua saniatigut atuartut suleriaatsinik assigiinngitsunik, soorlu nammineq sulinermik, marlukkaarluni sulinermik, eqimattakkaarluni sulinermik kiisalu atuaqatigiiaarluni sulinermik, nalunngisaqassapput.
 Atuaqatigiiaanik atuartitsineq
 Atuaqatigiiaanik atuartitsineq, atuartut tamaasa ataatsikkut assigiimmik paasissutissikkumallugit ilitsersorumallugillu, atorneqassaaq. Atuartitsissutissamut tunngassuteqartunik, nammineerluni, marlukkaarluni imaluunniit eqimattakkaarluni sulilinnginnermi, paasissutissiinissamut immikkorluinnaq tulluuttuuvoq. Atuaqatigiiaanik atuartitsineq, atuartitsissutissamut tunngasunik qulequttanik imaluunniit qulequttanik aalajangersimasunik anguniagaqarluni atuartitsinermik naammassinninnermi inaarutaasunik, allaatigisaasunik, misilittagarilikkanik inernerititanillu, eqqartugaqarluni suliaqarnermi aamma atorneqarsinnaavoq. Atuaqatigiiaanik atuartitsineq aamma atorneqarsinnaavoq atuartitsisup, eqqartukkami aalajangersimasumi annertunerusutigut atuartut nalunngiligaat piginnaaffigiligaallu, nalilerniarpagit.
-(Matematik)∞(dan) – september 2002 A 5
+{Matematik}∞{dan} – september 2002 A 5
 Nammineerluni sulineq
 Naammineerluni suliaqarneq atorneqartarpoq atuartut atuartitsissutissaq pillugu namminersorlutik suliaqarnerminni eqqissillutik sulinissamut, eqqarsarnissamut itinerusumillu samminninnissamut periarfissaqartinniaraanni. Nammineerluni suliaqarneq aamma atorneqarsinnaavoq ilinniartitsisup, suliarisaq pillugu atuartut sunik piginnaasaqalersimanerinik, paasiniaaviginiarpagit.
 Marlukkaarluni sulineq
@@ -1219,7 +1219,7 @@ Eqimattakkaarluni sulinerup ilaatigut atuartut, matematikki pillugu oqaloqatigii
 Ini atuartitsivik
 Pingaaruteqarpoq suleriaatsit assigiinngitsut nikerartillugit atorneqartarnissaat taamaaliornermi atuartunut ilinniartinneqarneq allanngorartumik ingerlasinnaaqqullugu. Ini atuartitsiviusoq, suleriaatsinik assigiinngitsunik ingerlatsinissamut tulluuttunngorlugu, aaqqissuunneqassaaq. Sulliviit, tigussaasunik atortussallit suliassallu pillugit nittartagaaqqanik pillit, inissaqartinneqassapput atuaqatigiiaanillu atuartitsinissamut inissaqassaaq aammalu piffissani allani eqimattakkaarluni sulisinnaanissamut inissaqartitsisoqassaaq.
 Atuartut piffissami aalajangersimasumi suliaannut ersiutaasunut inissaqartitsisoqassaaq aammalu atuartut suliaannik, suliassanullu ilitsersuutinik il.il. saqqummersitsisinnaanissamut, periarfissaqartoqassaaq. Ini atuarfiusoq ingerlaavartumik allanngorartuartariaqarpoq allanngorartuarnermigut, atuartut, piffissami aalajangersimasumi, matematikkimik sakkussatut mernguernartutullu isiginnillutik suliaqarnerannut, takkorliuusiffiusinnaassammat$(der,sandhi|takkorliussiffiusinnaassammat).
-Tamatumunnga ilaatillugu, atuartitsinerup ilaa, inip atuarfiusup avataani ingerlanneqartassaaq taamaaliornermi atuartut erseqqissumik, matimatikki$(loan|matematikki)€(foreign|kisitsineq) atorlugu inuiaqatigiinnut avatangiisiminnut paasinninniarnerminni nalunaarsuisinnaanerminnik, maluginnissinnaanngoqqullugit.
+Tamatumunnga ilaatillugu, atuartitsinerup ilaa, inip atuarfiusup avataani ingerlanneqartassaaq taamaaliornermi atuartut erseqqissumik, matimatikki${loan|matematikki}€{foreign|kisitsineq} atorlugu inuiaqatigiinnut avatangiisiminnut paasinninniarnerminni nalunaarsuisinnaanerminnik, maluginnissinnaanngoqqullugit.
 
 
 
@@ -1232,8 +1232,8 @@ Tamatumunnga ilaatillugu, atuartitsinerup ilaa, inip atuarfiusup avataani ingerl
 
 
 
-(Bilag)∞(dan) 11 Atuartut suliassaat/ Suliaat 
+{Bilag}∞{dan} 11 Atuartut suliassaat/ Suliaat 
 
 
 
-(Bilag 12 CREDE standards –Metode)∞(dan) (–Periuseq)$(cmp,1-2|– Periuseq)
+{Bilag 12 CREDE standards –Metode}∞{dan} {–Periuseq}${cmp,1-2|– Periuseq}

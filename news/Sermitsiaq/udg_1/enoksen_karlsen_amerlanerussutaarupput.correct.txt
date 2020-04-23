@@ -11,7 +11,7 @@ Siumup kinguariarneratigut partit illua-tungiliuttut angisuut marluk Demokratit 
 
 Siumut.
 
-Qinersisartunik isumasiuinerup (takutippaa ullumikkut Inatsisartunut qinersisoqartuuppat Siumut taasisut 30,9 procentianniit 26,2 procentiannut kinguariassagaluarpoq)£(x|takutippaa ullumikkut Inatsisartunut qinersisoqartuuppat Siumut taasisut 30,9 procentianniit 26,2 procentiannut kinguariassagaluartoq). Kinguariarnerup kinguneriinnassanngilaa partip ilaasortaatitaminik marlunnik annaasaqarnera, tamanna peqatigalugu partip oqaluttuarisaanikkut nunami partiitut annersaanini annaangajassagaluarpaa. Tamatuma saniatigut misissuinerup takutippaa Siumup qinersisartut inuusuttut piuminaatsikkai. (Partii qinersisartunik utoqqaanerusunik tapersersorneqarpoq)£(x|Partii qinersisartunit utoqqaanerusunit tapersersorneqarpoq).
+Qinersisartunik isumasiuinerup {takutippaa ullumikkut Inatsisartunut qinersisoqartuuppat Siumut taasisut 30,9 procentianniit 26,2 procentiannut kinguariassagaluarpoq}£{x|takutippaa ullumikkut Inatsisartunut qinersisoqartuuppat Siumut taasisut 30,9 procentianniit 26,2 procentiannut kinguariassagaluartoq}. Kinguariarnerup kinguneriinnassanngilaa partip ilaasortaatitaminik marlunnik annaasaqarnera, tamanna peqatigalugu partip oqaluttuarisaanikkut nunami partiitut annersaanini annaangajassagaluarpaa. Tamatuma saniatigut misissuinerup takutippaa Siumup qinersisartut inuusuttut piuminaatsikkai. {Partii qinersisartunik utoqqaanerusunik tapersersorneqarpoq}£{x|Partii qinersisartunit utoqqaanerusunit tapersersorneqarpoq}.
 
 Atassut.
 
@@ -33,4 +33,4 @@ Aalisartut Piniartut Partiat.
 
 Partii nutaaq Inatsisartuni ilaasortaatitaqalernissaminut suli naammattunik tapersersorteqanngilaq, tapersersortaali amerlerialaarpata tamanna piviusunngorsinnaavoq. Partii manna tikillugu illoqarfinni ataasiakkaani taamaallaat tapersersorteqarpoq, tamakkunanilu pingaartumik Siumup qinersisartuinik arsaarinnissalluni. 
 
-(erik@sermitsiaq.gl.)∞(url)
+{erik@sermitsiaq.gl.}∞{url}
