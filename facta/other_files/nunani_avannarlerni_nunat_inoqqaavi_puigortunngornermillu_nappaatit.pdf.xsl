@@ -170,12 +170,12 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="sma" location="aalkoe_almetjh_jih_demense_noerhtelaantine.pdf"/>
+        <parallel_text xml:lang="sme" location="eamialbmogat_ja_demeansa_davviriikkain.pdf"/>
+        <parallel_text xml:lang="smj" location="iemealmmuga_ja_demaenssa_nuorttarijkajn.pdf"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
-        <parallel_text xml:lang="swe" location=""/>
+        <parallel_text xml:lang="swe" location="urfolk_och_demens_i_norden.pdf"/>
     </xsl:variable>
 
     <!--
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'2-3, 30-34'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
