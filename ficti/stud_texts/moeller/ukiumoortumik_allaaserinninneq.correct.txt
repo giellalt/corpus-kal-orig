@@ -104,7 +104,7 @@ Nioqqutissanik piniartarneq
 {Pisinniarfiit}¢{sub,der,n,2-1|Pisiniarfiit} immikkoortortaanni aqutsisuusut namminneq nioqqutissatik piniartarpaat, kisianni suna tamarmi nioqqutissaq piniarneqarsinnaasanngilaq, tassami Sisimiuni qullersaqarfinni piniartartuusut aalajangertarpaat suut immikkoortortami {piniarneqarsinnaasersut}${typo,s-n|piniarneqarsinnaanersut}. Immikkoortortat assigiinngitsut tamarmik nioqqutissanik immikkoortitikkanik (aalajangersimasunik) piniagassaqartarpoq, assersuutigalugu ilaatigut meqqit aalajangersimalluinnartut.
 
 Ilinniartitaaneq
-Pisiffik ullumikkut {{30-40-ullu}${num,u-0|30-40-llu} {missaani}}£{x|30-40-llu missaanni} Pisiffimmi immikkoortortaanilu sinerissami ilinniartoqarpoq, tassa ilinniartut ilinniarnerminnut atatillugu Pisiffik suliffittut misiliiffigisarpaat. Suliffimmilu misileereeraangamik atuagarsoriartortarput, assersuutigalugu Niuernermut Ilinniarfimmut Nuummiittumut. Atuagarsoriartorneq pisarpoq apeqqutaalluni sumut ilinniartuunerluni.
+Pisiffik ullumikkut {{30-40-ullu}${num,u-0|30-40-llu} missaani}£{x|30-40-llu missaanni} Pisiffimmi immikkoortortaanilu sinerissami ilinniartoqarpoq, tassa ilinniartut ilinniarnerminnut atatillugu Pisiffik suliffittut misiliiffigisarpaat. Suliffimmilu misileereeraangamik atuagarsoriartortarput, assersuutigalugu Niuernermut Ilinniarfimmut Nuummiittumut. Atuagarsoriartorneq pisarpoq apeqqutaalluni sumut ilinniartuunerluni.
  Pisiffiup ilinniartui assigiinngitsunik ilinniagaqarput, ilaatigut pingaarnertut makkuninnga ilinniagaqartuullutik: neqaarnianngorniat, iffiortunngorniat, allaffimmiunngorniat, {pisinniarfimmiunngorniallu}¢{sub,der,n,2-1|pisiniarfimmiunngorniallu}. {Pisinniarfimmiunngorniaraannilu}¢{sub,der,n,2-1|Pisiniarfimmiunngorniaraannilu} immikkut sammisaqarluni ilinniartoqarsinnaavoq, assersuutigalugu inuussutissanut tunngasunik, atisanut tunngasunik, atortussanut tunngasunik, pequtinut tunngasunik aammalu elektroniskinut tunngasunut.
 Neqaarnianngorniaraanni, allaffimmiunngorniaraanni aammalu {pisinniarfimmiunngorniaraanni}¢{sub,der,n,2-1|pisiniarfimmiunngorniaraanni} ilinniarneq ukiunik sisamanik sivisussuseqartarpoq, iffiortunngorniarneq ukiunik pingasunik qaammatinillu arfineq-marlunnik sivisussuseqarpoq.
 Neqaarniatut iffiortutullu qinnuteqarniaraanni piumaasaaqaataapput meeqqat atuarfiannit ukiumoortumik nalilerneqarnermi misilitsinnermilu karakterit agguaqatigiissinneranni (FSA): Qallunaatut 7, Tuluttut 6, {Matematik 7, Fysik/Kemi}∞{dan} 6.
@@ -242,5 +242,3 @@ Apersorneqartoq
 
 Nivikka Berthelsen, {Pisinniarfiunngorniatut}¢{sub,der,n,2-1|Pisiniarfiunngorniatut} {iliniartoq}¢{typo,n,1-2|ilinniartoq}, Pisattani suliffimmik misiliisoq, 24-nik ukiulik.
 Pisiffik qassinik ilinniartoqarnersoq pillugu Nivikka aperivara.
-
-
