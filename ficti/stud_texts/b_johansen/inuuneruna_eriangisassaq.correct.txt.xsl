@@ -18,8 +18,8 @@
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Arnaq'"/>
-    <xsl:variable name="author1_ln" select="'B. Johansen'"/>
+    <xsl:variable name="author1_fn" select="'Arnaq B.'"/>
+    <xsl:variable name="author1_ln" select="'Johansen'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'f'"/>
     <!--
